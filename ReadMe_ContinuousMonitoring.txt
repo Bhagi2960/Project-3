@@ -1,0 +1,42 @@
+This export file contains 2 files with a prefix corresponding to the following data type:
+ContinuousMonitoringStation - Continuous monitoring station data
+ContinuousMonitoringStationPeriod - Monitoring periods for parameters monitored at each station 
+
+The data files are in CSV-delimited format. Each file contains a header row 
+describing the contents of the file.
+The field descriptions for each file are given below.
+*******************************************************************************
+ContinuousMonitoringStation:
+
+	Field	Field Name              Data Type	Description
+       	=====	===========             =========   	============================
+        1 	station_number		Char        	Location-based 18 character alphanumeric code assigned to each well
+        2     	station_name 		Char        	DWR State Well Number
+        3     	station_short_name	Char       	Local well identification/local well name, number, or code
+	4	station_type		Char		The primary monitoring purpose of the station
+	5	cdec_id			Char		The California Data Exchange Center (CDEC) station Identifier
+	6	dwr_gw_site_code	Char		The DWR groundwater site code used in DWR groundwater databases (e.g. CASGEM, SGMA)
+      	7     	latitude               	Number          Latitude (NAD83)
+      	8     	longitude               Number 		Longitude (NAD83)
+        9	positional_accuracy 	Char		Description of the positional accuracy of the lat/long location
+        10	County              	Number		The well's total casing depth or open borehole depth in feet below ground surface
+
+
+ContinuousMonitoringStationPeriods
+
+       Field   	Field Name              Data Type	Description                                   	 
+   	=====   ===========             =========	============================                  	 
+    	1     	station_number		Char        	Location-based 18 character alphanumeric code assigned to each well
+    	2     	datasource		Char		This indicates the datasource within the database. Options are validated and provisional. 
+     	3     	parameter		Char		The code for the environmental parameter monitored
+	4	output_interval		Char		The time aggregation (e.g. RAW, DAYMEAN) for the parameter
+	5	start_time		Char*		Date/time the first measurement was recorded for this parameter/output interval combination. Format:  mm/dd/yyyy hh:mm	
+	6	end_time		Char*		Date/time the last measurement was recorded for this parameter/output interval combination. Format:  mm/dd/yyyy hh:mm
+
+*******************************************************************************
+* character string representing a date / time stamp.
+*******************************************************************************
+If you encounter problems, find any errors, or have any suggestions,
+please contact the WDL administrator at wdlweb@water.ca.gov
+Last updated 11/05/2020
+*******************************************************************************

@@ -1,0 +1,1116 @@
+index,station_number,station_name,station_short_name,station_type,latitude,longitude,lldatum,positional_accuracy,County
+0,A85710,Alder Creek at Glenbrook,Alder Cr @ Glenbrook,Surface Water,38.851583,-122.757778,NAD83,Unknown,Lake
+1,12N04E03N003M,"Am. Basin Well 1  mid-shall scrn 390-400,510-520 ft bgs",AB-1 Middle-Shallow,Groundwater,38.9116,-121.5238,NAD83,"GPS, 10m",Sutter
+2,12N04E03N001M,American Basin Well 1 deep screen 950-970 ft bgs,AB-1 Deep,Groundwater,38.9116,-121.5238,NAD83,"GPS, 10m",Sutter
+3,12N04E03N002M,American Basin Well 1 middle-deep screen 680-700 ft bgs,AB-1 Middle-Deep,Groundwater,38.9116,-121.5238,NAD83,"GPS, 10m",Sutter
+4,12N04E03N004M,American Basin Well 1 shallow screen 170-180 ft bgs,AB-1 Shallow,Groundwater,38.9116,-121.5238,NAD83,"GPS, 10m",Sutter
+5,12N04E26J002M,American Basin Well 2 deep screen 670-690 ft bgs,AB-2 Deep,Groundwater,38.8594,-121.4885,NAD83,"GPS, 10m",Sutter
+6,12N04E26J003M,"American Basin Well 2 mid screen 380-390,480-490 ft bgs",AB-2 Middle,Groundwater,38.8594,-121.4885,NAD83,"GPS, 10m",Sutter
+7,12N04E26J004M,American Basin Well 2 shallow screen 135-145 ft bgs,AB-2 Shallow,Groundwater,38.8594,-121.4885,NAD83,"GPS, 10m",Sutter
+8,10N04E27R002M,"American Basin Well 3 deep scrn 745-755,975-985 ft bgs",AB-3 Deep,Groundwater,38.6869,-121.5221,NAD83,"GPS, 10m",Sacramento
+9,10N04E27R003M,American Basin Well 3 middle screen 470-490 ft bgs,AB-3 Middle,Groundwater,38.6869,-121.5221,NAD83,"GPS, 10m",Sacramento
+10,10N04E27R004M,American Basin Well 3 shallow screen 190-210 ft bgs,AB-3 Shallow,Groundwater,38.6869,-121.5221,NAD83,"GPS, 10m",Sacramento
+11,10N04E31M001M,American Basin Well 4 deep screen 1060-1070 ft bgs,AB-4 Deep,Groundwater,38.6783,-121.5943,NAD83,"GPS, 10m",Sacramento
+12,10N04E31M002M,American Basin Well 4 middle-deep screen 795-815 ft bgs,AB-4 Middle-Deep,Groundwater,38.6783,-121.5943,NAD83,"GPS, 10m",Sacramento
+13,10N04E31M003M,American Basin Well 4 mid-shallow screen 380-400 ft bgs,AB-4 Middle-Shallow,Groundwater,38.6783,-121.5943,NAD83,"GPS, 10m",Sacramento
+14,10N04E31M004M,American Basin Well 4 shallow screen 170-190 ft bgs,AB-4 Shallow,Groundwater,38.6783,-121.5943,NAD83,"GPS, 10m",Sacramento
+15,A07140,American River at Sacramento (H Street),AmericanR. @ Sac Hst,Surface Water,38.56861111,-121.4238889,NAD83,Unknown,Sacramento
+16,A91812,Anderson Cr. near Anderson Springs,Anderson Cr nr Ander,Surface Water,38.774917,-122.755278,NAD83,Unknown,Lake
+17,13N14W11B001M,Anderson Valley Well 1A screen 37-46 ft bgs,AV-1A,Groundwater,39.0047,-123.3685,NAD83,"Survey, 1m",Mendocino
+18,13N14W11B002M,Anderson Valley Well 1B screen 138-167 ft bgs,AV-1B,Groundwater,39.0047,-123.3685,NAD83,"Survey, 1m",Mendocino
+19,A0452050,Antelope Creek near Mouth near Red Bluff,ANTELOPE C NR MO,Water Quality,40.10317,-122.11678,NAD83,Unknown,Tehama
+21,C0760000,Arroyo Pasajero at El Dorado Avenue,EDA,Surface Water,36.166954,-120.209976,NAD83,Unknown,Fresno
+22,Z41385,Arroyo Simi C A New Los Angeles Ave,MPK SRO,Not known,34.27847,-118.87175,NAD83,Unknown,Ventura
+23,A18350,Ash Creek at Adin,Ash Cr @ Adin,Surface Water,41.198118,-120.943375,NAD83,Unknown,Modoc
+25,A4708000,Battle Creek at Bridge,BATTLE C A BR,Water Quality,40.39198,-122.17859,NAD83,Unknown,Shasta
+26,A4730000,Battle Creek South Fork near Mineral,Battle C SF NR Min,Water Quality,40.351389,-121.66361,NAD83,Unknown,Tehama
+27,A47190,"Battle Creek, North Fork, near Manton","Battle Cr, N Fork, n",Surface Water,40.424319,-121.986931,NAD83,Unknown,Tehama
+28,A47115,"Battle Creek, South Fork, near Manton","Battle Cr, S Fork, n",Surface Water,40.405802,-121.980678,NAD83,Unknown,Tehama
+29,Y93050,Bautista CR A Bautista RD,HMT SRO,Surface Water,33.698602,-116.852792,NAD83,Unknown,Riverside
+30,B05525,Bear Creek at Mckee Road near Merced,Bear Cr @ Mckee Road,Surface Water,37.311608,-120.446022,NAD83,1/250000,Merced
+31,B05570,Bear Creek below Bear Reservoir near Planad,Bear Cr blw Bear Res,Surface Water,37.358273,-120.236015,NAD83,1/250000,Merced
+32,B05516,Bear Creek below Eastside Canal,Bear Cr blw Eside Ca,Surface Water,37.2544,-120.7219,NAD83,"GPS, 10m",Merced
+33,A0407000,Bear Creek near Anderson,BEAR C NR ANDERSON,Water Quality,40.44813,-122.19724,NAD83,Unknown,Shasta
+34,A8125000,Bear Creek near Rumsey,Bear Cr. nr Rumsey,Water Quality,38.94425,-122.34505,NAD83,Unknown,Colusa
+35,A81250,Bear Creek near Rumsey,Bear Cr. nr Rumsey,Surface Water,38.945722,-122.346917,NAD83,Unknown,Colusa
+36,A06535,Bear River at Pleasant Grove Road,BearR. @ Pleasnt Grv,Surface Water,38.98333333,-121.4880556,NAD83,Unknown,Sutter
+37,A6501050,Bear River near Mouth,Bear R NR MO,Water Quality,38.95124,-121.5608,NAD83,Unknown,Sutter
+38,13N04E11R005M,Bear River Well 1A shallow screen 28-48 ft bgs,BR-1A shallow,Groundwater,38.9857,-121.488,NAD83,"GPS, 10m",Sutter
+39,13N04E11R002M,Bear River Well 1B middle-shallow screen 78-97 ft bgs,BR-1B middle-shallow,Groundwater,38.9857,-121.488,NAD83,"GPS, 10m",Sutter
+40,13N04E11R003M,Bear River Well 1C middle-deep screen 215-244 ft bgs,BR-1C middle-deep,Groundwater,38.9857,-121.488,NAD83,"GPS, 10m",Sutter
+41,13N04E11R004M,Bear River Well 1D deep screen 320-330 ft bgs,BR-1D deep,Groundwater,38.9857,-121.488,NAD83,"GPS, 10m",Sutter
+42,B9D81651399,Below Base of Toe Drain in Prospect Slough,BL5,Water Quality,38.27446,-121.665652,WGS84,"GPS, 10m",Solano
+43,B9504500,Bethel Island at Piper Slough,Bethel Isl @ Piper,Water Quality,38.0333489,-121.6198269,NAD83,Unknown,San Joaquin
+44,G12200,Bidwell Creek below Mill Creek near Fort Bidwell,Bidwell Cr blw Mill,Surface Water,41.882058,-120.175313,NAD83,Unknown,Modoc
+45,A04250,Big Chico Creek at Chico,Big Chico Cr @ Chico,Surface Water,39.727123,-121.863023,NAD83,Unknown,Butte
+46,A0425000,Big Chico Creek at Chico,Big Chico Cr @ Chico,Water Quality,39.72716,-121.86308,NAD83,Unknown,Butte
+47,A4216000,Big Chico Creek at HWY 32,Big Chico C A HWY32,Water Quality,40.063447,-121.605189,NAD83,Unknown,Tehama
+48,A42105,Big Chico Creek near Chico,Big Chico C nr Chico,Surface Water,39.768417,-121.778604,NAD83,Unknown,Butte
+49,A5547500,Big Grizzly Creek Station 1,Big Grizzly 1,Water Quality,39.866,-120.457,WGS84,Unknown,Plumas
+50,A5547300,Big Grizzly Creek Station 2,Big Grizzly 2,Water Quality,39.86094,-120.45511,WGS84,Unknown,Plumas
+51,A5545010,Big Grizzly Creek Station 3,Big Grizzly 3,Water Quality,39.8193,-120.42409,WGS84,Unknown,Plumas
+52,F21377,Big Springs Creek near Grenada,Big Springs Cr nr Gr,Surface Water,41.599233,-122.431361,WGS84,Unknown,Siskiyou
+53,39N09E29K001M,Big Valley Monitoring Well 1-1 screen 175-265,BVMW 1-1,Groundwater,41.188025,-120.959864,NAD83,"GPS, 10m",Modoc
+54,39N09E29K002M,Big Valley Monitoring Well 1-2 screen 32-52,BVMW 1-2,Groundwater,41.188095,-120.959791,NAD83,"GPS, 10m",Modoc
+55,39N09E29K003M,Big Valley Monitoring Well 1-3 screen 30-50,BVMW 1-3,Groundwater,41.187786,-120.959347,NAD83,"GPS, 10m",Modoc
+56,39N09E29K004M,Big Valley Monitoring Well 1-4 screen 29-49,BVMW 1-4,Groundwater,41.188034,-120.959004,NAD83,"GPS, 10m",Modoc
+57,39N08E23D001M,Big Valley Monitoring Well 2-1 screen 210-250,BVMW 2-1,Groundwater,41.211851,-121.028608,NAD83,"GPS, 10m",Modoc
+58,39N08E23D002M,Big Valley Monitoring Well 2-2 screen 50-70,BVMW 2-2,Groundwater,41.211838,-121.028552,NAD83,"GPS, 10m",Modoc
+59,39N08E23D003M,Big Valley Monitoring Well 2-3 screen 50-70,BVMW 2-3,Groundwater,41.210951,-121.028682,NAD83,"GPS, 10m",Modoc
+60,39N08E15A001M,Big Valley Monitoring Well 2-4 screen 40-60,BVMW 2-4,Groundwater,41.211997,-121.029379,NAD83,"GPS, 10m",Modoc
+61,39N07E18M001M,Big Valley Monitoring Well 3-1 screen 135-185,BVMW 3-1,Groundwater,41.21694,-121.1049557,NAD83,"GPS, 10m",Modoc
+62,39N07E18M002M,Big Valley Monitoring Well 3-2 screen 25-40,BVMW 3-2,Groundwater,41.217008,-121.104957,NAD83,"GPS, 10m",Modoc
+63,39N07E13J001M,Big Valley Monitoring Well 3-3 screen 25-50,BVMW 3-3,Groundwater,41.215719,-121.10509,NAD83,"GPS, 10m",Modoc
+64,39N07E13J002M,Big Valley Monitoring Well 3-4 screen 25-50,BVMW 3-4,Groundwater,41.215723,-121.105409,NAD83,"GPS, 10m",Modoc
+65,39N07E22M002M,Big Valley Monitoring Well 4-1 screen 385-415,BVMW 4-1,Groundwater,41.202928,-121.1587,NAD83,"GPS, 10m",Modoc
+66,39N07E22M005M,Big Valley Monitoring Well 4-2 screen 54-74,BVMW 4-2,Groundwater,41.202935,-121.15879,NAD83,"GPS, 10m",Modoc
+67,39N07E22M004M,Big Valley Monitoring Well 4-3 screen 60-80,BVMW 4-3,Groundwater,41.202991,-121.157859,NAD83,"GPS, 10m",Modoc
+68,39N07E22M003M,Big Valley Monitoring Well 4-4 screen 73-93,BVMW 4-4,Groundwater,41.20354,-121.157843,NAD83,"GPS, 10m",Modoc
+69,38N07E23C001M,Big Valley Monitoring Well 5-1 screen 485-535,BVMW 5-1,Groundwater,41.121876,-121.133878,NAD83,"GPS, 10m",Lassen
+70,38N07E23C002M,Big Valley Monitoring Well 5-2 screen 65-155.5,BVMW 5-2,Groundwater,41.121946,-121.133878,NAD83,"GPS, 10m",Lassen
+71,38N07E23C003M,Big Valley Monitoring Well 5-3 screen 65-85,BVMW 5-3,Groundwater,41.121181,-121.136652,NAD83,"GPS, 10m",Lassen
+72,38N07E23F001M,Big Valley Monitoring Well 5-4 screen 70-90,BVMW 5-4,Groundwater,41.120554,-121.134001,NAD83,"GPS, 10m",Lassen
+73,A02980,Biggs West Gridley Main Drain Canal at Cherokee Canal,Biggs W Gridley Main,Surface Water,39.330093,-121.879716,NAD83,Unknown,Butte
+74,E3365000,Blacklock Wetland Breach - North at Little Honker Bay,Blacklock North,Water Quality,38.18043888,-121.9122667,WGS84,"GPS, 10m",Solano
+75,E33650Q,Blacklock Wetland Breach - North at Little Honker Bay,Blacklock North,Tide Station,38.18043888,-121.9122667,WGS84,"GPS, 10m",Solano
+76,E3365500,Blacklock Wetland Breach - South at Little Honker Bay,Blacklock South,Water Quality,38.17960833,-121.9129028,WGS84,"GPS, 10m",Solano
+77,E33655Q,Blacklock Wetland Breach - South at Little Honker Bay,Blacklock South,Tide Station,38.17960833,-121.9129028,WGS84,"GPS, 10m",Solano
+78,A15145,Burney Creek at Park Avenue at Burney,Burney Cr @ Park Ave,Surface Water,40.876067,-121.671029,NAD83,Unknown,Shasta
+79,B56100,Burns Creek below Burns Dam near Planada,Burns Cr blw Burns D,Surface Water,37.37494,-120.276017,NAD83,1/250000,Merced
+80,20N01E02H003M,BUT_02H003M screen interval 70 to 180 bgs,Screen: 70-180 ft,Groundwater,39.615756,-121.822158,NAD83,Unknown,Butte
+81,22N01W05M001M,BUT_05M001M screen interval unknown,Screen: Unknown,Groundwater,39.787113,-122.010001,NAD83,"GPS, 10m",Butte
+82,19N02E07K002M,BUT_07K002M screen interval 560 to 570 bgs,Screen: 560-570 ft,Groundwater,39.511803,-121.787962,NAD83,Unknown,Butte
+83,19N02E07K003M,BUT_07K003M screen interval 330 to 340 bgs,Screen: 330-340 ft,Groundwater,39.511803,-121.787962,NAD83,Unknown,Butte
+84,19N02E07K004M,BUT_07K004M screen interval 140 to 150 bgs,Screen: 140-150 ft,Groundwater,39.511803,-121.787962,NAD83,Unknown,Butte
+85,21N01E08K002M,BUT_08K002M screen interval unknown,Screen: Unknown,Groundwater,39.6891,-121.8854,NAD83,"GPS, 10m",Butte
+86,20N02E09G001M,BUT_09G001M screen interval 130 to 180 bgs,Screen: 130-180 ft,Groundwater,39.615453,-121.739123,NAD83,Unknown,Butte
+87,23N01W10M001M,BUT_10M001M screen interval 90 to 200 bgs,Screen: 90-200 ft,Groundwater,39.861936,-121.974546,NAD83,Unknown,Butte
+88,21N01W11A001M,"BUT_11A001Mscreen interval 810 to 1,280 ft bgs",Screen: 810-1280 ft,Groundwater,39.69433298,-121.9409595,NAD83,"GPS, 10m",Butte
+89,21N01W11A002M,BUT_11A002M screen interval 125 to 185 ft bgs,Screen: 125-185 ft,Groundwater,39.69433298,-121.9409595,NAD83,"GPS, 10m",Butte
+90,21N01W11A003M,BUT_11A003 screen interval 30 to 50 ft bgs,Screen: 30-50 ft,Groundwater,39.69433298,-121.9409595,NAD83,"Survey, 1m",Butte
+91,21N01E13L002M,BUT_13L002M screen interval 735 to 760 bgs,CSU Chico Farm Deep,Groundwater,39.6734804,-121.8144029,WGS84,"GPS, 10m",Butte
+92,21N01E13L003M,BUT_13L003M SCREEN INTERVAL 540 TO 560 BGS,CSU CHICO FARM INTER,Groundwater,39.6734804,-121.8144029,WGS84,"GPS, 10m",Butte
+93,21N01E13L004M,BUT_13L004M SCREEN INTERVAL 240 TO 340,CSU CHICO FARM SHALL,Groundwater,39.6734804,-121.8144029,WGS84,"GPS, 10m",Butte
+94,19N02E13Q001M,BUT_13Q001M screen interval 130 to 210 bgs,Screen: 130-210 ft,Groundwater,39.494417,-121.693126,NAD83,Unknown,Butte
+95,19N02E13Q002M,BUT_13Q002M screen interval 470 to 480 bgs,Screen: 470-480 ft,Groundwater,39.494409,-121.693199,NAD83,Unknown,Butte
+96,19N02E13Q003M,BUT_13Q003M screen interval 670 to 680 bgs,Screen: 670-680 ft,Groundwater,39.494409,-121.693199,NAD83,Unknown,Butte
+97,20N02E15H001M,BUT_15H001M screen interval 170 to 180 bgs,Screen: 170-180 ft,Groundwater,39.589093,-121.730317,NAD83,Unknown,Butte
+98,20N02E15H002M,BUT_15H002M screen interval 55-65 bgs,Screen: 55-65- ft,Groundwater,39.589151,-121.730404,NAD83,"GPS, 10m",Butte
+99,20N02E16P001M,BUT_16P001M screen interval unknown,Screen: Unknown,Groundwater,39.58305,-121.754047,NAD83,Unknown,Butte
+100,17N01E17F001M,BUT_17F001M screen interval 130 to 150 bgs,Wild Goose Shallow,Groundwater,39.3257,-121.883,WGS84,"GPS, 10m",Butte
+101,17N01E17F002M,BUT_17F002M screen interval 312 to 332 bgs,Wild Goose Inter.,Groundwater,39.32572,-121.882942,NAD83,"GPS, 10m",Butte
+102,17N01E17F003M,But_17F003M screen interval 505 to 535 bgs,Wild Goose Deep,Groundwater,39.32572,-121.882942,NAD83,"GPS, 10m",Butte
+103,21N02E18C001M,But_18C001M screen interval 770-880 ft bgs,Screen: 770-880 ft,Groundwater,39.681959,-121.796978,NAD83,"GPS, 10m",Butte
+104,21N02E18C002M,But_18C002M screen interval 360-620 ft bgs,Screen: 360-620 ft,Groundwater,39.681959,-121.796978,NAD83,"GPS, 10m",Butte
+105,21N02E18C003M,But_18C003M screen interval 130-200 ft bgs,Screen: 130-200 ft,Groundwater,39.681959,-121.796978,NAD83,"GPS, 10m",Butte
+106,20N01E18L001M,BUT_18L001M screen interval 767 to 894 bgs,Screen: 767-894 ft,Groundwater,39.577074,-121.908207,NAD83,Unknown,Butte
+107,20N01E18L002M,BUT_18L002M screen interval 509 to 562 bgs,Screen: 509-562 ft,Groundwater,39.577063,-121.908277,NAD83,Unknown,Butte
+108,20N01E18L003M,BUT_18L003M screen interval 98 to 108 bgs,Screen: 98-108 ft,Groundwater,39.577063,-121.908277,NAD83,Unknown,Butte
+109,17N01E24A002M,BUT_24A002M screen interval 1063 to 1083 bgs,Screen: 1063-1083 ft,Groundwater,39.31695,-121.800448,NAD83,Unknown,Butte
+110,17N01E24A003M,BUT_24A003M screen interval 770 to 790 bgs,Screen: 770-790 ft,Groundwater,39.31695,-121.800448,NAD83,Unknown,Butte
+111,17N01E24A004M,BUT_24A004M screen interval 371 to 440 bgs,Screen: 371-440 ft,Groundwater,39.31695,-121.800448,NAD83,Unknown,Butte
+112,17N01E24A005M,BUT_24A005M screen interval 220 to 240 bgs,Screen: 220-240 ft,Groundwater,39.31695,-121.800448,NAD83,Unknown,Butte
+113,17N01E24A006M,BUT_24A006M screen interval 45 to 55 bgs,Screen: 45-55 ft,Groundwater,39.316922,-121.800448,NAD83,Unknown,Butte
+114,21N01W24B001M,BUT_24B001M screen interval 800 to 820 bgs,Screen: 800-820 ft,Groundwater,39.665515,-121.925035,NAD83,Unknown,Butte
+115,20N02E24C001M,BUT_24C001M screen interval 124 to 134 bgs,Screen: 124-134 ft,Groundwater,39.581199,-121.70257,NAD83,Unknown,Butte
+116,20N02E24C002M,BUT_24C002M screen interval 336 to 377 bgs,Screen: 336-377 ft,Groundwater,39.581199,-121.70257,NAD83,Unknown,Butte
+117,20N02E24C003M,BUT_24C003M screen interval 484 to 505 bgs,Screen: 484-505 ft,Groundwater,39.581199,-121.70257,NAD83,Unknown,Butte
+118,21N02E26E003M,BUT_26E003M screen interval 610 to 620 bgs,Screen: 610-620 ft,Groundwater,39.646778,-121.726248,NAD83,Unknown,Butte
+119,21N02E26E004M,BUT_26E004M screen interval 400 to 484 bgs,Screen: 400-484 ft,Groundwater,39.646778,-121.726248,NAD83,"GPS, 10m",Butte
+120,21N02E26E005M,BUT_26E005M screen interval 265 to 290 bgs,Screen: 265-290 ft,Groundwater,39.646778,-121.726248,NAD83,"GPS, 10m",Butte
+121,21N02E26E006M,BUT_26E006M screened interval 105 to 150,Screen: 105-150 ft,Groundwater,39.646778,-121.726248,NAD83,"GPS, 10m",Butte
+122,21N01E27B001M,BUT_27B001M screen interval unknown,Screen: Unknown,Groundwater,39.652738,-121.852487,NAD83,"GPS, 10m",Butte
+123,21N01E28F001M,BUT_28F001M screen interval unknown,Screen: Unknown,Groundwater,39.648986,-121.872517,NAD83,"GPS, 10m",Butte
+124,22N01E28J001M,BUT_28J001M screen interval 460 t0 559 bgs,Screen: 460-559 ft,Groundwater,39.731678,-121.864995,NAD83,"GPS, 10m",Butte
+125,22N01E28J003M,BUT_28J003M screen interval 200 to 279 bgs,Screen: 200-279 ft,Groundwater,39.731678,-121.864995,WGS84,"GPS, 10m",Butte
+126,22N01E28J005M,BUT_28J005M screen interval 740 to 800 bgs,Screen: 740-800 ft,Groundwater,39.731678,-121.864995,WGS84,"GPS, 10m",Butte
+127,23N01W28M002M,BUT_28M002M screen interval 791 to 1021 bgs,Screen: 791-1021 ft,Groundwater,39.818773,-121.991188,NAD83,Unknown,Butte
+128,23N01W28M003M,BUT_28M003M screen interval 640 to 670 bgs,Screen: 640-670 ft,Groundwater,39.818773,-121.991188,NAD83,Unknown,Butte
+129,23N01W28M004M,BUT_28M004M Screened Interval 120 to 165 feet bgs.,Screen: 120-165 ft,Groundwater,39.818773,-121.991188,NAD83,"GPS, 10m",Butte
+130,23N01W28M005M,BUT_28M005M Screened Interval 30 to 50 feet bgs.,Screen: 30-50 ft,Groundwater,39.818773,-121.991188,NAD83,"GPS, 10m",Butte
+131,22N02E30C002M,BUT_30C002M screen interval 90 to 190 bgs,Screen: 90-190 ft,Groundwater,39.738267,-121.798145,NAD83,Unknown,Butte
+132,21N02E30L001M,BUT_30L001M screen interval unknown,Screen: Unknown,Groundwater,39.642219,-121.799417,NAD83,"GPS, 10m",Butte
+133,20N03E31M001M,BUT_31M001M screen interval 130 to 180 bgs,Screen: 130-180 ft,Groundwater,39.54458,-121.687321,NAD83,Unknown,Butte
+134,23N01W31M001M,BUT_31M001M screened interval 1020 to 1030,Screen: 1020-1030 ft,Groundwater,39.802772,-122.029408,NAD83,Unknown,Butte
+135,23N01W31M002M,BUT_31M002M screen interval 590 to 600 bgs,Screen: 590-600 ft,Groundwater,39.802772,-122.029408,NAD83,"GPS, 10m",Butte
+136,23N01W31M003M,BUT_31M003M screen interval 140 to 201 bgs,Screen: 140-201 ft,Groundwater,39.802772,-122.029408,NAD83,"GPS, 10m",Butte
+137,23N01W31M004M,BUT_31M004M screen interval 65.5 to 75.5 bgs,Screen: 66-76 ft,Groundwater,39.802772,-122.029408,NAD83,"GPS, 10m",Butte
+138,21N03E32B001M,BUT_32B001M screen interval unknown,Screen: Unknown,Groundwater,39.639578,-121.663376,NAD83,"GPS, 10m",Butte
+139,22N01E32E004M,BUT_32E004M screen interval unknown,Screen: Unknown,Groundwater,39.718967,-121.898284,NAD83,Unknown,Butte
+140,20N03E33L001M,BUT_33L001M screen interval unknown,Screen: Unknown,Groundwater,39.543565,-121.646642,NAD83,Unknown,Butte
+141,19N01E35B001M,BUT_35B001M screen interval 85 to 135 bgs,Screen: 85-135 ft,Groundwater,39.463547,-121.827619,NAD83,Unknown,Butte
+142,19N01E35B002M,BUT_35B002M screen interval 930 to 950 bgs,Screen: 930-950 ft,Groundwater,39.463439,-121.82775,NAD83,Unknown,Butte
+143,19N01E35B003M,BUT_35B003M screen interval 490 to 510 bgs,Screen: 490-510 ft,Groundwater,39.463439,-121.82775,NAD83,Unknown,Butte
+144,22N01E35E001M,BUT_35E001M screen interval 101 to 372 bgs,Screen: 101-372 ft,Groundwater,39.718223,-121.843211,NAD83,Unknown,Butte
+145,21N01W35K002M,BUT_35K002M screen interval 75 to 135 bgs,Screen: 75-135 ft,Groundwater,39.6301,-121.9407,NAD83,Unknown,Butte
+146,18N01E35L001M,BUT_35L001M screen interval 816 to 836 bgs,Screen: 816-836 ft,Groundwater,39.367445,-121.827879,NAD83,Unknown,Butte
+147,A4150000,Butte Creek at Butte Meadows,Butte C A Butte Mead,Water Quality,40.068056,-121.573889,NAD83,Unknown,Butte
+148,A0416000,Butte Creek below Western Canal,Butte C blw West Cnl,Water Quality,39.55565,-121.83641,NAD83,Unknown,Butte
+149,A04158,Butte Creek below Western Canal near Nelson,Butte C blw West Cnl,Surface Water,39.555722,-121.836511,NAD83,Unknown,Butte
+150,A04265,Butte Creek near Durham,Butte Cr nr Durham,Surface Water,39.678014,-121.777482,NAD83,Unknown,Butte
+151,A04150,Butte Creek near Gridley,Butte Cr nr Gridley,Surface Water,39.385633,-121.888846,NAD83,Unknown,Butte
+152,A02971,Butte Slough at Mawson Bridge near Colusa,Butte Sl @ Mawson Br,Surface Water,39.187159,-121.908739,NAD83,Unknown,Sutter
+153,A02967,Butte Slough at Outfall Gates near Colusa,Butte Sl @ Outfall G,Surface Water,39.195161,-121.936567,NAD83,Unknown,Colusa
+154,A02972,Butte Slough near Meridian,Butte Sl nr Meridian,Surface Water,39.171474,-121.901649,NAD83,Unknown,Sutter
+155,A0297200,Butte Slough near Meridian,Butte Sl nr Meridian,Water Quality,39.1711,-121.90134,NAD83,Unknown,Sutter
+156,A8205000,"Cache Creek, North Fork, near Lower Lake",CACHE C NF NR LL,Water Quality,39.02356,-122.5726,NAD83,Unknown,Colusa
+157,A65105,Camp Far West Reservoir,Camp Far W Reservoir,Surface Water,39.05222222,-121.3186111,NAD83,Unknown,Placer
+158,C03970,Campbell-Moreland Ditch above Porterville,Campbell-Moreland Di,Surface Water,36.044952,-118.962599,NAD83,1/250000,Tulare
+159,D91010,Carpinteria CR A Calle Ocho Footbridge,CPA SRO,Surface Water,34.392712,119.514275,NAD83,Unknown,Santa Barbara
+160,G15150,Cedar Creek at Cedarville,Cedar Cr @ Cedarvill,Surface Water,41.530318,-120.193332,NAD83,Unknown,Modoc
+161,B9565700,Channel Marker 40 - Port of Stockton,40,Water Quality,37.01629944,-121.00638,NAD83,Unknown,San Joaquin
+162,B9565900,Channel Marker 42 - Port of Stockton,42,Water Quality,37.01614361,-121.0062014,NAD83,Unknown,San Joaquin
+163,B9566100,Channel Marker 43 - Port of Stockton,43,Water Quality,37.01598667,-121.0059803,NAD83,Unknown,San Joaquin
+164,B9566300,Channel Marker 48 - Port of Stockton,48,Water Quality,37.01586,-121.0056328,NAD83,Unknown,San Joaquin
+165,A00910,Cherokee Canal near Gridley,Cherokee Can nr Grid,Surface Water,39.355275,-121.881878,NAD83,Unknown,Butte
+166,A02984,Cherokee Canal near Richvale,Cherokee C. nr Rich.,Surface Water,39.464704,-121.744738,NAD83,Unknown,Butte
+168,B07802,Chowchilla Bypass at Head Below Control Structure,Chowchilla Bypass @,Surface Water,36.774949,-120.286556,NAD83,1/250000,Madera
+169,B64300,Chowchilla River West Fork near Mariposa,Chowchilla W Fork nr,Surface Water,37.420496,-119.87461,NAD83,1/250000,Mariposa
+170,A0079000,Churn Creek near Anderson,CHURN C NR ANDERSON,Water Quality,40.48081,-122.30678,NAD83,Unknown,Shasta
+171,A3601000,Clear Creek near Mouth near Redding,CLEAR C MO REDDING,Water Quality,40.50922,-122.38,NAD83,Unknown,Shasta
+172,B95339,Clifton Court Intake,Clifton Court (CCI),Tide Station,37.83004167,-121.5563333,WGS84,"GPS, 10m",Contra Costa
+173,A81940,Clover Creek Bypass near Upper Lake,Clover Cr Bypass nr,Surface Water,39.177202,-122.899074,NAD83,Unknown,Lake
+174,16N02W05B001M,COL_05B001M screen interval 730 to 750 ft bgs,Screen: 730-750 ft,Groundwater,39.275273,-122.105677,NAD83,Unknown,Colusa
+175,16N02W05B002M,COL_05B002M screen interval 462 to 473 ft bgs,Screen: 462-473 ft,Groundwater,39.275273,-122.105677,NAD83,Unknown,Colusa
+176,16N02W05B003M,COL_05B003M screen interval 174 to 255 bgs,Screen: 174-255 ft,Groundwater,39.275273,-122.105677,NAD83,Unknown,Colusa
+177,16N02W05B004M,COL_05B004M screen interval 461 to 771 bgs,Screen: 461-771 ft,Groundwater,39.275247,-122.105576,NAD83,Unknown,Colusa
+178,17N02W09H002M,COL_09H002M screen interval 779 to 800 bgs,Screen: 779-800 ft,Groundwater,39.341681,-122.083787,NAD83,Unknown,Colusa
+179,17N02W09H003M,COL_09H003M screen interval 460 to 520 bgs,Screen: 460-520 ft,Groundwater,39.341681,-122.083787,NAD83,Unknown,Colusa
+180,17N02W09H004M,COL_09H004M screen interval 250 to 260 bgs,Screen: 250-260 ft,Groundwater,39.341681,-122.083787,NAD83,Unknown,Colusa
+181,17N02W09H005M,COL_09H005M screen interval 440 to 812 bgs,Screen: 440-812 ft,Groundwater,39.341631,-122.083817,NAD83,Unknown,Colusa
+182,17N01W10A001M,COL_10A001M screen interval 770-800 ft bgs,Screen: 770-800 ft,Groundwater,39.343775,-121.951948,NAD83,"GPS, 10m",Colusa
+183,17N01W10A002M,COL_10A002M screen interval 380-425 ft bgs,Screen: 380-425 ft,Groundwater,39.343775,-121.951948,NAD83,"GPS, 10m",Colusa
+184,17N01W10A003M,COL_10A003M screen interval 148 to 158 ft bgs.,Screen: 148-158 ft,Groundwater,39.343775,-121.951948,NAD83,"GPS, 10m",Colusa
+185,17N01W10A004M,COL_10A004M screen interval 88 to 98 ft bgs,Screen: 88-98 ft,Groundwater,39.343775,-121.951948,NAD83,"GPS, 10m",Colusa
+186,16N03W14H003M,Col_14H003M screen interval 1370 to 1420 ft bgs,Screen: 1370-1420 ft,Groundwater,39.241473,-122.153517,NAD83,"GPS, 10m",Colusa
+187,16N03W14H004M,Col_14H004M screen interval 1140 to 1180 ft,Screen: 1140-1180 ft,Groundwater,39.241473,-122.153517,NAD83,"GPS, 10m",Colusa
+188,16N03W14H005M,Col_14H005M screened interval 720 to 730 ft bgs,Screen: 720-730 ft,Groundwater,39.241473,-122.153517,NAD83,"GPS, 10m",Colusa
+189,16N03W14H006M,Col_14H006M screen interval 295 to 305 ft bgs,Screen: 295-305 ft,Groundwater,39.241473,-122.153517,NAD83,"GPS, 10m",Colusa
+190,15N03W20Q001M,Col_20Q001M screen interval 370 to 410 ft bgs,Screen: 370-410 ft,Groundwater,39.132998,-122.216434,NAD83,"GPS, 10m",Colusa
+191,15N03W20Q002M,Col_20Q002M screen interval 130 to 160 ft bgs,Screen: 130-160 ft,Groundwater,39.132998,-122.216434,NAD83,"GPS, 10m",Colusa
+192,15N03W20Q003M,Col_20Q003M screen interval 30 to 80 ft,Screen: 30-80 ft,Groundwater,39.132998,-122.216434,NAD83,"GPS, 10m",Colusa
+193,14N02W22A002M,COL_22A002M screen interval 1020 to 1030 bgs,14N02W22A002M,Groundwater,39.05398,-122.06067,NAD83,"Survey, 1m",Colusa
+194,14N02W22A003M,COL_22A003M screen interval 860 to 930 bgs,14N02W22A003M,Groundwater,39.05398,-122.06067,NAD83,"Survey, 1m",Colusa
+195,14N02W22A004M,COL_22A004M screen interval 580 to 590 bgs,14N02W22A004M,Groundwater,39.05398,-122.06067,NAD83,"Survey, 1m",Colusa
+196,14N02W22A005M,COL_22A005M screen interval 290 to 310 bgs,14N02W22A005M,Groundwater,39.05398,-122.06067,NAD83,"Survey, 1m",Colusa
+197,17N01W27A001M,Col_27A001M screen interval 430 to 510 ft bgs,Screen: 430-510 ft,Groundwater,39.300987,-121.952991,NAD83,"GPS, 10m",Colusa
+198,17N01W27A002M,Col_27A002M screened interval 260 to 270 ft bgs,Screen: 260-270 ft,Groundwater,39.300987,-121.952991,NAD83,"GPS, 10m",Colusa
+199,17N01W27A003M,Col_27A003M screeened interval 160 to 170 ft bgs,Screen: 160-170 ft,Groundwater,39.300987,-121.952991,NAD83,"GPS, 10m",Colusa
+200,14N01E35P001M,COL_35P001M screen interval 985 to 995 ft bgs,Screen: 985-995 ft,Groundwater,39.012435,-121.829041,NAD83,"GPS, 10m",Colusa
+201,14N01E35P002M,COL_35P002M screen interval 545 to 705 ft bgs,Screen: 545-705 ft,Groundwater,39.012435,-121.829041,NAD83,"GPS, 10m",Colusa
+202,14N01E35P003M,COL_35P003M screen interval 135 to 225 ft bgs,Screen: 135-225 ft,Groundwater,39.012435,-121.829041,NAD83,"GPS, 10m",Colusa
+203,14N01E35P004M,COL_35P004M screen interval 50 to 60 ft bgs,Screen: 50-60 ft,Groundwater,39.012435,-121.829041,NAD83,"GPS, 10m",Colusa
+204,A02976,Colusa Basin Drain at Highway 20,CBD at HWY20,Surface Water,39.195512,-122.060517,NAD83,Unknown,Colusa
+205,A02945,Colusa Basin Drain at Knights Landing,Colusa Basin Dr @ KL,Surface Water,38.799468,-121.725202,NAD83,Unknown,Yolo
+206,A0294710,Colusa Basin Drain near Knights Landing,CBD NR KL,Water Quality,38.79943,-121.72508,NAD83,Unknown,Sutter
+207,A02981,Colusa Weir Spill to Butte Basin near Colusa,Colusa Weir Spill,Surface Water,39.23682,-121.99476,NAD83,Unknown,Colusa
+208,09N03E08C004M,Conaway Extensometer screen 535-545 depth 716 ft bgs,CON Ext and P4 deep,Groundwater,38.64643,-121.667384,NAD83,"Survey, 1m",Yolo
+209,09N03E08C001M,Conaway Land Subsidence Well shallow scrn 80-90 ft bgs,CON P1 shallow,Groundwater,38.646422,-121.667487,NAD83,"Survey, 1m",Yolo
+210,09N03E08C003M,Conaway Subsidence Well mid-deep screen 240-280 ft bgs,CON P3 middle-deep,Groundwater,38.646422,-121.667487,NAD83,"Survey, 1m",Yolo
+211,09N03E08C002M,Conaway Subsidence Well mid-shallow scrn 140-150 ft bgs,CON P2 mid-shallow,Groundwater,38.646422,-121.667487,NAD83,"Survey, 1m",Yolo
+212,22N04W01A001M,Corning Basin TSS -Deep screen 680-700,Corning Basin TSS-D,Groundwater,39.79740478,-122.2523029,NAD83,"Survey, 1m",Tehama
+213,22N04W01A002M,Corning Basin TSS- Int Deep screen 520-530,Corning Basin TSS-ID,Groundwater,39.79740478,-122.2523029,NAD83,"Survey, 1m",Tehama
+214,22N04W01A003M,Corning Basin TSS- Int Shallow screen 330-340,Corning Basin TSS-IS,Groundwater,39.79740478,-122.2523029,NAD83,"Survey, 1m",Tehama
+215,22N04W01A004M,Corning Basin TSS- Shallow screen 40-50,Corning Basin TSS-S,Groundwater,39.79740478,-122.2523029,NAD83,"Survey, 1m",Tehama
+216,24N03W15A001M,Corning Yrd CWT- Deep screen 740-750 800-810 840-850,Corning Yrd CWT- D,Groundwater,39.94085,-122.182325,NAD83,"Survey, 1m",Tehama
+217,24N03W15A002M,Corning Yrd CWT- Int Deep scrn 480-490 530-540 590-600,Corning Yrd CWT- ID,Groundwater,39.94085,-122.182325,NAD83,"Survey, 1m",Tehama
+218,24N03W15A003M,Corning Yrd CWT- Int Shallow scrn 260-270,Corning Yrd CWT- IS,Groundwater,39.94085,-122.182325,NAD83,"Survey, 1m",Tehama
+219,24N03W15A004M,Corning Yrd CWT- Shallow 170-190,Corning Yrd CWT- S,Groundwater,39.94085,-122.182325,NAD83,"Survey, 1m",Tehama
+220,B01125,Cosumnes River at McConnell,CosumnesR. @ McConll,Surface Water,38.35805556,-121.3433333,NAD83,Unknown,Sacramento
+221,B13150,"Cosumnes River, Middle Fork, near Somerset",CosmnsR.M.F. nr Smrs,Surface Water,38.625,-120.7025,NAD83,"GPS, 10m",El Dorado
+222,B12100,"Cosumnes River, North Fork, near El Dorado",CosmnsR.N.F. nr ElDr,Surface Water,38.58944444,-120.8438889,NAD83,Unknown,El Dorado
+223,A0352050,Cottonwood Creek at Cottonwood,CTNWOOD C A CTNWD,Water Quality,40.37811,-122.27376,NAD83,Unknown,Tehama
+224,A03545,"Cottonwood Creek, North Fork, near Igo","Cott. Cr, NF, nr Igo",Surface Water,40.442134,-122.550846,NAD83,Unknown,Shasta
+225,A03595,"Cottonwood Creek, South Fork, near Cottonwood","Cott. Cr, SF, nr Cot",Surface Water,40.316212,-122.449318,NAD83,Unknown,Tehama
+226,A4811000,Cow Creek near Millville,COW C NR MILLVILLE,Water Quality,40.50528,-122.23222,NAD83,Unknown,Shasta
+228,C02602,Cross Creek below Lakeland Canal 2,Cross Cr blw Lakelan,Surface Water,36.211617,-119.562625,NAD83,1/250000,Kings
+229,A43100,DCID Deer Creek Diversion near Vina,DCID Deer Cr Div.,Surface Water,40.00956,-121.9573,WGS84,Unknown,Tehama
+230,A4317700,Deer Creek at Deer Station,Deer C A Deer St,Water Quality,40.266573,-121.44373,NAD83,Unknown,Tehama
+231,A43180,Deer Creek at Highway 32,Deer Cr @ Highway 32,Surface Water,40.264691,-121.451055,NAD83,Unknown,Tehama
+232,A0432101,Deer Creek at HWY 99E near Vina,DEER C A HWY 99E,Water Quality,39.9471,-122.05318,NAD83,Unknown,Tehama
+233,A04325,Deer Creek below Stanford/Vina Dam near Vina,Deer Cr blw S/V Dam,Surface Water,39.963616,-122.034362,NAD83,Unknown,Tehama
+234,A4318570,Deer Creek Downstream Confluence,Deer C DS Confluence,Water Quality,40.26911,-121.43318,WGS84,Unknown,Tehama
+235,A4318000,Deer Creek Downstream Confluence-2,Deer C DS Confluenc2,Water Quality,40.2664,-121.43968,WGS84,Unknown,Tehama
+236,A4318580,Deer Creek Upstream Confluence,Deer C US Confluence,Water Quality,40.26926,-121.43185,WGS84,Unknown,Tehama
+237,A4318800,Deer Meadow beaver dam us_Deeer C below Deer Lodge,Deer C BL Deer Lodge,Water Quality,40.26209,-121.40485,WGS84,Unknown,Tehama
+238,A4318605,Deer Meadow Mid_Deer Creek Meadow-7,Deer C Meadow-7,Water Quality,40.26989,-121.41974,WGS84,Unknown,Tehama
+239,17N01W20H001H,DEL_20H001H screen interval 25 to 30 ft bgs,Screen: 25-30 ft,Groundwater,41.852247,-124.201582,WGS84,"Survey, 1m",Del Norte
+240,04N04E01N001M,Delta Island Consumptive Use_New Hope Tract_ ND21B_35ft,ND-21B,Groundwater,38.21975,-121.4975,WGS84,"GPS, 10m",San Joaquin
+241,05N04E36G001M,Delta Island Consumptive Use-McCormackWilliamson-ND13MA,ND13MA,Groundwater,38.241083,-121.489389,WGS84,"GPS, 10m",Sacramento
+242,05N04E36G002M,Delta Island Consumptive Use-McCormackWilliamson-ND13MB,ND13MB,Groundwater,38.241083,-121.489389,WGS84,"GPS, 10m",Sacramento
+243,05N05E30A004M,Delta Island Consumptive Use-McCormack-Williamson-ND2,ND2,Groundwater,38.260361,-121.457639,WGS84,"GPS, 10m",Sacramento
+244,05N05E29D003M,Delta Island Consumptive Use-New Hope Tract-ND1-20ft,ND1,Groundwater,38.25925,-121.466361,WGS84,"GPS, 10m",San Joaquin
+245,04N05E07N002M,Delta Island Consumptive Use-New Hope Tract-ND22-20ft,ND-22,Groundwater,38.20625,-121.47936,WGS84,"GPS, 10m",San Joaquin
+246,05N05E30K001M,Delta Island Consumptive Use-New Hope Tract-ND6MA-20ft,ND-6MA,Groundwater,38.2511944,-121.47419,WGS84,"GPS, 10m",San Joaquin
+247,05N05E30K002M,Delta Island Consumptive Use-New Hope Tract-ND6MB-100ft,ND-6MB,Groundwater,38.2511944,-121.47419,WGS84,"GPS, 10m",San Joaquin
+248,04N04E13A001M,Delta Island Consumptive Use-Staten Island-ND23MA-20ft,ND23MA,Groundwater,38.20469444,-121.4808889,NAD83,"GPS, 10m",San Joaquin
+249,04N04E13A002M,Delta Island Consumptive Use-Staten Island-ND23MB-100ff,ND23MB,Groundwater,38.20469444,-121.4808889,NAD83,"GPS, 10m",San Joaquin
+250,04N04E12M001M,Delta Island Consumptive Use-Staten Island-ND38MA-20ft,ND38MA,Groundwater,38.2108889,-121.5020556,NAD83,"GPS, 10m",San Joaquin
+251,04N04E12M002M,Delta Island Consumptive Use-Staten Island-ND38MB-100ft,ND38MB,Groundwater,38.2108889,-121.5020556,NAD83,"GPS, 10m",San Joaquin
+252,04N04E27F001M,Delta Island Consumptive Use-Staten Island-ND45 25ft,ND45,Groundwater,38.16880456,-121.5287087,NAD83,"GPS, 10m",San Joaquin
+253,04N04E34N001M,Delta Island Consumptive Use-Staten Island-ND48MA 20ft,ND48MA,Groundwater,38.14825,-121.5360833,NAD83,"GPS, 10m",San Joaquin
+254,04N04E34N002M,Delta Island Consumptive Use-Staten Island-ND48MB-100ff,ND48MB,Groundwater,38.14825,-121.5360833,NAD83,"GPS, 10m",San Joaquin
+255,03N04E11L001M,Delta Island Consumptive Use-Staten Island-ND69-25ft,ND69,Groundwater,38.12044444,-121.5094167,NAD83,"GPS, 10m",San Joaquin
+256,04N04E10Q001M,Delta Island Consumptive Use-Tyler Island-ND39MA-20ff,ND39MA,Groundwater,38.20441667,-121.5280556,NAD83,"GPS, 10m",Sacramento
+257,04N04E10Q002M,Delta Island Consumptive Use-Tyler Island-ND39MB-100ff,ND39MB,Groundwater,38.20441667,-121.5280556,NAD83,"GPS, 10m",Sacramento
+258,04N04E02B001M,Delta Island Consumptive Use-Walnut Grove-ND34-20ft,ND34,Groundwater,38.232889,-121.507028,WGS84,"GPS, 10m",Sacramento
+259,B95925,Delta Mendota Canal at Tracy Pumping Plant near Tracy,Delta Mendota Can @,Surface Water,37.796872,-121.585228,NAD83,1/250000,San Joaquin
+260,B00770,Delta Mendota Canal to Mendota Pool,Delta Mendota Can to,Surface Water,36.786616,-120.385447,NAD83,1/250000,Fresno
+261,B95261,Discovery Bay at Discovery Bay Blvd.,Discovery Bay Blvd,Tide Station,37.89277778,-121.6025,NAD83,Unknown,Contra Costa
+262,B95260,Discovery Bay at Indian Slough,Discovery Bay @ Indi,Tide Station,37.917778,-121.5866667,NAD83,Unknown,Contra Costa
+264,G7700000,Donner Creek above Truckee River - WQ,DCAT,Surface Water,39.31672,-120.20146,NAD83,"GPS, 10m",Nevada
+266,B9532500,Doughty Cut above Grant Line Canal - WQ,Doughty Cut abv GLC,Water Quality,37.8147169,-121.4252089,NAD83,"GPS, 10m",San Joaquin
+267,B95325,Doughty Cut above Grantline Canal,Doughty Cut abv Gran,Tide Station,37.81472222,-121.4255556,NAD83,Unknown,San Joaquin
+269,B04130,Dry Creek near Modesto,Dry Cr nr Modesto,Surface Water,37.657,-120.922,NAD83,"GPS, 10m",Stanislaus
+270,12N01W15N007M,DWD Well 1 deep scrn 542-562 ft bgs,DWD MW-1C,Groundwater,38.88471,-121.966457,NAD83,"Survey, 1m",Yolo
+271,12N01W15N006M,DWD Well 1 mid scrn 369-368 ft bgs,DWD MW-1B,Groundwater,38.88471,-121.966457,NAD83,"Survey, 1m",Yolo
+272,12N01W15N005M,DWD Well 1 shallow scrn 146-166 ft bgs,DWD MW-1A,Groundwater,38.88471,-121.966457,NAD83,"Survey, 1m",Yolo
+273,12N01W04M003M,DWD Well 2 deep scrn 565-585 ft bgs,DWD MW-2C,Groundwater,38.916277,-121.987509,NAD83,"Survey, 1m",Yolo
+274,12N01W04M002M,DWD Well 2 Mid scrn 305-325 ft bgs,DWD MW-2B,Groundwater,38.916277,-121.987509,NAD83,"Survey, 1m",Yolo
+275,12N01W04M001M,DWD Well 2 shallow scrn 135-155 ft bgs,DWD MW-2A,Groundwater,38.916277,-121.987509,NAD83,"Survey, 1m",Yolo
+276,F21396,Dwinnell Dam Instream Flow Releases,Dwinnell Instream Q,Surface Water,41.540894,-122.37455,NAD83,Unknown,Siskiyou
+277,F21400,Dwinnell Reservoir near Edgewood,DRE,Surface Water,41.540892,-122.374548,NAD83,Unknown,Siskiyou
+278,F21395,Dwinnell Seepage Weir to Shasta River,Dwinnell Seepage W,Surface Water,41.54199,-122.3768,NAD83,Unknown,Siskiyou
+279,A05910,DWR Sutter Bypass Pumping Plant #1,DWR P.P.#1,Surface Water,38.931945,-121.634079,NAD83,Unknown,Sutter
+280,A05921,DWR Sutter Bypass Pumping Plant #2,DWR P.P.#2,Surface Water,39.026357,-121.72649,NAD83,Unknown,Sutter
+281,A05926,DWR Sutter Bypass Pumping Plant #3,DWR P.P.#3,Surface Water,39.120279,-121.778971,NAD83,Unknown,Sutter
+282,26N02W22E003M,Dye Creek CWT- Deep screen 730-750 ft bgs,Dye Creek CWT- D,Groundwater,40.09211014,-122.085546,NAD83,"Survey, 1m",Tehama
+283,26N02W22E004M,Dye Creek CWT- Int Deep screen: 560-570 620-630 660-670,Dye Creek CWT- ID,Groundwater,40.09211014,-122.085546,NAD83,"Survey, 1m",Tehama
+284,26N02W22E005M,Dye Creek CWT- Int Shallow screen 100-110 190-200,Dye Creek CWT- IS,Groundwater,40.09211014,-122.085546,NAD83,"Survey, 1m",Tehama
+285,26N02W22E006M,Dye Creek CWT- Shallow screen 40-50,Dye Creek CWT- S,Groundwater,40.09211014,-122.085546,NAD83,"Survey, 1m",Tehama
+286,G31139,Eagle Lake near Spaulding (west shore),Eagle Lake nr Spauld,Surface Water,40.667131,-120.789727,NAD83,Unknown,Lassen
+287,G32100,Eagle Lake near Susanville (east shore),Eagle Lake nr Susan,Surface Water,40.613523,-120.727144,NAD83,Unknown,Lassen
+288,B95242,East Contra Costa I.D. Pumping Plant #1,E Contra Costa I.D.,Surface Water,37.91805556,-121.6236111,NAD83,Unknown,Contra Costa
+289,10N08E29J001M,East Natoma Well Screened 55-85 ft bgs,East Natoma Well,Groundwater,38.6895,-121.1169,NAD83,"Survey, 1m",Sacramento
+290,B00416,Eastside Bypass below Mariposa Bypass,Eside Bypass blw Mar,Surface Water,37.205,-120.698,NAD83,"GPS, 10m",Merced
+291,B00435,Eastside Bypass near El Nido,Eside Bypass nr El N,Surface Water,37.1482,-120.60602,NAD83,"GPS, 10m",Merced
+292,F6300901,"Eel R, MF, at Dos Rios",EEL MF DOS RIOS,Water Quality,39.71069,-123.34765,NAD83,Unknown,Humboldt
+293,F6410000,"Eel R, South Fork, near Miranda",EEL SF MIRANDA,Water Quality,40.18227,-123.77593,NAD83,Unknown,Humboldt
+294,F6132950,Eel River above Outlet Creek,EEL AB OUTLET C,Water Quality,39.62608,-123.34467,NAD83,Unknown,Humboldt
+296,A0332000,Elder Creek at Gerber,ELDER C A GERBER,Water Quality,40.05223,-122.14832,NAD83,Unknown,Tehama
+297,G14500,Emerson Creek near Eagleville,Emerson Cr nr Eaglev,Surface Water,41.282232,-120.115195,NAD83,Unknown,Modoc
+298,A1723000,Fall River at Glenburn,FALL R A GLENBURN,Water Quality,41.06242,-121.4811,NAD83,Unknown,Shasta
+299,A17300,Fall River at Spring Creek near Dana,Fall @ Spring Cr nr,Surface Water,41.101573,-121.515314,NAD83,Unknown,Shasta
+300,A17200,Fall River near Dana,Fall nr Dana,Surface Water,41.097429,-121.548137,NAD83,Unknown,Shasta
+301,B9504400,False River near Oakley,False River,Water Quality,38.0554639,-121.6671159,NAD83,"GPS, 10m",Contra Costa
+302,A05102,Feather River at Nicolaus - New (above old station),FeatherR. @ Nic. New,Surface Water,38.89166667,-121.6016667,NAD83,Unknown,Sutter
+303,A05103,Feather River at Nicolaus (Old),FeatherR. @ Nic. Old,Surface Water,38.88972222,-121.6016667,NAD83,Unknown,Sutter
+304,A05054,Feather River at White Oaks Ranch,FeatherR. @ Wht Oaks,Surface Water,38.8775,-121.6130556,NAD83,Unknown,Sutter
+305,A05135,Feather River at Yuba City,FeatherR. @ YubaCity,Surface Water,39.13855556,-121.60625,NAD83,Unknown,Sutter
+306,A05145,Feather River at Yuba Water Treatment Plant,YWP,Surface Water,39.16155,-121.61239,WGS84,Unknown,Sutter
+307,A05120,Feather River below Shanghi Bend,Feather blw Shanghi,Surface Water,38.04546,-121.6104,NAD83,1/250000,Sutter
+308,A05173,Feather River below Thermalito Afterbay,FeatherR. blw Thrmlt,Surface Water,39.4525,-121.6425,NAD83,Unknown,Butte
+309,A05165,Feather River near Gridley,Feather R nr Gridley,Surface Water,39.36666667,-121.6475,NAD83,Unknown,Butte
+310,A5101050,Feather River near Verona,Feather R NR Verona,Water Quality,38.79109,-121.62609,NAD83,Unknown,Sutter
+311,14N03E23D003M,Feather River Well 1A shallow screen 40-60 ft bgs,FR-1A Shallow,Groundwater,39.045823,-121.611448,NAD83,"Survey, 1m",Sutter
+312,14N03E23D004M,Feather River Well 1B mid-shallow screen 235-255 ft bgs,FR-1B Middle Shallow,Groundwater,39.045823,-121.611448,NAD83,"Survey, 1m",Sutter
+313,14N03E23D005M,Feather River Well 1C middle-deep screen 664-684 ft bgs,FR-1C Middle Deep,Groundwater,39.045823,-121.611448,NAD83,"Survey, 1m",Sutter
+314,14N03E23D006M,Feather River Well 1D deep screen 996-1016 ft bgs,FR-1D Deep,Groundwater,39.045823,-121.611448,NAD83,"Survey, 1m",Sutter
+315,A55420,"Feather River, Middle Fork, Near Portola",Feather R MF nr Port,Surface Water,39.8188,-120.4448,NAD83,Unknown,Plumas
+316,A52260,"Feather River, West Branch, near Magalia",Feather R WB nr Mag.,Surface Water,39.813983,-121.571181,NAD83,Unknown,Butte
+317,A5260000,"Feather River,West Branch, near Paradise",Fea R WB nr Paradise,Water Quality,39.7873,-121.56261,NAD83,Unknown,Butte
+318,B9505000,Fisherman's Cut,FSH,Water Quality,38.06782222,-121.6488389,WGS84,Unknown,Contra Costa
+319,B95050Q,Fisherman's Cut,Fisherman's Cut,Tide Station,38.0656,-121.6479,WGS84,"GPS, 10m",Contra Costa
+320,13N01E24G002M,Flood Monitoring Well 1A deep screen 240-300 ft bgs,Flood MW-1A deep,Groundwater,38.9605,-121.8102,NAD83,"GPS, 10m",Sutter
+321,13N01E24G003M,Flood Monitoring Well 1B middle screen 130-160 ft bgs,Flood MW-1B middle,Groundwater,38.9605,-121.8102,NAD83,"GPS, 10m",Sutter
+322,13N01E24G004M,Flood Monitoring Well 1C shallow screen 70-90 ft bgs,Flood MW-1C shallow,Groundwater,38.9605,-121.8102,NAD83,"GPS, 10m",Sutter
+323,F25650,French Creek at Highway 3 near Callahan,FCC,Surface Water,41.411746,-122.858823,NAD83,Unknown,Siskiyou
+324,A00647,Freshwater Creek at Leesville Road near Williams,Freshwater Cr @ Lees,Surface Water,39.129339,-122.30993,NAD83,Unknown,Colusa
+325,B06725,Fresno River 8 Miles West of Madera,Fresno 8 Miles W of,Surface Water,36.975224,-120.202113,NAD83,1/250000,Madera
+326,B67325,"Fresno River, Lewis Fork, near Oakhurst","Fresno River, Lewis",Surface Water,37.34494,-119.63928,NAD83,"GPS, 10m",Madera
+327,C03913,Friant Kern Canal at Porter Slough near Porterville,Friant Kern Can @ Po,Surface Water,36.083285,-119.080937,NAD83,1/250000,Tulare
+328,C03923,Friant Kern Canal to Tule River near Porterville,Friant Kern Can to T,Surface Water,36.073285,-119.089271,NAD83,1/250000,Tulare
+329,B94100,Georgiana Slough at Mokelumne River,Georgiana Sl @ Mokel,Tide Station,38.1295,-121.5838889,NAD83,Unknown,Sacramento
+330,21N03W31R002M,GLE_ 31R002M screen interval 280 to 285 bgs,Screen: Unknown,Groundwater,39.624656,-122.234998,NAD83,Unknown,Glenn
+331,21N03W31R003M,GLE_ 31R003M screen interval 519 to 525 bgs,Screen: Unknown,Groundwater,39.624656,-122.234998,NAD83,Unknown,Glenn
+332,21N03W31R004M,GLE_ 31R004M screen interval unknown,Screen: Unknown,Groundwater,39.624656,-122.234998,NAD83,Unknown,Glenn
+333,21N03W31R005M,GLE_ 31R005M screen interval 99 to 105 bgs,Screen: Unknown,Groundwater,39.624656,-122.234998,NAD83,Unknown,Glenn
+334,21N02W01F001M,GLE_01F001M screen interval 547 to 557 bgs,Screen: 547-557 ft,Groundwater,39.704336,-122.038614,NAD83,Unknown,Glenn
+335,21N02W01F002M,GLE_01F002M screen interval 297 to 307 bgs,Screen: 297-307 ft,Groundwater,39.704336,-122.038614,NAD83,Unknown,Glenn
+336,21N02W01F003M,GLE_01F003M screen interval 109 to 119 bgs,Screen: 109-119 ft,Groundwater,39.704328,-122.038559,NAD83,Unknown,Glenn
+337,21N02W01F004M,GLE_01F004M screen interval 55 to 65 bgs,Screen: 55-65 ft,Groundwater,39.704328,-122.038559,NAD83,Unknown,Glenn
+338,22N02W01N001M,GLE_01N001M screen interval 812 to 1050 bgs,Screen: 812-1050 ft,Groundwater,39.783564,-122.046138,NAD83,Unknown,Glenn
+339,22N02W01N002M,GLE_01N002M screen interval 698 to 708 bgs,Screen: 698-708 ft,Groundwater,39.783564,-122.046138,NAD83,Unknown,Glenn
+340,22N02W01N003M,GLE_01N003M screen interval 209 to 367 bgs,Screen: 209-367 ft,Groundwater,39.783564,-122.046138,NAD83,Unknown,Glenn
+341,22N02W01N004M,GLE_01N004M screen interval 70 to 80 bgs,Screen: 70-80 ft,Groundwater,39.783564,-122.046138,NAD83,Unknown,Glenn
+342,22N03W01R001M,GLE_01R001M screen interval 470 to 480 bgs,Screen: 470-480 ft,Groundwater,39.78662,-122.145489,NAD83,Unknown,Glenn
+343,21N03W01R002M,GLE_01R002M screen interval 235 to 245 bgs,Screen: 235-245 ft,Groundwater,39.6963,-122.1406,NAD83,Unknown,Glenn
+344,22N03W01R002M,GLE_01R002M screen interval 270 to 280 bgs,Screen: 270-280 ft,Groundwater,39.78662,-122.145489,NAD83,Unknown,Glenn
+345,21N03W01R003M,GLE_01R003M screen interval 590 to 1310 bgs,Screen: 590-1310 ft,Groundwater,39.696348,-122.140542,NAD83,Unknown,Glenn
+346,22N03W01R003M,GLE_01R003M screen interval 60 to 70 bgs,Screen: 60-70 ft,Groundwater,39.78662,-122.145489,NAD83,Unknown,Glenn
+347,18N01W02E001M,GLE_02E001M screen interval 719 to 729 bgs,Screen: 719-729 ft,Groundwater,39.4419,-121.9433,NAD83,Unknown,Glenn
+348,18N01W02E002M,GLE_02E002M screen interval 450 to 460 bgs,Screen: 450-460 ft,Groundwater,39.4419,-121.9433,NAD83,Unknown,Glenn
+349,18N01W02E003M,GLE_02E003M screen interval 110 to 120 bgs,Screen: 110-120 ft,Groundwater,39.4419,-121.9433,NAD83,Unknown,Glenn
+350,22N02W02J001M,GLE_02J001M screen interval 800 to 1300 bgs,Screen: 800-1300 ft,Groundwater,39.787447,-122.049408,NAD83,Unknown,Glenn
+351,21N02W04G002M,GLE_04G002M screen interval 928 to 938 bgs,Screen: 928-938 ft,Groundwater,39.703325,-122.091003,NAD83,Unknown,Glenn
+352,21N02W04G003M,GLE_04G003M screen interval 673 to 703 bgs,Screen: 673-703 ft,Groundwater,39.703325,-122.091003,NAD83,Unknown,Glenn
+353,21N02W04G004M,GLE_04G004M screen interval 269 to 279 bgs,Screen: 269-279 ft,Groundwater,39.703325,-122.091003,NAD83,Unknown,Glenn
+354,21N02W04G005M,GLE_04G005M screen interval 57 to 67 bgs,Screen: 57-67 ft,Groundwater,39.703325,-122.091003,NAD83,Unknown,Glenn
+355,21N01W05D001M,GLE_05D001M screen interval 783 to 1227 bgs,Screen: 783-1227 ft,Groundwater,39.709957,-122.008121,WGS84,"GPS, 10m",Glenn
+356,21N02W05M001M,GLE_05M001M screen interval 442 to 452 bgs,Screen: 442-452 ft,Groundwater,39.700787,-122.120764,NAD83,Unknown,Glenn
+357,21N02W05M002M,GLE_05M002M screen interval 122 to 132 bgs,Screen: 122-132 ft,Groundwater,39.700787,-122.120764,NAD83,Unknown,Glenn
+358,21N02W05M003M,GLE_05M003M screen interval 44 to 54 bgs,Screen: 44-54 ft,Groundwater,39.700787,-122.120764,NAD83,Unknown,Glenn
+359,21N02W05M004M,GLE_05M004M screen interval 36 to 56 bgs,Screen: 36-56 ft,Groundwater,39.700787,-122.120764,NAD83,Unknown,Glenn
+360,21N02W05M005M,GLE_05M005M screen interval 30 to 35 bgs,Screen: 30-35 ft,Groundwater,39.700787,-122.120764,NAD83,Unknown,Glenn
+361,20N03W07E001M,GLE_07E001M screen interval 984 to 1014 bgs,Screen: 984-1014 ft,Groundwater,39.604892,-122.249484,NAD83,Unknown,Glenn
+362,20N03W07E002M,GLE_07E002M screen interval 616 to 636 bgs,Screen: 616-636 ft,Groundwater,39.604892,-122.249484,NAD83,Unknown,Glenn
+363,20N03W07E003M,GLE_07E003M screen interval 380 to 485 bgs,Screen: 380-485 ft,Groundwater,39.604892,-122.249484,NAD83,Unknown,Glenn
+364,20N03W07E004M,GLE_07E004M screen interval 118 to 128 bgs,Screen: 118-128 ft,Groundwater,39.604892,-122.249484,NAD83,Unknown,Glenn
+365,19N02W08Q001M,GLE_08Q001M screen interval 856 to 876 bgs,Screen: 856-876 ft,Groundwater,39.5157,-122.112233,NAD83,Unknown,Glenn
+366,19N02W08Q002M,GLE_08Q002M screen interval 208 to 218 bgs,Screen: 208-218 ft,Groundwater,39.5157,-122.112233,NAD83,Unknown,Glenn
+367,19N02W08Q003M,GLE_08Q003M screen interval 77 to 87 bgs,Screen: 77-87 ft,Groundwater,39.5157,-122.112233,NAD83,Unknown,Glenn
+368,20N02W11A001M,GLE_11A001M screen interval 70 to 90 bgs,Screen: 70-90 ft,Groundwater,39.608717,-122.045553,NAD83,Unknown,Glenn
+369,20N02W11A002M,GLE_11A002M screen interval 140 to 160 bgs,Screen: 140-160 ft,Groundwater,39.608717,-122.045553,NAD83,Unknown,Glenn
+370,20N02W11A003M,GLE_11A003M screen interval 490 to 510 bgs,Screen: 490-510 ft,Groundwater,39.608717,-122.045553,NAD83,Unknown,Glenn
+371,21N04W12A001M,GLE_12A001M screen interval 595 to 605 bgs,Screen: 595-605 ft,Groundwater,39.697104,-122.253457,NAD83,Unknown,Glenn
+372,21N04W12A002M,GLE_12A002M screen interval 247 to 257 bgs,Screen: 247-257 ft,Groundwater,39.697104,-122.253457,NAD83,Unknown,Glenn
+373,21N04W12A004M,GLE_12A004M screen interval 520 to 640 bgs,Screen: 520-640 ft,Groundwater,39.697092,-122.253305,NAD83,Unknown,Glenn
+374,19N04W14M002M,GLE_14M002M screen interval 45 to 55 bgs,Screen: 45-55 ft,Groundwater,39.502267,-122.283723,NAD83,Unknown,Glenn
+375,22N02W15C002M,GLE_15C002M screen interval 759 to 780 bgs,Screen: 759-780 ft,Groundwater,39.763431,-122.077156,NAD83,Unknown,Glenn
+376,22N02W15C003M,GLE_15C003M screen interval 370 to 380 bgs,Screen: 370-380 ft,Groundwater,39.763459,-122.077139,NAD83,Unknown,Glenn
+377,22N02W15C004M,GLE_15C004M screen interval 210 to 220 bgs,Screen: 210-220 ft,Groundwater,39.763459,-122.077139,NAD83,Unknown,Glenn
+378,22N02W15C005M,GLE_15C005M screen interval 60 to 70 bgs,Screen: 60-70 ft,Groundwater,39.763459,-122.077139,NAD83,Unknown,Glenn
+379,22N02W18C001M,GLE_18C001M screen interval 989 to 1029 bgs,Screen: 989-1029 ft,Groundwater,39.76820217,-122.1364444,NAD83,Unknown,Glenn
+380,22N02W18C002M,GLE_18C002M screen interval 414 to 434 bgs,Screen: 414-434 ft,Groundwater,39.76820217,-122.1364444,NAD83,Unknown,Glenn
+381,22N02W18C003M,GLE_18C003M screen interval 165 to 175 bgs,Screen: 165-175 ft,Groundwater,39.76820217,-122.1364444,NAD83,Unknown,Glenn
+382,22N02W18C004M,GLE_18C004M screen interval 55 to 65 bgs,Screen: 55-65 ft,Groundwater,39.768197,-122.13642,NAD83,Unknown,Glenn
+383,18N02W18D001M,GLE_18D001M screen interval 975 to 985 bgs,Screen: 975-985 ft,Groundwater,39.420773,-122.134145,NAD83,Unknown,Glenn
+384,18N02W18D002M,GLE_18D002M screen interval 620 to 680 bgs,Screen: 620-680 ft,Groundwater,39.420773,-122.134145,NAD83,Unknown,Glenn
+385,18N02W18D003M,GLE_18D003M screen interval 510 to 520 bgs,Screen: 510-520 ft,Groundwater,39.420773,-122.134145,NAD83,Unknown,Glenn
+386,18N02W18D004M,GLE_18D004M screen interval 246 to 256 bgs,Screen: 246-256 ft,Groundwater,39.420773,-122.134145,NAD83,Unknown,Glenn
+387,20N02W18R005M,GLE_18R005M screen interval 920 to 980 bgs,Screen: 920-980 ft,Groundwater,39.585509,-122.116998,NAD83,Unknown,Glenn
+388,20N02W18R006M,GLE_18R006M screen interval 635 to 655 bgs,Screen: 635-655 ft,Groundwater,39.585509,-122.116998,NAD83,Unknown,Glenn
+389,20N02W18R007M,GLE_18R007M screen interval 450 to 526 bgs,Screen: 450-526 ft,Groundwater,39.585509,-122.116998,NAD83,Unknown,Glenn
+390,20N02W18R008M,GLE_18R008M screen interval 140 to 180 bgs,Screen: 140-180 ft,Groundwater,39.585509,-122.116998,NAD83,Unknown,Glenn
+391,22N01W19K005M,GLE_19K005M Screen Interval 920 to 1230 bgs,Screen: 920-1230 ft,Groundwater,39.747504,-122.022112,WGS84,"GPS, 10m",Glenn
+392,19N01W22D004M,GLE_22D004M screen interval 780 to 790 bgs,Screen: 780-790 ft,Groundwater,39.49270183,-121.9648084,NAD83,Unknown,Glenn
+393,19N01W22D005M,GLE_22D005M screen interval 520 to 530 bgs,Screen: 520-530 ft,Groundwater,39.49270183,-121.9648084,NAD83,Unknown,Glenn
+394,19N01W22D006M,GLE_22D006M screen interval 340 to 350 bgs,Screen: 340-350 ft,Groundwater,39.49270183,-121.9648084,NAD83,Unknown,Glenn
+395,19N01W22D007M,GLE_22D007M screen interval 80 to 90 bgs,Screen: 80-90 ft,Groundwater,39.49270183,-121.9648084,NAD83,Unknown,Glenn
+396,21N03W23C001M,GLE_23C001M screen interval 55 to 75 bgs,Screen: 55-75 ft,Groundwater,39.66763156,-122.1697472,NAD83,Unknown,Glenn
+397,21N03W23D001M,GLE_23D001M screen interval 363 to 373 bgs,Screen: 363-373 ft,Groundwater,39.667156,-122.177342,NAD83,Unknown,Glenn
+398,21N03W23D002M,GLE_23D002M screen interval 142 to 170 bgs,Screen: 142-170 ft,Groundwater,39.667156,-122.177342,NAD83,Unknown,Glenn
+399,21N03W23D003M,GLE_23D003M screen interval 42 to 72 bgs,Screen: 42-72 ft,Groundwater,39.667156,-122.177342,NAD83,Unknown,Glenn
+400,21N03W23D004M,GLE_23D004M screen interval 48 to 68 bgs,Screen: 48-68 ft,Groundwater,39.667503,-122.176598,NAD83,Unknown,Glenn
+401,21N03W23D005M,GLE_23D005M screen interval 46 to 66 bgs,Screen: 46-66 ft,Groundwater,39.66697,-122.176876,NAD83,Unknown,Glenn
+402,22N03W24E001M,GLE_24E001M screen interval 800 to 820 bgs,Screen: 800-820 ft,Groundwater,39.747339,-122.155887,NAD83,Unknown,Glenn
+403,22N03W24E002M,GLE_24E002M screen interval 128 to 178 bgs,Screen: 128-178 ft,Groundwater,39.747339,-122.155887,NAD83,Unknown,Glenn
+404,22N03W24E003M,GLE_24E003M screen interval 49 to 59 bgs,Screen: 49-59 ft,Groundwater,39.747339,-122.155887,NAD83,Unknown,Glenn
+405,20N02W25F001M,GLE_25F001M screen interval 940 to 960 bgs,Screen: 940-960 ft,Groundwater,39.55949358,-122.0326337,NAD83,Unknown,Glenn
+406,20N02W25F002M,GLE_25F002M screen interval 420 to 470 bgs,Screen: 420-470 ft,Groundwater,39.559495,-122.032609,NAD83,Unknown,Glenn
+407,20N02W25F003M,GLE_25F003M screen interval 190 to 260 bgs,Screen: 190-260 ft,Groundwater,39.559495,-122.032609,NAD83,Unknown,Glenn
+408,20N02W25F004M,GLE_25F004M screen interval 55 to 65 bgs,Screen: 55-65 ft,Groundwater,39.559495,-122.032609,NAD83,Unknown,Glenn
+409,21N02W25L001M,GLE_25L001M screen interval unknown,Screen: Unknown,Groundwater,39.6423,-122.0366,NAD83,Unknown,Glenn
+410,22N04W27Q001M,GLE_27Q001M screen interval 244 to 350 bgs,LL Well 3,Groundwater,39.726584,-122.296304,NAD83,"GPS, 10m",Glenn
+411,22N03W28P001M,GLE_28P001M screen interval 390 to 400 bgs,Screen: 390-400 ft,Groundwater,39.727914,-122.207145,NAD83,Unknown,Glenn
+412,22N03W28P002M,GLE_28P002M screen interval 270 to 290 bgs,Screen: 270-290 ft,Groundwater,39.727914,-122.207145,NAD83,Unknown,Glenn
+413,22N03W28P003M,GLE_28P003M screen interval 30 to 50 bgs,Screen: 30-50 ft,Groundwater,39.727914,-122.207145,NAD83,Unknown,Glenn
+414,22N03W28P004M,GLE_28P004M screen interval 32 to 52 bgs,Screen: 32-52 ft,Groundwater,39.727914,-122.207145,NAD83,Unknown,Glenn
+415,22N02W30H002M,GLE_30H002M screen interval 850 to 880 bgs,Screen: 850-880 ft,Groundwater,39.73245,-122.123331,NAD83,Unknown,Glenn
+416,22N02W30H003M,GLE_30H003M screen interval 130 to 260 bgs,Screen: 130-260 ft,Groundwater,39.73245,-122.123331,NAD83,Unknown,Glenn
+417,22N02W30H004M,GLE_30H004M screen interval 45 to 70 bgs,Screen: 45-70 ft,Groundwater,39.73245,-122.123331,NAD83,Unknown,Glenn
+418,22N02W30R001M,GLE_30R001M Screen Interval 710 to 916 bgs,Screen: 710-916 ft,Groundwater,39.725267,-122.128059,WGS84,"GPS, 10m",Glenn
+419,21N01W31H001M,GLE_31H001M Screen Interval 800 to 1240 bgs,Screen: 800-1240 ft,Groundwater,39.682255,-122.011685,WGS84,"GPS, 10m",Glenn
+420,19N01W32E003M,GLE_32E003M screen interval 45 to 310 bgs,Screen: 45-310 ft,Groundwater,39.457237,-122.001585,NAD83,Unknown,Glenn
+421,20N02W33B001M,GLE_33B001M screen interval 100 to 320 bgs,Screen: 100-320 ft,Groundwater,39.549598,-122.08387,NAD83,Unknown,Glenn
+422,19N02W33K001M,GLE_33K001M screen interval 160 to 260 bgs,Screen: 160-260 ft,Groundwater,39.455965,-122.085433,NAD83,Unknown,Glenn
+423,21N02W33M001M,GLE_33M001M screen interval 869 to 890 bgs,Screen: 869-890 ft,Groundwater,39.629906,-122.100662,NAD83,Unknown,Glenn
+424,21N02W33M002M,GLE_33M002M screen interval 540 to 550 bgs,Screen: 540-550 ft,Groundwater,39.629906,-122.100662,NAD83,Unknown,Glenn
+425,21N02W33M003M,GLE_33M003M screen interval 140 to 150 bgs,Screen: 140-150 ft,Groundwater,39.629906,-122.100662,NAD83,Unknown,Glenn
+426,21N03W34Q002M,GLE_34Q002M screen interval 929 to 959 bgs,Screen: 929-959 ft,Groundwater,39.624339,-122.187178,NAD83,Unknown,Glenn
+427,21N03W34Q003M,GLE_34Q003M screen interval 620 to 690 bgs,Screen: 620-690 ft,Groundwater,39.624339,-122.187178,NAD83,Unknown,Glenn
+428,21N03W34Q004M,GLE_34Q004M screen interval 58 to 68 bgs,Screen: 58-68 ft,Groundwater,39.624339,-122.187178,NAD83,Unknown,Glenn
+429,21N02W36A001M,GLE_36A001M screen interval 190 to 600 bgs,Screen: 190-600 ft,Groundwater,39.635511,-122.033062,NAD83,Unknown,Glenn
+430,21N02W36A002M,GLE_36A002M screen interval 120 to 140 bgs,Screen: 120-140 ft,Groundwater,39.635511,-122.033062,NAD83,Unknown,Glenn
+431,09N07E02G001M,Glenn Drive Well Screen 70-100 ft bgs,Glenn Drive Well,Groundwater,38.665,-121.1776,NAD83,"Survey, 1m",Sacramento
+432,22N01W29N001M,Glenn_29N001M screen interval 859-1135 ft bgs.,Screen: 859-1135 ft,Groundwater,39.72627,-122.010524,NAD83,"GPS, 10m",Glenn
+433,22N01W29N002M,Glenn_29N002M Screened Interval 549-641 ft bgs,Screen: 549-641 ft,Groundwater,39.72627,-122.010524,NAD83,"GPS, 10m",Glenn
+434,22N01W29N004M,Glenn_29N004M Screened Interval 99-109 ft bgs,Screen: 99-109 ft,Groundwater,39.72627,-122.010524,NAD83,"GPS, 10m",Glenn
+435,22N01W29N003M,Glenn_29Q003M Screened Interval 189-380 ft bgs,Screen: 189-380 ft,Groundwater,39.72627,-122.010524,NAD83,"GPS, 10m",Glenn
+436,21N04W12A003M,Gln_12A003M screen interval 955-1050 ft bgs,Screen: 955-1050 ft,Groundwater,39.697092,-122.253305,NAD83,"GPS, 10m",Glenn
+437,E33510,Goodyear Slough at Lake Herman Road,Goodyear Sl @ Lake H,Surface Water,38.07972222,-122.1044444,NAD27,Unknown,Unknown
+438,B9532000,Grant Line Canal - East - WQ,GLC East (GLE),Water Quality,37.8202449,-121.4348479,NAD83,"GPS, 10m",San Joaquin
+439,B95310,Grant Line Canal above Barrier,GLC abv Barrier,Surface Water,37.82,-121.44722,NAD83,"Survey, 1m",San Joaquin
+440,B9531000,Grant Line Canal above Barrier - WQ,GLC abv Barrier,Water Quality,37.820194,-121.445028,NAD83,Unknown,San Joaquin
+441,B9530000,Grant Line Canal at Tracy Blvd Bridge - WQ,GLC at Tracy Blvd,Water Quality,37.8201059,-121.4498199,NAD83,"GPS, 10m",San Joaquin
+442,01S04E28F003M,Grant Line Canal Barrier well 1 screen 15-25 ft bgs,GLNO-1,Groundwater,37.81855556,-121.5438056,NAD83,"Survey, 1m",San Joaquin
+443,01S04E28F002M,Grant Line Canal Barrier well 1W screen 74-89 ft bgs,GLWL-1W,Groundwater,37.82041667,-121.5444444,NAD83,"Survey, 1m",San Joaquin
+444,01S04E28F004M,Grant Line Canal Barrier well 2 screen 15-25 ft bgs,GLNO-2,Groundwater,37.82033333,-121.5436111,NAD83,"Survey, 1m",San Joaquin
+445,01S04E28F001M,Grant Line Canal Barrier well 2W screen 10-25 ft bgs,GLWL-2W,Groundwater,37.81855556,-121.5443333,NAD83,"Survey, 1m",San Joaquin
+446,B95320,Grant Line Canal East,Grant Line East,Tide Station,37.820258,-121.4348562,NAD83,"GPS, 10m",San Joaquin
+447,B9529700,Grant Line Canal Mid West,GCMW,Water Quality,37.820248,-121.5210173,WGS84,Unknown,San Joaquin
+448,B95295,Grant Line Canal near Clifton Court Forebay,GLC nr Clifton Court,Surface Water,37.82022222,-121.5200833,NAD83,Unknown,San Joaquin
+449,B9529500,Grant Line Canal near Clifton Court Forebay - WQ,Grant Line Canal,Water Quality,37.8201229,-121.544661,NAD83,"GPS, 10m",San Joaquin
+450,B95300,Grantline Canal at Tracy Road Bridge,Grantline Can @ Trac,Tide Station,37.82004167,-121.4498139,NAD83,Unknown,San Joaquin
+451,F41580,Grass Valley Creek near Lewiston,Grass V Cr nr Lewist,Surface Water,40.686553,-122.861319,NAD83,Unknown,Trinity
+452,A4317000,Gurnsey Creek Upstream Confluence,Gurnsey C US Conflun,Water Quality,40.27001,-121.43252,WGS84,Unknown,Tehama
+455,KA000331,Harvey O. Banks Pumping Plant,Banks,Water Quality,37.801944,-121.62028,NAD83,Unknown,Alameda
+456,A16450,Hat Creek near Hat Creek,Hat Cr nr Hat Cr,Surface Water,40.689108,-121.422782,NAD83,Unknown,Shasta
+457,A85610,High Valley Creek above Kelsey Creek,High V Cr abv Kelsey,Surface Water,38.868222,-122.795,NAD83,Unknown,Lake
+459,B9524900,Holland Cut at Holland Marina,Holland Cut @ Hollan,Water Quality,37.9736889,-121.5812649,NAD83,"GPS, 10m",Contra Costa
+460,B9512000,Holland Cut near Bethel Island,HOL,Water Quality,38.0158159,-121.5821109,NAD83,"GPS, 10m",Contra Costa
+461,17N03E26A003M,Honcut Creek Well 1 screen 524-554 ft bgs,HC-1,Groundwater,39.304207,-121.596904,NAD83,"GPS, 10m",Yuba
+462,17N03E26A004M,Honcut Creek Well 2A shallow screen 48-68 ft bgs,HC-2A,Groundwater,39.304387,-121.5969,NAD83,"GPS, 10m",Yuba
+463,17N03E26A005M,Honcut Creek Well 2B middle screen 172-202 ft bgs,HC-2B,Groundwater,39.304387,-121.5969,NAD83,"GPS, 10m",Yuba
+464,17N03E26A006M,"Honcut Creek Well 2C deep screen 416-436,466-486 ft bgs",HC-2C,Groundwater,39.304387,-121.5969,NAD83,"GPS, 10m",Yuba
+465,C03925,Hubbs-Miner Ditch at Porterville,Hubbs-Miner Di @ Por,Surface Water,36.059952,-119.032602,NAD83,1/250000,Tulare
+466,A54310,Indian Creek below Indian Falls,Indian Cr Bl IndianF,Surface Water,40.055434,-120.961239,NAD83,Unknown,Plumas
+467,A5447030,Indian Creek Station 1,Indian Creek 1,Water Quality,40.16939,-120.61494,WGS84,Unknown,Plumas
+468,A5446550,Indian Creek Station 2,Indian Creek 2,Water Quality,40.12728,-120.62654,WGS84,Unknown,Plumas
+469,A5446250,Indian Creek Station 3,Indian Creek 3,Water Quality,40.09513,-120.64407,WGS84,Unknown,Plumas
+470,A5430010,Indian Creek upstream from Arlington Bridge,Indian C US Arlingtn,Water Quality,40.0843,-120.917,NAD83,Unknown,Plumas
+471,B95283,Italian Slough Headwater near Byron,Italian Sl Headwater,Tide Station,37.84027778,-121.6030556,NAD83,Unknown,Contra Costa
+472,C00200,James Bypass near San Joaquin,James Bypass nr San,Surface Water,36.652449,-120.181269,NAD83,1/250000,Fresno
+473,B9C74781351,Jones Pumping Plant Intake,Jones,Water Quality,37.796881,-121.58526,NAD83,Unknown,Alameda
+475,A85701,Kelsey Creek at Glenbrook,Kelsey Cr @ Glenbroo,Surface Water,38.851861,-122.7575,NAD83,Unknown,Lake
+476,A85005,Kelsey Creek near Kelseyville,Kelsey Cr nr Kelsey,Surface Water,39.0084,-122.83922,NAD83,Unknown,Lake
+477,C05180,Kern River at Second Point,Kern @ Second Point,Surface Water,35.305518,-119.257887,NAD83,1/250000,Kern
+478,C05150,Kern River near Bakersfield,Kern nr Bakersfield,Surface Water,35.426068,-118.912874,NAD83,1/250000,Kern
+479,C01120,Kings River below Empire Weir 2 near Stratford,Kings blw Empire Wei,Surface Water,36.174951,-119.830966,NAD83,1/250000,Kings
+480,F3109500,Klamath River at Klamath Glen,KR A K GLEN,Water Quality,41.51594,-124.0004,NAD83,Unknown,Del Norte
+481,F3122001,Klamath River at Orleans,KR A ORL,Water Quality,41.30365,-123.53351,NAD83,Unknown,Trinity
+482,F3159901,Klamath River below Iron Gate Dam,KLAMATH R BL IRON G,Water Quality,41.91685,-122.4601,NAD83,Unknown,Siskiyou
+483,14N07W19M002M,LAK_19M002M screen interval unknown,Screen: unknown,Groundwater,39.048,-122.6855,NAD83,"GPS, 10m",Lake
+488,24N17E13J001M,LAS_13J001M screen interval 138 to 148 bgs,LAS_13J001M,Groundwater,39.9286,-120.0197,WGS84,"Survey, 1m",Lassen
+489,24N17E13J002M,LAS_13J002M screen interval 138 to 148 bgs,LAS_13J002M,Groundwater,39.9286,-120.0197,WGS84,"Survey, 1m",Lassen
+490,27N14E26E003M,LAS_26E003M screen interval 205 to 218 ft bgs,Screen: 205-218 ft,Groundwater,40.170859,-120.37601,NAD83,"GPS, 10m",Lassen
+491,27N14E26E004M,LAS_26E004M screen interval 110 to 130 ft bgs,Screen: 110-130 ft,Groundwater,40.170859,-120.37601,NAD83,"GPS, 10m",Lassen
+492,A13060,Lassen Creek near Willow Ranch,Lassen Cr nr Willow,Surface Water,41.883918,-120.341989,NAD83,Unknown,Modoc
+493,13N01W13P001M,LCB Well 1 deep screen 865-875 ft bgs,LCB-1 Deep,Groundwater,38.969348,-121.925801,NAD83,"GPS, 10m",Colusa
+494,13N01W13P002M,"LCB Well 1 mid scrn 410-420,460-470 ft bgs",LCB-1 Middle,Groundwater,38.969348,-121.925801,NAD83,"GPS, 10m",Colusa
+495,13N01W13P003M,LCB Well 1 shallow screen 271-281 ft bgs,LCB-1 Shallow,Groundwater,38.969348,-121.925801,NAD83,"GPS, 10m",Colusa
+496,11N01E02D001M,"LCB Well 13 deep scrn 600-610,670-680 ft bgs",LCB-13 Deep,Groundwater,38.8362,-121.8352,NAD83,"GPS, 10m",Yolo
+497,11N01E02D002M,"LCB Well 13 middle screen 400-410,480-490 ft bgs",LCB-13 Middle,Groundwater,38.8362,-121.8352,NAD83,"GPS, 10m",Yolo
+498,11N01E02D003M,LCB Well 13 shallow scrn 170-180 ft bgs,LCB-13 Shallow,Groundwater,38.8362,-121.8352,NAD83,"GPS, 10m",Yolo
+499,13N01E21B002M,LCB Well 2 Middle screen 313-333 ft bgs,LCB-2 Middle,Groundwater,38.968914,-121.86529,NAD83,"GPS, 10m",Colusa
+500,13N01E22A001M,LCB Well 3 deep screen 670-680 ft bgs,LCB-3 Deep,Groundwater,38.96688,-121.843915,NAD83,"GPS, 10m",Colusa
+501,13N01E22A002M,"LCB Well 3 shall scrn 410-420,480-490 ft bgs",LCB-3 Shallow,Groundwater,38.96688,-121.843915,NAD83,"GPS, 10m",Colusa
+502,12N01E07N001M,LCB Well 7 deep screen 700-710 ft bgs,LCB-7 Deep,Groundwater,38.8965,-121.9139,NAD83,"GPS, 10m",Yolo
+503,12N01E07N002M,LCB Well 7 middle screen 420-430 ft bgs,LCB-7 Middle,Groundwater,38.8965,-121.9139,NAD83,"GPS, 10m",Yolo
+504,12N01E07N003M,LCB Well 7 shallow screen 280-290 ft bgs,LCB-7 Shallow,Groundwater,38.8965,-121.9139,NAD83,"GPS, 10m",Yolo
+505,12N01E14R001M,LCB Well 9 deep screen 525-545 ft bgs,LCB-9 Deep,Groundwater,38.8813,-121.8219,NAD83,"GPS, 10m",Yolo
+506,12N01E14R003M,LCB Well 9 middle screen 360-370 ft bgs,LCB-9 Middle,Groundwater,38.8813,-121.8219,NAD83,"GPS, 10m",Yolo
+507,12N01E14R002M,LCB Well 9 shallow screen 230-240 ft bgs,LCB-9 Shallow,Groundwater,38.8813,-121.8219,NAD83,"GPS, 10m",Yolo
+508,A00615,Lindo Channel near Chico,Lindo Chan nr Chico,Surface Water,39.749159,-121.8689,NAD83,Unknown,Butte
+509,B9150500,Lindsey Slough Tidal Wetland,Lindsey Slough,Water Quality,38.26079444,-121.7936722,WGS84,Unknown,Solano
+510,B91505Q,Lindsey Slough Tidal Wetland,Lindsey Slough,Tide Station,38.26079444,-121.7936722,WGS84,Unknown,Solano
+511,A04270,Little Chico Creek at Taffee Road near Chico,L. Chico Cr @ Taffee,Surface Water,39.697041,-121.893445,NAD83,Unknown,Butte
+512,A04910,Little Chico Creek Diversion near Chico,Little Chico Cr Div.,Surface Water,39.733494,-121.771658,NAD83,Unknown,Butte
+513,A04280,Little Chico Creek near Chico,Little Chico Cr nr C,Surface Water,39.733831,-121.771847,NAD83,Unknown,Butte
+514,18N01E21L001M,Little Dry Creek,Screen: Unknown,Groundwater,39.39723,-121.864922,NAD83,Unknown,Butte
+515,A04120,Little Dry Creek at Butte Creek,Little Dry Cr @ Butt,Surface Water,39.396869,-121.8673,NAD83,Unknown,Butte
+516,A5552400,Little Last Chance Creek Station 1,Little Last Chance 1,Water Quality,39.8818,-120.1926,WGS84,Unknown,Plumas
+517,A5552150,Little Last Chance Creek Station 2,Little Last Chance 2,Water Quality,39.8734,-120.1777,WGS84,Unknown,Plumas
+518,A5551990,Little Last Chance Creek Station 3,Little Last Chance 3,Water Quality,39.8662,-120.168201,WGS84,Unknown,Plumas
+519,F21250,Little Shasta River below Big Springs Rd near Montague,L. Shasta R blw BSrd,Surface Water,41.706742,-122.43803,WGS84,Unknown,Siskiyou
+520,F21300,Little Shasta River near Montague (upper),L. Shasta R. (upper),Surface Water,41.753115,-122.300561,NAD83,Unknown,Siskiyou
+521,F21375,Little Springs Creek near Grenada,Lt. Springs Cr nr Gr,Surface Water,41.593411,-122.431656,WGS84,Unknown,Siskiyou
+523,G7216000,Little Truckee River above Boca,Ltl. Truckee ab Boca,Water Quality,39.4358597,-120.084524,NAD83,"GPS, 10m",Nevada
+524,G7200500,Little Truckee River above Truckee River - WQ,LTAT,Surface Water,39.38517,-120.09502,NAD83,"GPS, 10m",Nevada
+525,G7201000,Little Truckee River below Boca - WQ,LTBB,Surface Water,39.386852,-120.095476,NAD83,"GPS, 10m",Nevada
+526,F5110000,Mad River near Arcata,MAD R NR ARCATA,Water Quality,40.90702,-124.05625,NAD83,Unknown,Humboldt
+527,20N01E13Q002M,Magers,Screen: Unknown,Groundwater,39.583073,-121.806862,NAD83,Unknown,Butte
+528,B62100,Mariposa Creek below Mariposa Dam,Mariposa Cr blw Mari,Surface Water,37.298275,-120.162676,NAD83,1/250000,Mariposa
+529,B62400,Mariposa Creek near Catheys Valley,Mariposa Cr nr Cathe,Surface Water,37.398829,-120.003783,NAD83,1/250000,Mariposa
+530,F7110000,Mattole River near Petrolia,MATTOLE R NR PETR,Water Quality,40.31356,-124.28207,NAD83,Unknown,Humboldt
+531,B51250,Maxwell Creek at Coulterville,Maxwell Cr @ Coulter,Surface Water,37.716041,-120.18991,NAD83,1/250000,Mariposa
+532,A2215000,McCloud River above Shasta Lake,MCCLOUD AB SHASTA LK,Water Quality,40.95415,-122.23472,NAD83,Unknown,Shasta
+533,E33961Q,Meins Landing Managed Wetland North Culvert,Meins Landing North,Tide Station,38.1384059,-121.9092788,NAD83,"GPS, 10m",Solano
+534,E33965Q,Meins Landing Managed Wetland South Culvert,Meins Landing South,Tide Station,38.1259939,-121.8976998,NAD83,"GPS, 10m",Solano
+535,B05155,Merced River at Cressey,Merced @ Cressey,Surface Water,37.424867,-120.664717,NAD83,"GPS, 10m",Merced
+536,B05131,Merced River at Milliken Bridge,Merced @ Milliken Br,Surface Water,37.361605,-120.851036,NAD83,1/250000,Merced
+537,B05170,Merced River near Snelling,Merced nr Snelling,Surface Water,37.503,-120.451,NAD83,"GPS, 10m",Merced
+538,B05125,Merced River near Stevinson,Merced nr Stevinson,Surface Water,37.371,-120.931,NAD83,"GPS, 10m",Merced
+539,B67285,Miami Creek at Highway 49 near Ahwanee,Miami Cr @ Highway 4,Surface Water,37.348276,-119.717655,NAD83,1/250000,Madera
+540,B67300,Miami Creek near Oakhurst,Miami Cr nr Oakhurst,Surface Water,37.393275,-119.654318,NAD83,1/250000,Madera
+541,A4318600,Mid Lower Deer Creek Meadow_Deer C Meadow-12,Deer C Meadow-12,Water Quality,40.26979,-121.42656,WGS84,Unknown,Tehama
+542,A4318608,Mid Upper Deer Meadow_Deer C Meadow-3,Deer C Meadow-3,Water Quality,40.26847,-121.41465,WGS84,Unknown,Tehama
+543,A81810,Middle Creek near Upper Lake,Middle Cr nr Upper L,Surface Water,39.182552,-122.911843,NAD83,Unknown,Lake
+544,A5539000,Middle Fork Feather River upstream from Grizzly Creek,MF Feather R US Griz,Water Quality,39.8174,-121.04279,NAD83,Unknown,Plumas
+545,B95541,Middle River @ Undine Road,Middle River (MRU),Tide Station,37.8339408,-121.3857561,NAD83,"GPS, 10m",San Joaquin
+546,B9554100,Middle River @ Undine Road - WQ,Middle River (MRU),Water Quality,37.8339357,-121.385743,NAD83,"GPS, 10m",San Joaquin
+547,B95502,Middle River above Barrier,MR above Barrier,Tide Station,37.8851804,-121.4727615,NAD83,"GPS, 10m",San Joaquin
+548,B95460,Middle River at Bacon Island,Middle @ Bacon Islan,Tide Station,38.00172222,-121.5238056,NAD83,Unknown,San Joaquin
+549,B9546000,Middle River at Bacon Island - WQ,MR@NBacon Is. Gage,Tide Station,38.00172222,-121.5238056,NAD83,Unknown,San Joaquin
+550,B95530,Middle River at Howard Road Bridge,Middle @ Howard Road,Tide Station,37.87722222,-121.3836111,NAD83,Unknown,San Joaquin
+551,B95468,Middle River at Middle River,Middle @ Middle Rive,Tide Station,37.94252778,-121.534,NAD83,Unknown,San Joaquin
+552,B95540,Middle River at Mowry Bridge,Middle @ Mowry Bridg,Surface Water,37.83527778,-121.3836111,NAD83,Unknown,San Joaquin
+553,B95503,Middle River at Tracy Road Bridge,Middle @ Tracy Road,Tide Station,37.88138889,-121.4561111,NAD83,Unknown,San Joaquin
+554,B95500,Middle River at Union Point,MUP,Surface Water,37.89083333,-121.4883333,NAD83,Unknown,San Joaquin
+555,B9550000,Middle River at Union Point - WQ,MR at Union Point,Water Quality,37.8907729,-121.4883479,NAD83,"GPS, 10m",San Joaquin
+556,01N04E36Q004M,Middle River Barrier well 1 screen 10-20 ft bgs,MLNO-1,Groundwater,37.88502778,-121.482,NAD83,"Survey, 1m",San Joaquin
+557,01N04E36Q003M,Middle River Barrier well 2 screen 10-20 ft bgs,MLNO-2,Groundwater,37.88602778,-121.4819167,NAD83,"Survey, 1m",San Joaquin
+558,01N04E36Q001M,Middle River Barrier well 2W screen 61-81 ft bgs,MRL-2W,Groundwater,37.88605556,-121.4818333,NAD83,"Survey, 1m",San Joaquin
+559,01N04E36Q002M,Middle River Barrier well 3W screen 14-34 ft bgs,MRL-3W,Groundwater,37.88486111,-121.4821667,NAD83,"Survey, 1m",San Joaquin
+560,B9545800,Middle River near Holt,Middle River,Water Quality,38.0031059,-121.5107929,NAD83,"GPS, 10m",Contra Costa
+561,B9553100,Middle River near Howard Road Bridge,MR near HR Bridge,Water Quality,37.8761789,-121.3832749,NAD83,"GPS, 10m",San Joaquin
+562,B9550600,Middle River near Tracy Blvd Bridge,MR near TB Bridge,Water Quality,37.8814199,-121.4673859,NAD83,"GPS, 10m",San Joaquin
+563,A04420,Mill Creek below Highway 99 near Los Molinos,Mill Cr blw Highway,Surface Water,40.040059,-122.104633,NAD83,Unknown,Tehama
+564,A44180,Mill Creek near Mineral,Mill Cr nr Mineral,Surface Water,40.362144,-121.504584,NAD83,Unknown,Tehama
+565,A4418000,Mill Creek near Mineral,Mill C NR Mineral,Water Quality,40.36222,-121.504444,NAD83,Unknown,Tehama
+566,A0442050,Mill Creek near Mouth near Los Molinos,MILL C NR MO,Water Quality,40.043,-122.0999,NAD83,Unknown,Tehama
+567,F25480,Mill Creek near Mugginsville,MNM,Surface Water,41.581528,-122.960583,NAD83,Unknown,Siskiyou
+568,B91470Q,Miner Slough,MIR,Tide Station,38.23602683,-121.666055,NAD83,Unknown,Solano
+569,B91475,Miner Slough at Five Points,MinerSl. @ Five Pnts,Tide Station,38.29,-121.6447222,NAD83,Unknown,Solano
+570,B9147000,Miner Slough near Sacramento River (WQ),Miner Slough,Water Quality,38.23602683,-121.666055,NAD83,"GPS, 10m",Solano
+571,48N05E13R003M,MOD_13R003M screen interval unknown,Screen: Unknown,Groundwater,41.996453,-121.341703,NAD83,Unknown,Modoc
+572,48N05E14R001M,MOD_14R001M screen interval 814 to 1537 bgs,Screen: 814-1537 ft,Groundwater,41.996253,-121.360836,NAD83,Unknown,Modoc
+573,48N05E16P001M,MOD_16P001M screen interval 823 to 2108 bgs,Screen: 823-2108 ft,Groundwater,41.996186,-121.410553,NAD83,Unknown,Modoc
+574,46N05E21M001M,MOD_21M001M screen interval 32 to 325 bgs,Screen: 32-325 ft,Groundwater,41.811383,-121.41462,NAD83,Unknown,Modoc
+575,46N05E22D001M,MOD_22D001M screen interval 114 to 554 bgs,Screen: 114-554 ft,Groundwater,41.817406,-121.395484,NAD83,Unknown,Modoc
+576,48N05E25Q001M,MOD_25Q001M screen interval 5 to 110 bgs,Screen: 5-110 ft,Groundwater,41.965217,-121.345209,NAD83,Unknown,Modoc
+577,48N05E26D001M,MOD_26D001M screen interval 1250 to 1802 bgs,Screen: 1250-1802 ft,Groundwater,41.97617,-121.372667,NAD83,Unknown,Modoc
+578,48N05E36A002M,MOD_36A002M screen interval 428 to 528 bgs,Screen: 428-528 ft,Groundwater,41.961436,-121.341139,NAD83,Unknown,Modoc
+579,B9409500,Mokelumne River near Highway 12,MOK n. HWY 12,Water Quality,38.1081719,-121.5764279,NAD83,"GPS, 10m",San Joaquin
+580,B94175,Mokelumne River near Thornton,Mokelumne nr Thornto,Tide Station,38.25527778,-121.44,NAD83,Unknown,San Joaquin
+581,B94133,"Mokelumne River, North Fork, below Snodgrass Slough","Mokelumne River, N F",Surface Water,38.22333333,-121.5066667,NAD83,Unknown,San Joaquin
+582,E33670,Montezuma Slough @ National Steel (S64),Montezuma Slough S64,Tide Station,38.1220286,-121.8881586,NAD83,"GPS, 10m",Solano
+584,A02986,Moulton Weir Spill to Butte Basin near Princeton,Moulton Weir Spill,Surface Water,39.33821,-122.022627,NAD83,Unknown,Colusa
+585,B9536900,Mountain House Creek (SOR31),SOR31,Water Quality,37.796918,-121.525642,WGS84,Unknown,San Joaquin
+586,A00928,Mud Creek Diversion at Chico,Mud Cr Div at Chico,Surface Water,39.76212,-121.797252,NAD83,Unknown,Butte
+587,A04242,Mud Creek near Chico,Mud Cr nr Chico,Surface Water,39.783357,-121.886715,NAD83,Unknown,Butte
+588,F21930,MWCD Main Canal,MWCD Main Canal,Surface Water,41.542394,-122.373791,NAD83,Unknown,Siskiyou
+589,F21940,MWCD Parks Creek Diversion near Edgewood,MPD,Surface Water,41.453394,-122.44584,NAD83,Unknown,Siskiyou
+593,A05189,North Honcut Creek,NHC,Surface Water,39.309229,-121.595357,WGS84,Unknown,Butte
+594,A0571001,North Honcut Creek at Highway 70,NORTH HONCUT C A HWY,Water Quality,39.30875,-121.5938,NAD83,Unknown,Butte
+596,B9525100,OBI @ USGS PILE,OBI,Water Quality,37.9679429,-121.5744199,NAD83,"GPS, 10m",Contra Costa
+598,B95341,Old River @ Clifton Court Intake,OR near Intake,Tide Station,37.8279717,-121.5526014,NAD83,"GPS, 10m",Contra Costa
+599,B9534100,Old River @ Clifton Court Intake - WQ,ORI WQ,Water Quality,37.827969,-121.552609,NAD83,Unknown,Contra Costa
+600,B95400,Old River @ Head,Old River Head (OH1),Surface Water,37.8076089,-121.2812817,NAD83,"GPS, 10m",San Joaquin
+601,B95400Q,Old River @ Head,Old River Head (OH1),Tide Station,37.8076089,-121.331282,NAD83,"GPS, 10m",San Joaquin
+602,B9540000,Old River @ Head - WQ,Old River Head (OH1),Water Quality,37.8075899,-121.331205,NAD83,"GPS, 10m",San Joaquin
+603,B95390,Old River above Doughty Cut,OR above Doughty Cut,Tide Station,37.8109973,-121.3865757,NAD83,"GPS, 10m",San Joaquin
+604,B9539000,Old River above Doughty Cut - WQ,Old abv Doughty(ORX),Water Quality,37.8109921,-121.3865619,NAD83,"GPS, 10m",San Joaquin
+605,B9538600,Old River above Paradise Cut Confluence,OR above PC conf,Water Quality,37.806892,-121.414681,WGS84,Unknown,San Joaquin
+608,B95250,Old River at Bacon Island,Old @ Bacon Island,Surface Water,37.97063889,-121.5720833,NAD83,Unknown,San Joaquin
+609,B9525000,Old River at Bacon Island - WQ,OR at Bacon Is.,Water Quality,37.970639,-121.572083,NAD83,"GPS, 10m",Contra Costa
+610,B9537400,Old River at Bethany Rd Drain (SOR24),SOR24,Water Quality,37.7853,-121.5046,WGS84,Unknown,San Joaquin
+611,B95340,Old River at Clifton Court Ferry,Old @ Clifton Court,Surface Water,37.82861111,-121.5530556,NAD83,Unknown,Contra Costa
+612,B95290,Old River at Coney Island,Old R.@ Coney Island,Tide Station,37.84611111,-121.5369444,NAD83,Unknown,Contra Costa
+613,B9510800,Old River at Franks Tract near Terminous,OSJ,Water Quality,38.0712419,-121.5783689,NAD83,"GPS, 10m",Contra Costa
+614,B9520000,Old River at Quimby Island near Bethel Island,ORQ,Water Quality,38.027123,-121.564727,NAD83,"GPS, 10m",Contra Costa
+615,01S04E28P002M,Old River at Tracy Barrier well 1W screen 86-106 ft bgs,ORL-1W,Groundwater,37.81030556,-121.5448889,NAD83,"Survey, 1m",San Joaquin
+616,01S04E28P004M,Old River at Tracy Barrier well 3 screen 10-20 ft bgs,OLNO-3,Groundwater,37.80969444,-121.5427778,NAD83,"Survey, 1m",San Joaquin
+617,01S04E28P003M,Old River at Tracy Barrier well 4 screen 10-20 ft bgs,OLNO-4,Groundwater,37.8105,-121.5421944,NAD83,"Survey, 1m",San Joaquin
+618,01S04E28P001M,Old River at Tracy Barrier well 5W screen 36-51 ft bgs,ORL-5W,Groundwater,37.81083333,-121.5426389,NAD83,"Survey, 1m",San Joaquin
+619,B9537800,Old River at Tracy Wildlife Association,Old @ Tracy Wildlife,Water Quality,37.8028279,-121.4574309,NAD83,"GPS, 10m",San Joaquin
+620,B95378,Old River at Tracy Wildlife Association,Old @ Tracy Wildlife,Surface Water,37.802833,-121.457444,NAD83,"GPS, 10m",San Joaquin
+621,B95366,Old River Barrier near DMC (Above),Old Barrier nr DMC (,Tide Station,37.81055556,-121.5422222,NAD83,Unknown,San Joaquin
+622,B9536600,Old River Barrier near DMC (Above) - WQ,OR near DMC - Above,Water Quality,37.8102449,-121.5421809,NAD83,"GPS, 10m",San Joaquin
+623,B95365,Old River Barrier near DMC (Below),Old Barrier nr DMC (,Tide Station,37.81111111,-121.5438889,NAD83,Unknown,San Joaquin
+624,B9536500,Old River Barrier near DMC (Below) - WQ,OR near DMC - Below,Water Quality,37.8109669,-121.5444039,NAD83,"GPS, 10m",San Joaquin
+625,B9538500,Old River below Paradise Cut Confluence,OR below PC conf,Water Quality,37.8042294,-121.420224,WGS84,Unknown,San Joaquin
+626,B9538900,Old River downstream of Tracy WW outfall (SOR7),SOR7,Water Quality,37.80642232,-121.4086418,WGS84,Unknown,San Joaquin
+627,B95270,Old River near Byron,Old nr Byron,Surface Water,37.89111111,-121.4025,NAD27,Unknown,Contra Costa
+629,B95380Q,Old River near Tracy Blvd Bridge,Old nr Tracy Blvd Br,Tide Station,37.805,-121.4494444,NAD83,"GPS, 10m",San Joaquin
+630,B95380,Old River near Tracy Blvd Bridge,Old nr Tracy Blvd Br,Surface Water,37.805,-121.4494444,NAD83,"GPS, 10m",San Joaquin
+631,B95370Q,Old River upstream of Mountain House Creek,OR up Mtn House Crk,Tide Station,37.7938408,-121.5173813,NAD83,"Survey, 1m",San Joaquin
+632,B9537000,Old River upstream of Mountain House Creek - WQ,OR up Mtn House Crk,Water Quality,37.7938357,-121.5173682,NAD83,"Survey, 1m",San Joaquin
+633,B9538100,Old River upstream of Tracy Blvd Drain (SOR16U),SOR16U,Water Quality,37.8019821,-121.4428305,WGS84,Unknown,San Joaquin
+634,ON003050,O'Neil Forebay @ Gianelli Pumping Plant,Gianelli,Water Quality,37.059836,-121.072019,NAD83,Unknown,Merced
+635,B08735,Orestimba Creek below Highway 33,Orestimba Cr blw Hig,Surface Water,37.378,-121.056,NAD83,"GPS, 10m",Stanislaus
+636,F6135000,Outlet Creek near Longvale,OUTLET C NR LONG,Water Quality,39.62579,-123.3467,NAD83,Unknown,Humboldt
+637,B06151,Owens Creek at Merced ID West Boundary near Merced,Owens Cr @ Merced ID,Surface Water,37.236609,-120.616026,NAD83,1/250000,Merced
+638,B06114,Owens Creek below Eastside Canal near Crane Ranch,Owens Cr blw Eside C,Surface Water,37.21911,-120.699084,NAD83,1/250000,Merced
+639,B06170,Owens Creek below Owens Dam near Planada,Owens Cr blw Owens D,Surface Water,37.308275,-120.194344,NAD83,1/250000,Mariposa
+640,B08286,Panoche Creek at I-5,Panoche Cr @ I-5,Surface Water,36.650507,-120.633786,NAD83,1/250000,Fresno
+641,B00975,Panoche Drain near Dos Palos,Panoche Dr nr Dos Pa,Surface Water,36.923281,-120.68935,NAD83,1/250000,Fresno
+642,B95410Q,Paradise Cut,Paradise Cut,Tide Station,37.8020598,-121.4122564,NAD83,"Survey, 1m",San Joaquin
+643,B9541000,Paradise Cut - WQ,Paradise Cut (PDC),Water Quality,37.8020547,-121.4122433,NAD83,"Survey, 1m",San Joaquin
+644,B95410,Paradise Cut above Old River,Paradise CutabvOld R,Surface Water,37.80197222,-121.4123056,NAD83,Unknown,San Joaquin
+645,B9541050,Paradise Cut Upstream - WQ,PCUP,Water Quality,37.8010219,-121.373076,NAD83,"Survey, 1m",San Joaquin
+646,B9541070,Paradise Cut Upstream North Bridge,PCNB,Water Quality,37.80111422,-121.3674915,WGS84,Unknown,San Joaquin
+647,B9541060,Paradise Cut Upstream South Bridge,PCSB,Water Quality,37.79991312,-121.3690862,WGS84,Unknown,San Joaquin
+648,A41105,Parrot Butte Creek Diversion near Chico,Parrot Butte Cr Dive,Surface Water,39.708903,-121.754192,NAD83,Unknown,Butte
+649,A0460200,Paynes Creek at Paynes Crossing,PAYNES C A PAYNES,Water Quality,40.275856,-122.181482,NAD83,Unknown,Tehama
+650,A4602000,Paynes Creek at Paynes Crossing,Paynes Cr A Paynes g,Water Quality,40.2758,-122.1814,NAD83,"GPS, 10m",Tehama
+651,A4605001,Paynes Creek at Paynes Crossing,PAYNES C A PAYNES,Water Quality,40.275856,-122.181482,NAD83,Unknown,Tehama
+652,G31140,Pine Creek at Eagle Lake near Susanville,Pine Cr @ Eagle Lake,Surface Water,40.66519,-120.790692,NAD83,Unknown,Lassen
+653,A14100,Pine Creek near Alturas,Pine Cr nr Alturas,Surface Water,41.433915,-120.445076,NAD83,Unknown,Modoc
+655,B95058,Piper Slough at Bethel Tract,Piper Sl @ Bethel Tr,Surface Water,38.03388889,-121.6216667,NAD83,Unknown,Contra Costa
+656,A1415000,"Pit R, South Fork , near Alturas",SF PIT R NR ALTURAS,Water Quality,41.46124,-120.54996,NAD83,Unknown,Modoc
+657,A1127000,Pit River at Pittville,PIT R A PITTVILLE,Water Quality,41.04555,-121.33175,NAD83,Unknown,Shasta
+658,A1168000,Pit River near Canby,PIT R NEAR CANBY,Water Quality,41.39983,-120.93494,NAD83,Unknown,Modoc
+659,A1102000,Pit River near Montgomery Creek,PIT R A MONTGOMERY C,Water Quality,40.84498,-122.00093,NAD83,Unknown,Shasta
+660,A12100,"Pit River, North Fork, at Alturas","Pit R., NF, @ Altura",Surface Water,41.481949,-120.538535,NAD83,Unknown,Modoc
+661,A1210000,"Pit River, North Fork, at Alturas",N F PIT R AT ALTURAS,Water Quality,41.48201,-120.53863,NAD83,Unknown,Modoc
+662,22N15E11C001M,PLU_11C001M screen interval 960 to 1070 bgs,DMW 7d,Groundwater,39.77772277,-120.268246,NAD83,"Survey, 1m",Plumas
+663,22N15E11C002M,PLU_11C002M screen interval 830 to 840 bgs,DMW 7id,Groundwater,39.77772277,-120.2682918,NAD83,"Survey, 1m",Plumas
+664,22N15E11C003M,PLU_11C003M screen interval 690 to 710 bgs,DMW 7i,Groundwater,39.77772277,-120.2682918,NAD83,"Survey, 1m",Plumas
+665,22N15E11C004M,PLU_11C004M screen interval 360 to 440 bgs,DMW 7is,Groundwater,39.77772277,-120.2682918,NAD83,"Survey, 1m",Plumas
+666,22N15E11C005M,PLU_11C005M screen interval 130 to 140 bgs,DMW 7s,Groundwater,39.77772277,-120.2682918,NAD83,"Survey, 1m",Plumas
+667,13N04E17P503M,Plumas MW-01 Deep,Plumas MW-01 D,Not known,38.970936,-121.55564,NAD83,"GPS, 10m",Yuba
+668,13N04E17P502M,Plumas MW-01 Mid-Deep,Plumas MW-01 MD,Not known,38.970936,-121.555638,NAD83,"GPS, 10m",Yuba
+669,13N04E17P501M,Plumas MW-01 Mid-Shallow,Plumas MW-01 MS,Not known,38.970938,-121.555639,NAD83,"GPS, 10m",Yuba
+670,13N04E17P500M,Plumas MW-01 Shallow,Plumas MW-01 S,Not known,38.970937,-121.555638,NAD83,"GPS, 10m",Yuba
+671,C03960,Poplar Ditch near Porterville,Poplar Di nr Porterv,Surface Water,36.053285,-119.015935,NAD83,1/250000,Tulare
+672,C03182,Porter Slough at Porterville,Porter Sl @ Portervi,Surface Water,36.058285,-118.985933,NAD83,1/250000,Tulare
+673,C03984,Porter Slough Ditch at Porterville,Porter Sl Di @ Porte,Surface Water,36.068285,-119.083437,NAD83,1/250000,Tulare
+674,B91400,Prospect Island Tide Station 1,PI-1,Tide Station,38.25341705,-121.6569275,NAD83,"Survey, 1m",Solano
+675,05N03E21L001M,Prospect Island Well 10A screen 18-28 ft bgs,PI-10A,Groundwater,38.26230448,-121.6503044,NAD83,"Survey, 1m",Solano
+676,05N03E21L002M,Prospect Island Well 10B screen 45.5-55.5 ft bgs,PI-10B,Groundwater,38.26230426,-121.6502694,NAD83,"Survey, 1m",Solano
+677,05N03E29A001M,Prospect Island Well 1A screen 13.1-23.1 ft bgs,PI-1A,Groundwater,38.25305822,-121.6567402,NAD83,"Survey, 1m",Solano
+678,05N03E29A002M,Prospect Island Well 1B screen 60.7-70.7 ft bgs,PI-1B,Groundwater,38.25307107,-121.6567103,NAD83,"Survey, 1m",Solano
+679,05N03E29C001M,Prospect Island Well 2A screen 8.3-18.3 ft bgs,PI-2A,Groundwater,38.25323585,-121.6664966,NAD83,"Survey, 1m",Solano
+680,05N03E29C002M,Prospect Island Well 2B screen 49.6-59.6 ft bgs,PI-2B,Groundwater,38.25325886,-121.6665114,NAD83,"Survey, 1m",Solano
+681,05N03E20B001M,Prospect Island Well 3A screen 12.1-22.1 ft bgs,PI-3A,Groundwater,38.27028472,-121.6613492,NAD83,"Survey, 1m",Solano
+682,05N03E20B002M,Prospect Island Well 3B screen 42.3-52.3 ft bgs,PI-3B,Groundwater,38.27031076,-121.6613403,NAD83,"Survey, 1m",Solano
+683,05N03E20B003M,Prospect Island Well 3C screen 84.2-94.2 ft bgs,PI-3C,Groundwater,38.27032465,-121.6613366,NAD83,"Survey, 1m",Solano
+684,05N03E09L001M,Prospect Island Well 5A screen 27.9-37.9 ft bgs,PI-5A,Groundwater,38.29020604,-121.6473309,NAD83,"Survey, 1m",Solano
+685,05N03E09L002M,Prospect Island Well 5B screen 67.5-77.5 ft bgs,PI-5B,Groundwater,38.29019763,-121.6473628,NAD83,"Survey, 1m",Solano
+686,05N03E16B001M,Prospect Island Well 6A screen 16.2-26.2 ft bgs,PI-6A,Groundwater,38.28471043,-121.6442571,NAD83,"Survey, 1m",Solano
+687,05N03E16B002M,Prospect Island Well 6B screen 45.8-55.8 ft bgs,PI-6B,Groundwater,38.28473692,-121.644253,NAD83,"Survey, 1m",Solano
+688,05N03E16H001M,Prospect Island Well 7A screen 12.4-22.4 ft bgs,PI-7A,Groundwater,38.27892112,-121.6403016,NAD83,"Survey, 1m",Solano
+689,05N03E16H002M,Prospect Island Well 7B screen 46.8-56.8 ft bgs,PI-7B,Groundwater,38.27893819,-121.6403283,NAD83,"Survey, 1m",Solano
+690,05N03E16R002M,Prospect Island Well 8A screen 12-22 ft bgs,PI-8A,Groundwater,38.27267165,-121.6424158,NAD83,"Survey, 1m",Solano
+691,05N03E16R003M,Prospect Island Well 8B screen 46.3-56.3 ft bgs,PI-8B,Groundwater,38.2726972,-121.6423996,NAD83,"Survey, 1m",Solano
+692,05N03E21G001M,Prospect Island Well 9A screen 11.2-21.2 ft bgs,PI-9A,Groundwater,38.26652,-121.6429347,NAD83,"Survey, 1m",Solano
+693,05N03E21G002M,Prospect Island Well 9B screen 45.7-55.7 ft bgs,PI-9B,Groundwater,38.2665424,-121.6429141,NAD83,"Survey, 1m",Solano
+694,05N03E21G003M,Prospect Island Well 9C screen 83.5-93.5 ft bgs,PI-9C,Groundwater,38.26656228,-121.6428953,NAD83,"Survey, 1m",Solano
+695,G7310000,Prosser Creek above Truckee River - WQ,PCAT,Surface Water,39.37037,-120.11786,NAD83,"GPS, 10m",Nevada
+696,A09350,Putah Creek,Putah Creek,Surface Water,38.52937,-121.9245,NAD83,Unknown,Yolo
+697,A02933,R.D. 108 Drain to Sacramento R. near Knights Landing,R.D. 108 Dr to Sac.,Surface Water,38.862385,-121.792689,NAD83,Unknown,Yolo
+698,A02926,R.D. 1500 Drain to Sacramento Slough near Karnak,R.D. 1500 Dr to Sac.,Surface Water,38.784294,-121.655473,NAD83,Unknown,Sutter
+699,A05922,R.D. 1660 Drain to Sutter Bypass near Tisdale,R.D. 1660 Dr to Sutt,Surface Water,39.033224,-121.743997,NAD83,Unknown,Sutter
+700,A02963,R.D. 1660 Drain to Tisdale Bypass,R.D. 1660 Dr to Tisd,Surface Water,39.028591,-121.782376,NAD83,Unknown,Sutter
+701,A02965,R.D. 70 Drain to Sacramento River near Tisdale,R.D. 70 Dr to Sac. R,Surface Water,39.06854,-121.862778,NAD83,Unknown,Sutter
+702,A02950,R.D. 787 Drain to Colusa Basin Drain,R.D. 787 Dr to Colus,Surface Water,38.801357,-121.725499,NAD83,Unknown,Yolo
+703,A02955,R.D. 787 Drain to Sacramento River near Robbins,R.D. 787 Dr to Sac.,Surface Water,38.846587,-121.730596,NAD83,Unknown,Yolo
+704,07N02E35D001M,RD 2068 Well 1A shallow screen 28-38 ft bgs,RD2068 MW-1A shallow,Groundwater,38.4159,-121.7303,NAD83,"GPS, 10m",Solano
+705,07N02E35D002M,RD 2068 Well 1B middle screen 213-238 ft bgs,RD2068 MW-1B middle,Groundwater,38.4159,-121.7303,NAD83,"GPS, 10m",Solano
+706,07N02E35D003M,RD 2068 Well 1C deep screen 430-440 ft bgs,RD2068 MW-1C deep,Groundwater,38.4159,-121.7303,NAD83,"GPS, 10m",Solano
+707,A0025800,Red Bank Creek at Highway 99W near Red Bluff,RED BANK C A HWY99W,Water Quality,40.14155,-122.21228,NAD83,Unknown,Tehama
+708,A03460,Red Bank Creek near Red Bluff,Red Bank Cr nr Red B,Surface Water,40.089765,-122.413386,NAD83,Unknown,Tehama
+710,F5510000,Redwood Creek at Orick,REDWOOD C A OR,Water Quality,41.2883,-124.05883,NAD83,Unknown,Humboldt
+711,A00268,Reeds Creek at Wilder Road near Red Bluff,Reeds Cr @ Wilder Rd,Surface Water,40.164123,-122.274763,NAD83,Unknown,Tehama
+712,A02939,Ridge Cut Slough @ Knight's Landing,Ridge Cut Slough,Surface Water,38.7935092,-121.7254581,NAD83,"GPS, 10m",Yolo
+713,A0D84761435,Ridge Cut Slough at Hwy 113,RCS,Water Quality,38.793457,-121.725447,WGS84,Unknown,Yolo
+714,13N04E11J001M,Rio Oso Grove Ag Well 1 screen 144-360 ft bgs,ROG-1,Groundwater,38.9883,-121.4883,NAD83,"GPS, 10m",Sutter
+715,11N02E05F001M,River Garden Farms Field 65 Well,RGF Field 65,Groundwater,38.829343,-121.778414,NAD83,"GPS, 10m",Yolo
+716,11N02E05C002M,River Garden Farms Field 71-231 screen 216-226 ft bgs,RGF Field 71-231,Groundwater,38.836091,-121.777839,NAD83,"GPS, 10m",Yolo
+717,12N02E33P003M,River Garden Farms Field 93-360 screen 320-350 ft bgs,RGF Field 93-360,Groundwater,38.83684,-121.758433,NAD83,"GPS, 10m",Yolo
+719,B95218,Rock Slough above Contra Costa Canal,Rock Sl abv Contra C,Surface Water,37.97705556,-121.6421944,NAD83,Unknown,Contra Costa
+720,B95222,Rock Slough at Contra Costa Canal Fish Screen,RS at CCWD FS,Surface Water,37.870944,-121.642194,NAD83,"GPS, 10m",Contra Costa
+721,B9522200,Rock Slough at Contra Costa Canal Fish Screen,RS at CCWD FS,Water Quality,37.9761869,-121.6397899,NAD83,"GPS, 10m",Contra Costa
+722,B9521600,Rock Slough at Delta Road Bridge,Rock Sl @ Delta Road,Water Quality,37.9767449,-121.6200699,NAD83,Unknown,Contra Costa
+723,A0C85051515,Rominger Bridge at Colusa Basin Drain,Rominger Bridge,Water Quality,38.812214,-121.774258,WGS84,Unknown,Yolo
+724,05N03E21H001M,Ryer Island (RD 501) Well 99-1 screen 33-38 ft bgs,Ryer MW-1,Groundwater,38.26574339,-121.6408096,NAD83,"Survey, 1m",Solano
+725,05N03E16A002M,Ryer Island (RD 501) Well 99-10 screen 8-13 ft bgs,Ryer MW-10,Groundwater,38.28453651,-121.6418769,NAD83,"Survey, 1m",Solano
+726,05N03E16R001M,Ryer Island (RD 501) Well 99-11 screen 53-58 ft bgs,Ryer MW-11,Groundwater,38.2711299,-121.6419145,NAD83,"Survey, 1m",Solano
+727,05N03E21H002M,Ryer Island (RD 501) Well 99-2 screen 5-10 ft bgs,Ryer MW-2,Groundwater,38.26574339,-121.6408096,NAD83,"Survey, 1m",Solano
+728,05N03E16J001M,Ryer Island (RD 501) Well 99-3 screen 34-39 ft bgs,Ryer MW-3,Groundwater,38.27417177,-121.639888,NAD83,"Survey, 1m",Solano
+729,05N03E16J002M,Ryer Island (RD 501) Well 99-4 screen 8-13 ft bgs,Ryer MW-4,Groundwater,38.27417072,-121.6399062,NAD83,"Survey, 1m",Solano
+730,05N03E15P001M,Ryer Island (RD 501) Well 99-5 screen 33-38 ft bgs,Ryer MW-5,Groundwater,38.27280057,-121.6298577,NAD83,"Survey, 1m",Solano
+731,05N03E15P002M,Ryer Island (RD 501) Well 99-6 screen 8-13 ft bgs,Ryer MW-6,Groundwater,38.27280145,-121.6298837,NAD83,"Survey, 1m",Solano
+732,05N03E15F001M,Ryer Island (RD 501) Well 99-7 screen 33-38 ft bgs,Ryer MW-7,Groundwater,38.27965087,-121.6323684,NAD83,"Survey, 1m",Solano
+733,05N03E15F002M,Ryer Island (RD 501) Well 99-8 screen 9-14 ft bgs,Ryer MW-8,Groundwater,38.27964821,-121.6323878,NAD83,"Survey, 1m",Solano
+734,05N03E16A001M,Ryer Island (RD 501) Well 99-9 screen 33-38 ft bgs,Ryer MW-9,Groundwater,38.28453651,-121.6418769,NAD83,"Survey, 1m",Solano
+735,B94150,S.F. Mokelumne River at New Hope Bridge,S.F. Mokelumne @ New,Tide Station,38.22527778,-121.4908333,NAD83,Unknown,San Joaquin
+736,09N04E20N002M,Sacramento Bypass Monitoring Well - Deep,Sac Bypass Deep,Groundwater,38.606329,-121.560173,NAD83,"GPS, 10m",Yolo
+737,09N04E20N001M,Sacramento Bypass Monitoring Well - Shallow,Sac Bypass Shallow,Groundwater,38.606329,-121.560173,NAD83,"GPS, 10m",Yolo
+738,A02700,Sacramento R. @ Vina Br. nr Corning (main channel only),Sac. R. @ Vina (Chn),Surface Water,39.908738,-122.092467,NAD83,Unknown,Tehama
+739,A02701,Sacramento R. @ Vina Br. nr Corning (overflow only),Sac. R. @ Vina (OF),Surface Water,39.908738,-122.092467,NAD83,Unknown,Tehama
+740,B9D82211312,Sacramento River @ Hood (DES),Hood (DES),Water Quality,38.368611,-121.52056,NAD83,Unknown,Sacramento
+741,A0223002,Sacramento River above CBD near Knights Landing,SAC AB CBD,Water Quality,38.80521,-121.72372,NAD83,Unknown,Sutter
+742,A02108,Sacramento River above Sacramento Weir,SacR. abv Sac Weir,Surface Water,38.60855556,-121.5599167,NAD83,Unknown,Sacramento
+743,A0281500,Sacramento River at Balls Ferry,SAC A BALLS FERRY,Water Quality,40.41762,-122.19334,NAD83,Unknown,Tehama
+744,A02785,Sacramento River at Bend Bridge near Red Bluff,Sac. R. @ Bend Bridg,Surface Water,40.263657,-122.222964,NAD83,Unknown,Tehama
+745,A0278500,Sacramento River at Bend Bridge near Red Bluff,Sac. R. @ Bend Bridg,Water Quality,40.26387,-122.223,NAD83,Unknown,Tehama
+746,A02104,Sacramento River at Bryte Lab,SacR. @ Bryte Lab,Tide Station,38.6,-121.5397222,NAD83,"GPS, 10m",Yolo
+747,A02500,Sacramento River at Butte City,Sac. R. @ Butte City,Surface Water,39.457839,-121.994163,NAD83,Unknown,Glenn
+748,A02400,Sacramento River at Butte Slough Outfall Gates,Sac. R. @ Butte Sl O,Surface Water,39.194797,-121.936619,NAD83,Unknown,Colusa
+749,B91110,Sacramento River at Collinsville,Sac. @ Collinsville,Surface Water,38.07361111,-121.855,NAD27,Unknown,Unknown
+750,A0242000,Sacramento River at Colusa,SAC A COLUSA,Water Quality,39.21402,-122.00031,NAD83,Unknown,Colusa
+751,A2130000,Sacramento River at Delta,SAC A DELTA,Water Quality,40.93823,-122.41887,NAD83,Unknown,Sacramento
+752,B91120,Sacramento River at Emmaton,SacR. @ Emmaton,Surface Water,38.08388889,-121.7388889,NAD83,Unknown,Sacramento
+753,A02160,Sacramento River at Fremont Weir (East End),SacR. @ Fremont East,Surface Water,38.76527778,-121.6350833,NAD83,Unknown,Sacramento
+754,A02170,Sacramento River at Fremont Weir (West End),SacR. @ Fremont West,Surface Water,38.75944444,-121.6663889,NAD83,Unknown,Sutter
+755,A0263000,Sacramento River at Hamilton City,Sac. R. @ Hamilton C,Water Quality,39.7511,-121.99798,NAD83,Unknown,Glenn
+756,A02630,Sacramento River at Hamilton City (main channel only),Sac. R. @ Hamilton C,Surface Water,39.750925,-121.997877,NAD83,Unknown,Glenn
+758,A02200,Sacramento River at Knights Landing,Sac. R. @ Knights L.,Surface Water,38.803348,-121.716391,NAD83,Unknown,Sutter
+760,A02380,Sacramento River at Meridian,Sac. R. @ Meridian,Surface Water,39.145124,-121.918442,NAD83,Unknown,Colusa
+761,A02570,Sacramento River at Ord Ferry (main channel only),Sac. R. @ Ord Ferry,Surface Water,39.628132,-121.993182,NAD83,Unknown,Glenn
+762,B91210,Sacramento River at Rio Vista (Army Base),Sac. @ Rio Vista (Ar,Tide Station,38.15972222,-121.6938889,NAD83,"GPS, 10m",Solano
+763,B91212,Sacramento River at Rio Vista Bridge,SacR. @ Rio Vista,Tide Station,38.15972222,-121.6863889,NAD83,Unknown,Solano
+764,A02100,Sacramento River at Sacramento (I Street),SacR. @ Sac Ist,Surface Water,38.58861111,-121.505,NAD83,"GPS, 10m",Sacramento
+765,B91750,Sacramento River at Snodgrass Slough,Sac. @ Snodgrass Sl,Tide Station,38.34958333,-121.5335556,NAD83,Unknown,Sacramento
+766,B91160,Sacramento River at Three-Mile Slough,SacR. @ 3-MileSlough,Surface Water,38.10611111,-121.701,NAD83,Unknown,Sacramento
+767,A0215000,Sacramento River at Verona,Sacramento R A Veron,Water Quality,38.77976,-121.60398,NAD83,Unknown,Sutter
+768,A0270000,Sacramento River at Vina Bridge near Corning,Sac. R. @ Vina Bridg,Water Quality,39.90876,-122.09226,NAD83,Unknown,Tehama
+769,B91650,Sacramento River at Walnut Grove,Sac. @ Walnut Grove,Surface Water,38.24222222,-121.5166667,NAD83,Unknown,Sacramento
+771,A0219501,Sacramento River below Knights Landing,SAC BL KL,Water Quality,38.76064,-121.67824,NAD83,Unknown,Sutter
+772,A0275890,Sacramento River below Red Bluff,Sac R bl Red Bluff,Water Quality,40.1536,-122.1991,NAD83,Unknown,Tehama
+773,B91250Q,Sacramento River Downstream of Isleton,Sac R ds of Isleton,Tide Station,38.17548,-121.656863,NAD83,"GPS, 10m",Sacramento
+774,B9125000,Sacramento River Downstream of Isleton (WQ),Sac R ds of Isleton,Water Quality,38.1755859,-121.6569059,NAD83,"GPS, 10m",Sacramento
+775,A02450,Sacramento River opposite Moulton Weir,Sac. R opp. Moulton,Surface Water,39.34333,-122.03187,NAD83,Unknown,Colusa
+776,12N02E21Q001M,Sacramento River Well 1A shallow screen 54-64 ft bgs,SR-1A shallow,Groundwater,38.869027,-121.752499,NAD83,"GPS, 10m",Yolo
+777,12N02E21Q002M,Sacramento River Well 1B middle screen 254-274 ft bgs,SR-1B middle,Groundwater,38.869027,-121.752499,NAD83,"GPS, 10m",Yolo
+778,12N02E21Q003M,Sacramento River well 1C deep screen 548-568 ft bgs,SR-1C deep,Groundwater,38.869027,-121.752499,NAD83,"GPS, 10m",Yolo
+779,A02925,Sacramento Slough near Karnak,Sac. Sl. nr Karnak,Surface Water,38.779365,-121.637754,NAD83,Unknown,Sutter
+780,D21325,Salinas River near Gonzalez,Salinas nr Gonzalez,Surface Water,36.4880333,-121.4685888,NAD83,1/250000,Monterey
+781,F3410000,Salmon River at Somes Bar,SALMON R A SOMES,Water Quality,41.37695,-123.47736,NAD83,Unknown,Siskiyou
+782,B00470,Salt Slough near Stevinson,Salt Sl nr Stevinson,Surface Water,37.294267,-120.851233,NAD83,"GPS, 10m",Merced
+783,B95740,San Joaquin River @ Brandt Bridge,San Joaquin (BDT),Surface Water,37.8646267,-121.3230811,NAD83,"GPS, 10m",San Joaquin
+784,B95740Q,San Joaquin River @ Brandt Bridge,San Joaquin (BDT),Tide Station,37.8646267,-121.3230811,NAD83,"GPS, 10m",San Joaquin
+785,B9578200,San Joaquin River @ Dos Reis Park,Dos Reis,Water Quality,37.83069444,-121.3115833,NAD83,Unknown,San Joaquin
+786,B95820,San Joaquin River @ Mossdale,San Joaquin (MSD),Surface Water,37.7861406,-121.3064897,NAD83,"GPS, 10m",San Joaquin
+787,B95820Q,San Joaquin River @ Mossdale,San Joaquin (MSD),Tide Station,37.7861406,-121.3064897,NAD83,"GPS, 10m",San Joaquin
+788,B0702000,San Joaquin River @ Vernalis,Vernalis,Water Quality,37.6793,-121.265,NAD83,Unknown,San Joaquin
+789,B95760,San Joaquin River above Dos Reis,SJR above Dos Reis,Tide Station,37.8223312,-121.3177244,NAD83,"GPS, 10m",San Joaquin
+790,B9576000,San Joaquin River above Dos Reis Park,SJR abv Dos Reis,Water Quality,37.8223261,-121.3177114,NAD83,"GPS, 10m",San Joaquin
+791,B95020,San Joaquin River at Antioch,San Joaquin @ Antioc,Surface Water,38.01777778,-121.8030556,NAD83,Unknown,Contra Costa
+792,B95029,San Joaquin River at Blind Point,San Joaquin @ Blind,Surface Water,38.0325,-121.719083,NAD83,"GPS, 10m",San Joaquin
+793,B9502900,San Joaquin River at Blind Point,San Joaquin @ Blind,Water Quality,38.0324949,-121.7190699,NAD83,"GPS, 10m",San Joaquin
+794,B95880,San Joaquin River at D.V.I. Pump,SJR at D.V.I. Pump,Surface Water,37.75002778,-121.3028889,NAD83,Unknown,San Joaquin
+795,B07375,San Joaquin River at Fremont Ford Bridge,San Joaquin @ Fremon,Surface Water,37.309939,-120.92937,NAD83,1/250000,Merced
+796,B07040,San Joaquin River at Maze Road Bridge,San Joaquin @ Maze R,Surface Water,37.641317,-121.222867,NAD83,"GPS, 10m",Stanislaus
+797,B07200,San Joaquin River at Patterson Bridge,San Joaquin @ Patter,Surface Water,37.493717,-121.080967,NAD83,"GPS, 10m",Stanislaus
+798,B95620,San Joaquin River at Rindge Pump,San Joaquin @ Rindge,Tide Station,37.99722222,-121.4194444,NAD83,Unknown,San Joaquin
+799,B95100,San Joaquin River at San Andreas Landing (SSA),San Joaquin @ San An,Tide Station,38.10333333,-121.5913889,NAD83,Unknown,Sacramento
+800,B95580,San Joaquin River at Venice Island,San Joaquin @ Venice,Tide Station,38.05,-121.4966667,NAD83,Unknown,San Joaquin
+801,B07798,San Joaquin River below Control Structure,San Joaquin blw Cont,Surface Water,36.773282,-120.28711,NAD83,1/250000,Madera
+802,B95765,San Joaquin River below Old River near Lathrop,San Joaquin (SJL),Surface Water,37.8109919,-121.3239944,NAD83,"GPS, 10m",San Joaquin
+803,B95765Q,San Joaquin River below Old River near Lathrop,San Joaquin (SJL),Tide Station,37.8109919,-121.3239944,NAD83,"GPS, 10m",San Joaquin
+804,B95850,San Joaquin River below Paradise Dam,SJR blw Paradise Dam,Surface Water,37.76055556,-121.3092778,NAD83,Unknown,San Joaquin
+805,B95640Q,San Joaquin River near Buckley Cove,Buckley Cove,Tide Station,37.98026611,-121.3857175,NAD83,"GPS, 10m",San Joaquin
+806,B07610,San Joaquin River near Dos Palos,San Joaquin nr Dos P,Surface Water,36.994946,-120.501013,NAD83,1/250000,Fresno
+808,B07710,San Joaquin River near Mendota,San Joaquin nr Mendo,Surface Water,36.809949,-120.37767,NAD83,1/250000,Fresno
+809,B07400,San Joaquin River near Stevinson,San Joaquin nr Stevi,Surface Water,37.294,-120.851,NAD83,"GPS, 10m",Merced
+810,B07575,San Joaquin River Near Washington Road,San Joaquin nr Washi,Surface Water,37.1114,-120.590617,NAD83,"GPS, 10m",Fresno
+811,D01180,San Lorenzo River at Paradise Park,San Lorenzo @ Paradi,Surface Water,37.010227,-122.043853,NAD83,1/250000,Santa Cruz
+812,X31050,San Luis Rey R A Pauma Valley,PAU SRO,Surface Water,33.313297,-117.00093,NAD83,Unknown,San Diego
+813,Z31750,Sanata Clara R A MRCA BR,RVA SRO,Surface Water,34.43865,118.27802,NAD83,Unknown,Los Angeles
+814,13N11W17Q001M,Sanel Valley Well 1 screen 84-103 ft bgs,SV-1,Groundwater,38.981237,-123.088911,NAD83,"Survey, 1m",Mendocino
+815,13N11W19H001M,Sanel Valley Well 2A screen 24-43 ft bgs,SV-2A,Groundwater,38.9722,-123.1033,NAD83,"Survey, 1m",Mendocino
+816,13N11W19H002M,Sanel Valley Well 2B screen 57-66 ft bgs,SV-2B,Groundwater,38.9722,-123.1033,NAD83,"Survey, 1m",Mendocino
+817,F25040,Scott River near Scott Bar,SNB,Surface Water,41.775417,-123.035028,NAD83,Unknown,Siskiyou
+818,F26050,"Scott River, East Fork, at Callahan","Scott R, East Fork",Surface Water,41.311247,-122.800799,NAD83,Unknown,Siskiyou
+819,F28100,"Scott River, South Fork, near Callahan","Scott R, South Fork",Surface Water,41.295359,-122.809504,NAD83,Unknown,Siskiyou
+820,A81845,Scotts Creek at Eickhoff Road near Lakeport,Scotts Cr @ Eickhoff,Surface Water,39.095449,-122.961045,NAD83,Unknown,Lake
+821,29N04W03R002M,Sha_03R002M screen interval 740-880 ft bgs,Screen: 740-880 ft,Groundwater,40.392931,-122.294453,NAD83,"GPS, 10m",Shasta
+822,29N04W03R003M,Sha_03R003M screen interval 515-660 ft bgs,Screen: 515-660 ft,Groundwater,40.392931,-122.294453,NAD83,"GPS, 10m",Shasta
+823,29N04W03R004M,Sha_03R004M screened interval 380-390 ft bgs,Screen: 380-390 ft,Groundwater,40.392931,-122.294453,NAD83,"GPS, 10m",Shasta
+824,29N04W03R005M,Sha_03R005M screened interval 128-188 ft bgs,Screen: 128-188 ft,Groundwater,40.392931,-122.294453,NAD83,"GPS, 10m",Shasta
+825,29N04W03R006M,Sha_03R006M screened interval 40-60 ft bgs,Screen: 40-60 ft,Groundwater,40.392931,-122.294453,NAD83,"GPS, 10m",Shasta
+826,30N04W10H002M,SHA_10H002M screen interval 20 to 40 bgs,Screen: 20-40 ft,Groundwater,40.4707,-122.2954,NAD83,Unknown,Shasta
+827,30N04W10H003M,SHA_10H003M screen interval 100 to 150 bgs,Screen: 100-150 ft,Groundwater,40.4707,-122.2954,NAD83,Unknown,Shasta
+828,30N04W10H004M,SHA_10H004M screen interval 35 to 55 bgs,10H004M shallow,Groundwater,40.47052,-122.295136,WGS84,"GPS, 10m",Shasta
+829,30N04W10H005M,SHA_10H005M screen interval 110 to 160 bgs,ACID 10H005M,Groundwater,40.470478,-122.295155,WGS84,"GPS, 10m",Shasta
+830,30N03W18B001M,SHA_18B001M screen interval 30 to 50 bgs,Screen: 30-50 ft,Groundwater,40.461329,-122.244303,NAD83,Unknown,Shasta
+831,30N03W18B002M,SHA_18B002M screen interval 110 to 160 bgs,Screen: 110-160 ft,Groundwater,40.461331,-122.244265,NAD83,Unknown,Shasta
+832,30N04W22F002M,SHA_22F002M screen interval 70 to 110 bgs,Screen: 70-110 ft,Groundwater,40.441159,-122.301553,NAD83,Unknown,Shasta
+833,30N04W22F003M,SHA_22F003M screen interval 170 to 200 bgs,Screen: 170-200 ft,Groundwater,40.441123,-122.301538,NAD83,Unknown,Shasta
+834,30N04W22F004M,SHA_22F004M screen interval 480 to 520 bgs,Screen: 480-520 ft,Groundwater,40.44123583,-122.3017765,NAD83,Unknown,Shasta
+835,31N04W22P001M,SHA_22P001M screen interval 600 to 660 bgs,31N04W22P001M,Groundwater,40.5223917,-122.3091367,NAD83,"Survey, 1m",Shasta
+836,31N04W22P002M,SHA_22P002M screen interval 470 to 510 bgs,31N04W22P002M,Groundwater,40.5223931,-122.3091373,NAD83,"Survey, 1m",Shasta
+837,31N04W22P003M,SHA_22P003M screen interval 170 to 280 bgs,31N04W22P003M,Groundwater,40.5223923,-122.3091349,NAD83,"Survey, 1m",Shasta
+838,31N04W22P004M,SHA_22P004M screen interval 85 to 105 bgs,31N04W22P004M,Groundwater,40.5223936,-122.3091356,NAD83,"Survey, 1m",Shasta
+839,30N04W23M001M,SHA_23M001M screen interval 80 to 110 bgs,Screen: 80-110 ft,Groundwater,40.43773944,-122.288336,NAD83,Unknown,Shasta
+840,30N04W23M002M,SHA_23M002M screen interval 140 to 180 bgs,Screen: 140-180 ft,Groundwater,40.43775711,-122.2882768,NAD83,Unknown,Shasta
+841,30N04W25D003M,SHA_25D003M screen interval 100 to 120 bgs,Screen: 100-120 ft,Groundwater,40.43101428,-122.2731396,NAD83,Unknown,Shasta
+842,30N04W25D004M,SHA_25D004M screen interval 150 to 200 bgs,Screen: 150-200 ft,Groundwater,40.43105944,-122.2731626,NAD83,Unknown,Shasta
+843,31N04W29R004M,SHA_29R004M screen interval 169 to 209,R04M,Groundwater,40.5074,-122.3383,WGS84,"GPS, 10m",Shasta
+844,31N04W29R006M,SHA_29R006M screen interval 245 to 325,R06M,Groundwater,40.5073,-122.3383,WGS84,"GPS, 10m",Shasta
+845,30N03W30Q002M,SHA_30Q002M screen interval 70 to 100 bgs,Screen: 70-100 ft,Groundwater,40.419478,-122.246346,NAD83,Unknown,Shasta
+846,30N03W32P003M,SHA_32P003M screen interval 60 to 100 bgs,Screen: 60-100 ft,Groundwater,40.40599656,-122.2300515,NAD83,Unknown,Shasta
+847,38N05E35P001M,SHA_35P001M screen interval 20 to 21.5,38N05E35P001M,Groundwater,41.0805,-121.3651,WGS84,"GPS, 10m",Shasta
+848,F25484,Shackleford Creek near Mugginsville,SCK,Surface Water,41.624813,-122.965664,NAD83,Unknown,Siskiyou
+849,F21368,Shasta R ab GID PP nr Grenada,Shasta R ab GID PP,Surface Water,41.61,-122.471111,NAD83,Unknown,Siskiyou
+850,F21393,Shasta River below Dwinnell Reservoir near Edgewood,Shasta R bl Dwinnell,Surface Water,41.04321667,-122.3768889,NAD83,"GPS, 10m",Siskiyou
+851,F21394,Shasta River Cross Canal Weir at Dwinnell Dam (PrioRt),Shasta R XCanal Weir,Surface Water,41.54199,-122.3747,NAD83,Unknown,Siskiyou
+852,F21675,Shasta River near Edgewood (lower),SRE,Surface Water,41.47288,-122.439399,NAD83,Unknown,Siskiyou
+853,F21700,Shasta River near Edgewood (upper),Shasta R. nr Edge,Surface Water,41.47098,-122.440878,NAD83,Unknown,Siskiyou
+854,F21370,Shasta River near Grenada,Shasta R nr Grenada,Surface Water,41.607727,-122.45276,NAD83,Unknown,Siskiyou
+855,F2105000,Shasta River near Yreka,SHASTA R NEAR YREKA,Water Quality,41.82316,-122.59518,NAD83,Unknown,Siskiyou
+856,B81150,Silver Creek near Panoche,Silver Cr nr Panoche,Surface Water,36.59162,-120.684341,NAD83,1/250000,Fresno
+857,48N04E13K001M,SIS_13K001M screen interval 935 to 1557 bgs,Screen: 935-1557 ft,Groundwater,41.997039,-121.45195,NAD83,Unknown,Siskiyou
+858,48N04E14M001M,SIS_14M001M screen interval 36 to 127 bgs,Screen: 36-127 ft,Groundwater,41.997213,-121.484248,NAD83,Unknown,Siskiyou
+859,48N04E15K001M,SIS_15K001M screen interval 1212 to 1433 bgs,Screen: 1212-1433 ft,Groundwater,41.997792,-121.493084,NAD83,Unknown,Siskiyou
+860,48N04E16M001M,SIS_16M001M screen interval 1053 to 1537 bgs,Screen: 1053-1537 ft,Groundwater,41.997942,-121.525125,NAD83,Unknown,Siskiyou
+861,48N04E16P003M,SIS_16P003M screen interval less than 1200 bgs,Screen: Unknown,Groundwater,41.996289,-121.515967,NAD83,Unknown,Siskiyou
+862,48N04E18J001M,SIS_18J001M screen interval 1260 to 1540 bgs,Screen: 1260-1540 ft,Groundwater,41.997975,-121.545492,NAD83,Unknown,Siskiyou
+863,47N01W27D001M,SIS_27D001M screen interval 1080 to 1090 ft bgs,BVA1,Groundwater,41.89439222,-121.9748336,NAD83,"Survey, 1m",Siskiyou
+864,47N01W27D002M,SIS_27D002M screen interval 790 to 850 ft bgs,BVA2,Groundwater,41.89439222,-121.9748336,WGS84,"Survey, 1m",Siskiyou
+865,47N01W27D003M,SIS_27D003M screen interval 185 to 215 ft bgs,BVA3,Groundwater,41.89439222,-121.9748336,WGS84,"Survey, 1m",Siskiyou
+866,47N01W27D004M,SIS_27D004M screen interval 80 to 100 ft bgs,BVA4,Groundwater,41.89439222,-121.9748336,WGS84,"Survey, 1m",Siskiyou
+867,43N06W28B001M,SIS_28B001M screen interval 400 to 420 bgs,43N06W28B001M,Groundwater,41.550591,-122.544563,NAD83,"Survey, 1m",Siskiyou
+868,43N06W28B002M,SIS_28B002M screen interval 360 to 370 bgs,43N06W28B002M,Groundwater,41.550591,-122.544563,NAD83,"Survey, 1m",Siskiyou
+869,43N06W28B003M,SIS_28B003M screen interval 260 to 290 bgs,43N06W28B003M,Groundwater,41.550591,-122.544563,NAD83,"Survey, 1m",Siskiyou
+870,43N06W28B004M,SIS_28B004M screen interval 180 to 200 bgs,43N06W28B004M,Groundwater,41.550591,-122.544563,NAD83,"Survey, 1m",Siskiyou
+871,48N04E30F001M,SIS_30F001M screen interval 25 to 142 bgs,Screen: 25-142 ft,Groundwater,41.97259403,-121.5574037,NAD83,Unknown,Siskiyou
+872,48N04E30F002M,SIS_30F002M screen interval 260 to 700 bgs,Screen: 260-700 ft,Groundwater,41.972031,-121.556709,NAD83,Unknown,Siskiyou
+873,48N04E30L001M,SIS_30L001M screen interval less than 50 bgs,Screen: Unknown,Groundwater,41.969267,-121.5586,NAD83,Unknown,Siskiyou
+874,48N04E35C001M,SIS_35C001M screen interval 2561 to 2761 bgs,Screen: 2561-2761 ft,Groundwater,41.960784,-121.481067,NAD83,"GPS, 10m",Siskiyou
+875,F0129950,Smith River at Hiouchi,SMITH R A HIOUCHI,Water Quality,41.79163,-124.07707,NAD83,Unknown,Del Norte
+877,A4400050,South Fork Trinity River at Hwy 299,SF Trinity R HWY299,Water Quality,40.889346,-123.602618,WGS84,Unknown,Trinity
+878,A05775,South Honcut Creek near Bangor,S.HoncutCrk nr Bngr,Surface Water,39.36777778,-121.3722222,NAD83,Unknown,Butte
+879,A5423000,Spanish Creek downstream from Greenhorn Creek confluenc,Spanish C DS Greenho,Water Quality,39.9758,-120.9059,NAD83,Unknown,Plumas
+880,B03115,Stanislaus River at Koetitz Ranch,Stanislaus @ Koetitz,Surface Water,37.699917,-121.170083,NAD83,"GPS, 10m",Stanislaus
+881,B03175,Stanislaus River at Orange Blossom Bridge,Stanislaus @ Orange,Surface Water,37.78825,-120.7625,NAD83,"GPS, 10m",Stanislaus
+882,B91479,Steamboat Slough Below Sutter Slough,Steamboat Sl blw Sut,Surface Water,38.25,-121.6020833,NAD83,Unknown,Sacramento
+883,B91450Q,Steamboat Slough near Sacramento River,Steamboat nr Sac R,Tide Station,38.191267,-121.637881,NAD83,"GPS, 10m",Sacramento
+884,B9145000,Steamboat Slough near Sacramento River (WQ),Steamboat nr Sac R,Water Quality,38.191267,-121.637881,NAD83,"GPS, 10m",Sacramento
+885,A0079500,Stillwater Creek near Anderson,STILLWATER C NR ANDE,Water Quality,40.47975,-122.25887,NAD83,Unknown,Shasta
+886,B62410,Stockton Creek at Highway 49 Near Mariposa,Stockton Cr @ Highwa,Surface Water,37.469382,-119.949616,NAD83,1/250000,Mariposa
+887,B95660,Stockton Ship Channel at Burns Cut-off,Stockton Ship (RRI),Surface Water,37.9627067,-121.3655556,NAD83,"GPS, 10m",San Joaquin
+888,B95660Q,Stockton Ship Channel at Burns Cut-off,Stockton Ship (RRI),Tide Station,37.9627067,-121.3655556,NAD83,"GPS, 10m",San Joaquin
+889,A0290000,Stony Creek @ The Nature Conservancy,Stony C @ TNC,Water Quality,39.69412,-121.99015,NAD83,Unknown,Glenn
+890,F25890,Sugar Creek near Callahan,SGN,Surface Water,41.328594,-122.843389,NAD83,Unknown,Siskiyou
+891,B95422,Sugar Cut,SGC,Surface Water,37.78836111,-121.4193889,NAD83,Unknown,San Joaquin
+892,B95415Q,Sugar Cut @ Golden Anchor,Sugar Cut Flow,Tide Station,37.7928598,-121.4214954,NAD83,"Survey, 1m",San Joaquin
+893,B9541500,Sugar Cut @ Golden Anchor - WQ,Sugar Cut (SGA),Water Quality,37.7928549,-121.4214819,NAD83,"Survey, 1m",San Joaquin
+895,G41550,Susan River at Susanville,Susan R @ Susanville,Surface Water,40.413717,-120.664222,NAD83,Unknown,Lassen
+896,17N02E25J001M,SUT_25J001M screen interval 490 to 590 bgs,BWD MW1 A - Deep,Groundwater,39.2968077,-121.6903562,NAD83,"GPS, 10m",Sutter
+897,17N02E25J002M,SUT_25J002M SCREEN INTERVAL 170 to 210 BGS,Screen: 170-210 ft,Groundwater,39.2968077,-121.6903562,NAD83,"GPS, 10m",Sutter
+898,17N02E25J003M,SUT_25J003M screen interval 40 to 80 bgs,BWD MW1 C - Shallow,Groundwater,39.2968077,-121.6903562,NAD83,"GPS, 10m",Sutter
+899,A0292700,Sutter BP at R-D 1500 PP at Karnak,SUTTER BP A R-D 1500,Water Quality,38.78523,-121.65428,NAD83,Unknown,Sutter
+900,A05909,Sutter Bypass at DWR Pumping Plant #1,SBP at P.P.#1,Surface Water,38.93232,-121.635328,NAD83,Unknown,Sutter
+901,A05920,Sutter Bypass at DWR Pumping Plant #2,SBP at P.P.#2,Surface Water,39.025682,-121.72718,NAD83,Unknown,Sutter
+902,A05925,Sutter Bypass at DWR Pumping Plant #3,SBP at P.P.#3,Surface Water,39.120065,-121.779776,NAD83,Unknown,Sutter
+903,A02927,Sutter Bypass at R.D. 1500 Pumping Plant near Karnak,SBP at R.D. 1500 PP,Surface Water,38.785275,-121.654318,NAD83,Unknown,Sutter
+904,13N03E26J003M,Sutter Co MW-4B mid-shallow screen 425 to 435 ft bgs,SCMW-4B,Groundwater,38.945159,-121.599153,NAD83,"GPS, 10m",Sutter
+905,13N03E26J004M,Sutter Co MW-4c mid-deep screen 590 to 600 ft bgs,SCMW-4C,Groundwater,38.945159,-121.599153,NAD83,"GPS, 10m",Sutter
+906,14N02E17C001M,Sutter County MW-1A shallow screen 33-53 ft bgs,SCMW-1A Shallow,Groundwater,39.06955,-121.77784,NAD83,"GPS, 10m",Sutter
+907,14N02E17C002M,Sutter County MW-1B Mid-Shallow screen 205-235 ft bgs,SCMW-1B Mid-Shallow,Groundwater,39.06955,-121.77784,NAD83,"GPS, 10m",Sutter
+908,14N02E17C003M,Sutter County MW-1C Mid-deep screen 395-415 ft bgs,SCMW-1C Mid-Deep,Groundwater,39.06955,-121.77784,NAD83,"GPS, 10m",Sutter
+909,14N02E17C004M,Sutter County MW-1D Deep screen 725-745 ft bgs,SCMW-1D Deep,Groundwater,39.06955,-121.77784,NAD83,"GPS, 10m",Sutter
+910,12N02E23H001M,Sutter County MW-2A shallow screen 120 to 140 ft bgs,SCMW-2A,Groundwater,38.876059,-121.709429,NAD83,"GPS, 10m",Sutter
+911,12N02E23H002M,Sutter County MW-2B mid-shall screen 260 to 280 ft bgs,SCMW-2B,Groundwater,38.876059,-121.709429,NAD83,"GPS, 10m",Sutter
+912,12N02E23H003M,Sutter County MW-2C mid-deep screen 570 to 590 ft bgs,SCMW-2C,Groundwater,38.876059,-121.709429,NAD83,"GPS, 10m",Sutter
+913,12N02E23H004M,Sutter County MW-2D deep screen 695 to 705 ft bgs,SCMW-2D,Groundwater,38.876059,-121.709429,NAD83,"GPS, 10m",Sutter
+914,16N03E17J001M,Sutter County MW-3A shallow screen 65-75 ft bgs,SCMW-3A Shallow,Groundwater,39.239358,-121.65086,NAD83,"Survey, 1m",Sutter
+915,16N03E17J002M,Sutter County MW-3B mid-shallow screen 285-305 ft bgs,SCMW-3B Mid-Shallow,Groundwater,39.239358,-121.65086,NAD83,"Survey, 1m",Sutter
+916,16N03E17J003M,Sutter County MW-3C mid-middle screen 400-420 ft bgs,SCMW-3C Mid-Middle,Groundwater,39.239358,-121.65086,NAD83,"Survey, 1m",Sutter
+917,16N03E17J004M,Sutter County MW-3D middle-deep screen 595-605 ft bgs,SCMW-3D Mid-Deep,Groundwater,39.239358,-121.65086,NAD83,"Survey, 1m",Sutter
+918,16N03E17J005M,Sutter County MW-3E deep screen 765-775 ft bgs,SCMW-3E Deep,Groundwater,39.239358,-121.65086,NAD83,"Survey, 1m",Sutter
+919,13N03E26J002M,Sutter County MW-4A shallow screen 145 to 165 ft bgs,SCMW-4A,Groundwater,38.945159,-121.599153,NAD83,"GPS, 10m",Sutter
+920,13N03E26J005M,Sutter County MW-4D deep screen 995 to 1005 ft bgs,SCMW-4D,Groundwater,38.945159,-121.599153,NAD83,"GPS, 10m",Sutter
+921,11N03E02Q002M,Sutter County MW-5A shallow screen 130 to 160 ft bgs,SCMW-5A,Groundwater,38.82323563,-121.6076354,NAD83,"Survey, 1m",Sutter
+922,11N03E02Q003M,Sutter County MW-5B Mid-Shallow screen 655-675 FT BGS,SCMW-5B,Groundwater,38.82323563,-121.6076354,NAD83,"Survey, 1m",Sutter
+923,11N03E02Q004M,Sutter County MW-5C Mid-Deep screen 910-920 FT BGS,SCMW-5C,Groundwater,38.82323563,-121.6076354,NAD83,"Survey, 1m",Sutter
+924,11N03E02Q005M,Sutter County MW-5D Deep screen 1205-1215 FT BGS,SCMW-5D,Groundwater,38.82323563,-121.6076354,NAD83,"Survey, 1m",Sutter
+925,13N03E06A001M,Sutter County MW-6A Shallow screen 45-55 FT BGS,SCMW-6A,Groundwater,39.00864169,-121.6718796,NAD83,"Survey, 1m",Sutter
+926,13N03E06A002M,Sutter County MW-6B Middle screen 155-165 FT BGS,SCMW-6B,Groundwater,39.00864169,-121.6718796,NAD83,"Survey, 1m",Sutter
+927,13N03E06A003M,Sutter County MW-6C Deep screen 245-255 FT BGS,SCMW-6C,Groundwater,39.00864169,-121.6718796,NAD83,"Survey, 1m",Sutter
+928,11N04E04N005M,Sutter Land Subsidence Extensometer depth 1003 ft bgs,SUT Ext,Groundwater,38.823863,-121.543073,NAD83,"GPS, 10m",Sutter
+929,14N02E32D001M,Sutter Mutual Water Company MW-1A,SMWC-1A,Groundwater,39.0244,-121.7812,NAD83,"Survey, 1m",Sutter
+930,14N02E32D002M,Sutter Mutual Water Company MW-1B,SMWC-1B,Groundwater,39.0244,-121.7812,NAD83,"Survey, 1m",Sutter
+931,14N02E32D003M,Sutter Mutual Water Company MW-1C,SMWC-1C,Groundwater,39.0244,-121.7812,NAD83,"Survey, 1m",Sutter
+932,11N04E04N001M,Sutter Subsidence Well deep screen 880-890 ft bgs,SUT P4 deep,Groundwater,38.823611,-121.543113,NAD83,"GPS, 10m",Sutter
+933,11N04E04N002M,Sutter Subsidence Well mid-deep screen 295-305 ft bgs,SUT P3 middle-deep,Groundwater,38.823611,-121.543113,NAD83,"GPS, 10m",Sutter
+934,11N04E04N003M,Sutter Subsidence Well mid-shall screen 185-195 ft bgs,SUT P2 mid-shallow,Groundwater,38.823611,-121.543113,NAD83,"GPS, 10m",Sutter
+935,11N04E04N004M,Sutter Subsidence Well shallow screen 110-120 ft bgs,SUT P1 shallow,Groundwater,38.823611,-121.543113,NAD83,"GPS, 10m",Sutter
+936,A04330,SVWC Deer Creek South Diversion near Vina,SVWC Deer Cr S Diver,Surface Water,39.961425,-122.034056,NAD83,Unknown,Tehama
+937,24N02W01L001M,TEH_01L001M screen interval 350-450 bgs,Screen: 350-450- ft,Groundwater,39.961965,-122.03913,NAD83,Unknown,Tehama
+938,24N02W01L002M,TEH_01L002M screen interval 750-840 bgs,Screen: 750-840- ft,Groundwater,39.961965,-122.03913,NAD83,Unknown,Tehama
+939,24N02W01R001M,TEH_01R001M screen interval 640-690 bgs,Screen: 640-690- ft,Groundwater,39.958006,-122.029578,NAD83,Unknown,Tehama
+940,24N02W01R002M,TEH_01R002M screen interval 788 to 843 bgs,Screen: 788-843 ft,Groundwater,39.958006,-122.029578,NAD83,Unknown,Tehama
+941,24N02W03B001M,TEH_03B001M screen interval 152 to 368 bgs,Screen: 152-368 ft,Groundwater,39.970291,-122.074517,NAD83,Unknown,Tehama
+942,24N01W04L001M,TEH_04L001M screen interval 188 to 520 bgs,Screen: 188-520 ft,Groundwater,39.962981,-121.988839,NAD83,Unknown,Tehama
+943,24N01W04M001M,TEH_04M001M screen interval 620 to 920 bgs,Screen: 620-920 ft,Groundwater,39.962467,-121.994654,NAD83,Unknown,Tehama
+944,24N01W05G001M,TEH_05G001M screen interval 130 to 490 bgs,Screen: 130-490 ft,Groundwater,39.96552,-122.000431,NAD83,Unknown,Tehama
+945,24N01W05J001M,TEH_05J001M screen interval less than 178 bgs,Screen: Unknown,Groundwater,39.963509,-121.995328,NAD83,Unknown,Tehama
+946,24N01W05J004M,TEH_05J004M screen interval 650 to 722 bgs,Screen: 650-722 ft,Groundwater,39.963278,-121.995462,NAD83,Unknown,Tehama
+947,24N01W05K001M,TEH_05K001M screen interval less than 260 bgs,Screen: Unknown,Groundwater,39.961492,-122.004195,NAD83,Unknown,Tehama
+948,24N01W05Q003M,TEH_05Q003M screen interval 310 to 330 bgs,Screen: 310-330 ft,Groundwater,39.956729,-122.003131,NAD83,Unknown,Tehama
+949,24N01W05Q004M,TEH_05Q004M screen interval 700 to 790 bgs,Screen: 700-790 ft,Groundwater,39.956729,-122.003131,NAD83,Unknown,Tehama
+950,24N01W05R002M,TEH_05R002M screen interval less than 160 bgs,Screen: Unknown,Groundwater,39.95675,-121.995642,NAD83,Unknown,Tehama
+951,24N01W06J002M,TEH_06J002M screen interval 290 to 300 bgs,Screen: 290-300 ft,Groundwater,39.962048,-122.017114,NAD83,Unknown,Tehama
+952,25N03W11B001M,TEH_11B001M screen interval 150 to 180 bgs,Screen: 150-180 ft,Groundwater,40.042815,-122.166514,NAD83,Unknown,Tehama
+953,25N03W11B002M,TEH_11B002M screen interval 680 to 750 bgs,Screen: 680-750 ft,Groundwater,40.042815,-122.166514,NAD83,Unknown,Tehama
+954,25N03W11B003M,TEH_11B003M screen interval 940 to 960 bgs,Screen: 940-960 ft,Groundwater,40.042815,-122.166514,NAD83,Unknown,Tehama
+955,24N02W12P001M,TEH_12P001M screen interval 164 to 359 bgs,Screen: 164-359 ft,Groundwater,39.945556,-122.039923,NAD83,Unknown,Tehama
+956,24N02W12P002M,TEH_12P002M screen interval 760 to 850 bgs,Screen: 760-850 ft,Groundwater,39.945556,-122.039923,NAD83,Unknown,Tehama
+957,23N03W13C003M,TEH_13C003M screen interval 900 to 970 bgs,Screen: 900-970 ft,Groundwater,39.8543,-122.153467,NAD83,Unknown,Tehama
+958,23N03W13C004M,TEH_13C004M screen interval 812 to 825 bgs,Screen: 812-825 ft,Groundwater,39.8543,-122.153467,NAD83,Unknown,Tehama
+959,23N03W13C005M,TEH_13C005M screen interval 345 to 355 bgs,Screen: 345-355 ft,Groundwater,39.8543,-122.153467,NAD83,Unknown,Tehama
+960,23N03W13C006M,TEH_13C006M screen interval 95 to 135 bgs,Screen: 95-135 ft,Groundwater,39.8543,-122.153467,NAD83,Unknown,Tehama
+961,23N03W13C007M,TEH_13C007M screen interval 25 to 35 bgs,Screen: 25-35 ft,Groundwater,39.8543,-122.153467,NAD83,Unknown,Tehama
+962,25N05W13P002M,TEH_13P002M screen interval 875 to 895 ft bgs,TEH_13P002M,Groundwater,40.01636802,-122.3818408,WGS84,"Survey, 1m",Tehama
+963,25N05W13P003M,TEH_13P003M screen interval 285 to 555 ft bgs,TEH_13P003M,Groundwater,40.0163712,-122.3809664,WGS84,"Survey, 1m",Tehama
+964,25N05W13P004M,TEH_13P004M screen interval 230 to 280 ft bgs,TEH_13P004M,Groundwater,40.01637315,-122.3809656,WGS84,"Survey, 1m",Tehama
+965,25N05W13P005M,TEH_13P005M screen interval 100 to 170 ft bgs,TEH_13P005M,Groundwater,40.0163724,-122.3809669,WGS84,"Survey, 1m",Tehama
+966,26N02W14G001M,TEH_14G001M screen interval unknown,Screen: Unknown,Groundwater,40.1076,-122.063,NAD83,"GPS, 10m",Tehama
+967,27N03W15N004M,TEH_15N004M screen interval 680-700 & 730-750 ft bgs,Screen: 680-750 ft,Groundwater,40.187439,-122.198787,NAD83,"Survey, 1m",Tehama
+968,27N03W15N005M,TEH_15N005M screen interval 510 to 550 ft bgs,Screen: 510-550 ft,Groundwater,40.187439,-122.198787,NAD83,"Survey, 1m",Tehama
+969,27N03W15N006M,TEH_15N006M screen interval 290-300 & 320-340 ft bgs,Screen: 290-340 ft,Groundwater,40.187439,-122.198787,NAD83,"Survey, 1m",Tehama
+970,27N03W15N007M,TEH_15N007M screen interval 110-120 & 170-210 ft bgs,Screen: 110-210 ft,Groundwater,40.187439,-122.198787,NAD83,"Survey, 1m",Tehama
+971,27N03W15N008M,TEH_15N008M screen interval 65 to 85 ft bgs,Screen: 65-85 ft,Groundwater,40.187439,-122.198787,NAD83,"Survey, 1m",Tehama
+972,29N03W18M001M,TEH_18M001M screen interval 125 to 234 bgs,Screen: 125-234 ft,Groundwater,40.36722,-122.254839,NAD83,Unknown,Tehama
+973,29N04W20A001M,TEH_20A001M screen interval 755 to 855 bgs,Screen: 755-855 ft,Groundwater,40.358539,-122.333847,NAD83,Unknown,Tehama
+974,29N04W20A002M,TEH_20A002M screen interval 360 to 430 bgs,Screen: 360-430 ft,Groundwater,40.358539,-122.333847,NAD83,Unknown,Tehama
+975,29N04W20A003M,TEH_20A003M screen interval 154 to 189 bgs,Screen: 154-189 ft,Groundwater,40.358539,-122.333847,NAD83,Unknown,Tehama
+976,29N04W20A004M,TEH_20A004M screen interval 50 to 60 bgs,Screen: 50-60 ft,Groundwater,40.358539,-122.333847,NAD83,Unknown,Tehama
+977,26N02W22G002M,TEH_22G002M screen interval unknown,Screen: Unknown,Groundwater,40.0937,-122.0759,NAD83,"GPS, 10m",Tehama
+978,26N02W22G003M,TEH_22G003M screen interval unknown,Screen: Unknown,Groundwater,40.0938,-122.0761,NAD83,"GPS, 10m",Tehama
+979,24N02W24D002M,TEH_24D002M screen interval 979 to 989 bgs,Screen: 979-989 ft,Groundwater,39.925145,-122.043564,NAD83,"GPS, 10m",Tehama
+980,24N02W24D003M,TEH_24D003M screen interval 731 to 741 bgs,Screen: 731-741 ft,Groundwater,39.925145,-122.043564,NAD83,"GPS, 10m",Tehama
+981,24N02W24D004M,TEH_24D004M screen interval 346 to 356 bgs,Screen: 346-356 ft,Groundwater,39.925145,-122.043564,NAD83,"GPS, 10m",Tehama
+982,23N03W25M002M,TEH_25M002M SCREEN INTERVAL 470 TO 500 BGS,Screen: 470-500 ft,Groundwater,39.81925,-122.159,WGS84,"GPS, 10m",Tehama
+983,23N03W25M003M,TEH_25M003M SCREEN INTERVAL 240 TO 250 BGS,Screen: 240-250 ft,Groundwater,39.81925,-122.159,WGS84,"GPS, 10m",Tehama
+984,23N03W25M004M,TEH_25M004M SCREEN INTERVAL 120 TO 130 BGS,Screen: 120-130 ft,Groundwater,39.81925,-122.159,WGS84,"GPS, 10m",Tehama
+985,23N03W25M001M,TEH_25MOO1M SCREEN INTERVAL 965 TO 975 BGS,Screen: 965-975 ft,Groundwater,39.81925,-122.159,WGS84,"GPS, 10m",Tehama
+986,26N02W26F001M,TEH_26F001M screen interval unknown,Screen: Unknown,Groundwater,40.08043,-122.065966,NAD83,"GPS, 10m",Tehama
+987,24N02W27G001M,TEH_27G001M screen interval 939 to 949 bgs,Screen: 939-949 ft,Groundwater,39.90775,-122.072131,NAD83,"GPS, 10m",Tehama
+988,24N02W27G002M,TEH_27G002M screen interval 495 to 505 bgs,Screen: 495-505 ft,Groundwater,39.90775,-122.072131,NAD83,"GPS, 10m",Tehama
+989,24N02W27G003M,TEH_27G003M screen interval 168 to 178 bgs,Screen: 168-178 ft,Groundwater,39.90775,-122.072131,NAD83,"GPS, 10m",Tehama
+990,24N02W27G004M,TEH_27G004M screen interval 64 to 74 bgs,Screen: 64-74 ft,Groundwater,39.90775,-122.072131,NAD83,"GPS, 10m",Tehama
+991,23N02W28N001M,TEH_28N001M SCREEN INTERVAL 910 TO 950 BGS,Screen: 550-570 ft,Groundwater,39.811489,-122.102064,WGS84,"GPS, 10m",Tehama
+992,23N02W28N002M,TEH_28N002M SCREEN INTERVAL 550 TO 570 BGS,Screen: 550-570 ft,Groundwater,39.811489,-122.102064,WGS84,"Survey, 1m",Tehama
+993,23N02W28N003M,TEH_28N003M SCREEN INTERVAL 330 TO 350 BGS,Screen: 330-350 ft,Groundwater,39.811486,-122.102101,WGS84,"GPS, 10m",Tehama
+994,23N02W28N004M,TEH_28N004M SCREEN INTERVAL 100 TO 110 BGS,Screen: 110-110 ft,Groundwater,39.811486,-122.102101,WGS84,"Survey, 1m",Tehama
+995,24N02W29N003M,TEH_29N003M screen interval 200 to 290 bgs,Screen: 200-290 ft,Groundwater,39.899609,-122.122728,NAD83,Unknown,Tehama
+996,24N02W29N004M,TEH_29N004M screen interval 590 to 710 bgs,Screen: 590-710 ft,Groundwater,39.899609,-122.122728,NAD83,Unknown,Tehama
+997,24N03W29Q001M,TEH_29Q001M screen interval 130 to 360 bgs,Screen: 130-360 ft,Groundwater,39.903046,-122.224557,NAD83,Unknown,Tehama
+998,24N03W29Q002M,TEH_29Q002M screen interval 490 to 550 bgs,Screen: 490-550 ft,Groundwater,39.903046,-122.224557,NAD83,Unknown,Tehama
+999,24N03W29Q003M,TEH_29Q003M screen interval 650 to 790 bgs,Screen: 650-790 ft,Groundwater,39.903046,-122.224557,NAD83,Unknown,Tehama
+1000,25N01W32P001M,TEH_32P001M screen interval 209 to 256 bgs,Screen: 209-256 ft,Groundwater,39.973278,-122.006864,NAD83,Unknown,Tehama
+1001,25N01W32P002M,TEH_32P002M screen interval 440 to 510 bgs,Screen: 440-510 ft,Groundwater,39.973278,-122.006864,NAD83,Unknown,Tehama
+1002,25N01W32P003M,TEH_32P003M screen interval 650 to 660 bgs,Screen: 650-660 ft,Groundwater,39.973278,-122.006864,NAD83,Unknown,Tehama
+1003,25N01W34N002M,TEH_34N002M screen interval 207 to 217 bgs,Screen: 207-217 ft,Groundwater,39.973967,-121.97482,NAD83,Unknown,Tehama
+1004,25N01W34N003M,TEH_34N003M screen interval 625 to 680 bgs,Screen: 625-680 ft,Groundwater,39.973967,-121.97482,NAD83,Unknown,Tehama
+1005,24N01W05J003M,TEH-05J003M screen interval 295 to 335 bgs,Screen: 295-335 ft,Groundwater,39.963278,-121.995462,NAD83,Unknown,Tehama
+1006,Y81170,Temescal Canyon Lake,TCL SRO,Surface Water,33.86722,-117.5303,NAD83,Unknown,Riverside
+1007,Y81175,Temescal WA N of Cajalco RD,CRN SRO,Surface Water,33.82752,-117.51041,NAD83,Unknown,Riverside
+1008,A0321800,Thomes Creek at Hall Road,THOMES C A HALL RD,Water Quality,39.98503,-122.12466,NAD83,Unknown,Tehama
+1009,A03500,Thomes Creek at Paskenta,Thomes Cr @ Paskenta,Surface Water,39.887842,-122.528563,NAD83,Unknown,Tehama
+1010,A0350000,Thomes Creek at Paskenta,Thomes C A Paskenta,Water Quality,39.887388,-122.52436,NAD83,Unknown,Tehama
+1011,25N13E36F001M,Thompson Creek MW 01,TC01,Groundwater,39.980439,-120.479052,WGS84,Unknown,Plumas
+1012,25N13E36F002M,Thompson Creek MW 02,TC02,Groundwater,39.978946,-120.479587,WGS84,Unknown,Plumas
+1013,25N13E36F003M,Thompson Creek MW 03,TC03,Groundwater,39.977934,-120.477751,WGS84,"Survey, 1m",Plumas
+1014,25N13E36L001M,Thompson Creek MW 04,TC04,Groundwater,39.977357,-120.479798,WGS84,"Survey, 1m",Plumas
+1015,25N13E36L002M,Thompson Creek MW 05,TC05,Groundwater,39.976538,-120.477381,WGS84,"Survey, 1m",Plumas
+1016,25N13E36K001M,Thompson Creek MW 06,TC06,Groundwater,39.97544,-120.475782,WGS84,"Survey, 1m",Plumas
+1017,25N13E36K002M,Thompson Creek MW 07,TC07,Groundwater,39.974172,-120.471742,WGS84,"Survey, 1m",Plumas
+1018,25N13E36K003M,Thompson Creek MW 08,TC08,Groundwater,39.976526,-120.473529,WGS84,Unknown,Plumas
+1019,25N13E36G001M,Thompson Creek MW 09,TC09,Groundwater,39.977363,-120.475535,WGS84,Unknown,Plumas
+1020,25N13E36F004M,Thompson Creek MW 10,TC10,Groundwater,39.979637,-120.478203,WGS84,Unknown,Plumas
+1021,B95060,Three Mile Slough at San Joaquin River,Three Mile Sl @ San,Tide Station,38.09,-121.6869444,NAD83,Unknown,Sacramento
+1022,B9506100,Three Mile Slough near San Joaquin River - WQ,Three Mile n. SJR,Water Quality,38.1032429,-121.6861559,NAD83,"GPS, 10m",San Joaquin
+1023,A02960,Tisdale Weir Spill to Sutter Bypass near Grimes,Tisdale Weir Spill,Surface Water,39.02644,-121.822086,NAD83,Unknown,Sutter
+1024,A52945,Toadtown Canal near Stirling,Toadtown Canal,Surface Water,39.88573,-121.610325,NAD83,Unknown,Butte
+1025,A0D83441350,Toe Drain at I80,I80,Water Quality,38.573111,-121.582958,WGS84,Unknown,Yolo
+1026,A0D84061386,Toe Drain at Rd. 22,RD22,Water Quality,38.676367,-121.643972,WGS84,Unknown,Yolo
+1027,A0D84061387,Toe Drain at Rd. 22 West,RD22 West,Water Quality,38.676385,-121.644315,WGS84,Unknown,Yolo
+1028,A0D82120386,Toe Drain at Screw Trap,STTD,Water Quality,38.353461,-121.642975,WGS84,"GPS, 10m",Yolo
+1029,B95421,Tom Paine Slough above Intake Structure,Tom Paine Sl abv Int,Surface Water,37.79011111,-121.4185278,NAD83,Unknown,San Joaquin
+1030,B9542100,Tom Paine Slough above Intake Structure - WQ,TPS abv Intake,Water Quality,37.7900829,-121.4184369,NAD83,Unknown,San Joaquin
+1031,B95420,Tom Paine Slough above Mouth,Tom Paine Sl abv Mou,Tide Station,37.79058333,-121.4185833,NAD83,Unknown,San Joaquin
+1032,B9542400,Tom Paine Slough at Paradise Ave,TPPA,Water Quality,37.774,-121.38254,NAD83,Unknown,San Joaquin
+1033,B95425,Tom Paine Slough at Pescadero P.P. #6,Tom Paine Sl @ Pesca,Surface Water,37.76738889,-121.3510833,NAD83,Unknown,San Joaquin
+1034,F4410000,"Trinity R, South Fork, at Sandy Bar",TRINITY R SF A SANDY,Water Quality,40.88031,-123.60422,NAD83,Unknown,Trinity
+1035,F4108000,Trinity River at Hoppa,TRINTY R A HOOPA,Water Quality,41.04362,-123.67028,NAD83,Unknown,Trinity
+1036,F4164000,Trinity River at Lewiston,TRINITY R A LEWIS,Water Quality,40.71994,-122.80291,NAD83,Unknown,Trinity
+1037,F4100000,Trinity River at Weitchpec,TRINITY R A WEITCH,Water Quality,41.18439,-123.70662,NAD83,Unknown,Trinity
+1038,F42100,"Trinity River, North Fork, near Helena (lower)","Trinity R, NF, nr He",Surface Water,40.781173,-123.128614,NAD83,Unknown,Trinity
+1039,F42105,"Trinity River, North Fork, near Helena (upper)","Trinity R, NF, nr He",Surface Water,40.782259,-123.128799,NAD83,Unknown,Trinity
+1040,G7159000,Truckee River above Donner Creek - WQ,TRAD,Surface Water,39.31582,-120.20126,NAD83,"GPS, 10m",Placer
+1041,G7130000,Truckee River above Little Truckee River - WQ,TRAL,Surface Water,39.38362,-120.09491,NAD83,"GPS, 10m",Nevada
+1042,G7140500,Truckee River above Prosser Creek - WQ,TRAP,Surface Water,39.36974,-120.1169,NAD83,"GPS, 10m",Nevada
+1043,G7151310,Truckee River above TTSA,Truckee abv TTSA,Water Quality,39.3381947,-120.133247,NAD83,"GPS, 10m",Nevada
+1044,G7125000,Truckee River at Boca Bridge - WQ,TRBB,Surface Water,39.385185,-120.087698,NAD83,"GPS, 10m",Nevada
+1045,G7166310,Truckee River at Bridge 8,Truckee @ Bridge 8,Water Quality,39.2293247,-120.205207,NAD83,"GPS, 10m",Placer
+1046,G7119500,Truckee River at Farad,Truckee @ Farad,Water Quality,39.4276817,-120.034051,NAD83,"GPS, 10m",Nevada
+1047,G7166500,Truckee River at Tahoe City,Truckee @ Tahoe City,Water Quality,39.16330556,-120.1483611,WGS84,"GPS, 10m",Placer
+1048,G7158500,Truckee River below Donner Creek - WQ,TRBD,Surface Water,39.3168,-120.19946,NAD83,"GPS, 10m",Nevada
+1049,G7135000,Truckee River below Prosser Creek,TRBP,Surface Water,39.37095,-120.116552,WGS84,"GPS, 10m",Nevada
+1050,G7160000,Truckee River near Truckee,Truckee nr Truckee,Water Quality,39.29636111,-120.20475,WGS84,"GPS, 10m",Placer
+1051,24N04W07F003M,TSS Red Bluff-Deep scrn 840-850 900-910,TSS Red Bluff-D,Groundwater,39.95219001,-122.361879,NAD83,"Survey, 1m",Tehama
+1052,24N04W07F004M,TSS Red Bluff-ID scn 390-400 470-490 535-545 595-615,TSS Red Bluff-ID,Groundwater,39.95219,-122.361879,NAD83,"Survey, 1m",Tehama
+1053,24N04W07F005M,TSS Red Bluff-IS scrn 210-220 260-270 285-295,TSS Red Bluff-IS,Groundwater,39.95219,-122.361879,NAD83,"Survey, 1m",Tehama
+1054,24N04W07F006M,TSS Red Bluff-Shallow scrn 80-90 140-150,TSS Red Bluff-S,Groundwater,39.95219,-122.361879,NAD83,"Survey, 1m",Tehama
+1055,C00300,Tulare Lake Water Surface Elevation,Tulare Lake,Surface Water,36.06875,-119.70791,NAD83,1/250000,Kings
+1056,C03169,Tule River below Porterville,Tule blw Porterville,Surface Water,36.078285,-119.107605,NAD83,1/250000,Tulare
+1057,B04150,Tuolumne River at Hickman Bridge,Tuolumne @ Hickman B,Surface Water,37.6335,-120.76558,NAD83,"GPS, 10m",Stanislaus
+1058,B04105,Tuolumne River at Tuolumne City,Tuolumne @ Tuolumne,Surface Water,37.627153,-120.987434,NAD83,1/250000,Stanislaus
+1059,B9561600,Turner Cut near Holt,Turner Cut,Water Quality,37.9925279,-121.4540189,NAD83,"GPS, 10m",San Joaquin
+1061,01S06E29R001M,Upper Roberts Island Well 1A screen 23-28 ft bgs,UR-1A,Groundwater,37.81110136,-121.3256473,NAD83,"GPS, 10m",San Joaquin
+1062,01S06E29R002M,Upper Roberts Island Well 1B screen 20-25 ft bgs,UR-1B,Groundwater,37.81260856,-121.3256613,NAD83,"GPS, 10m",San Joaquin
+1063,01S06E29R003M,Upper Roberts Island Well 1C screen 35-40 ft bgs,UR-1C,Groundwater,37.81306824,-121.3257952,NAD83,"GPS, 10m",San Joaquin
+1064,01S06E16D002M,Upper Roberts Island Well 2A screen 12-17 ft bgs,UR-2A,Groundwater,37.85137325,-121.3236566,NAD83,"GPS, 10m",San Joaquin
+1065,01S06E16D003M,Upper Roberts Island Well 2B screen 14-19 ft bgs,UR-2B,Groundwater,37.85122454,-121.324648,NAD83,"GPS, 10m",San Joaquin
+1066,01S06E09E001M,Upper Roberts Island Well 3A screen 12-17 ft bgs,UR-3A,Groundwater,37.86251731,-121.3210288,NAD83,"GPS, 10m",San Joaquin
+1067,01S06E09E002M,Upper Roberts Island Well 3B screen 15-20 ft bgs,UR-3B,Groundwater,37.86251189,-121.3215894,NAD83,"GPS, 10m",San Joaquin
+1068,F6527900,Van Duzen River near Bridgeville,VAN DUZEN R NR BRIDG,Water Quality,40.48059,-123.89056,NAD83,Unknown,Humboldt
+1069,C03965,Vandalia Ditch near Porterville,Vandalia Di nr Porte,Surface Water,36.049952,-118.9726,NAD83,1/250000,Tulare
+1070,Z14010,Ventura R NR Santa Ana Blvd BR,OKV SRO,Surface Water,34.4021731,-119.3067118,NAD83,Unknown,Ventura
+1071,B9528500,VICTORIA CANAL NR BYRON CA,VICTORIA CANAL,Water Quality,37.8709389,-121.5299869,NAD83,1/250000,San Joaquin
+1072,A05927,Wadsworth Canal near Sutter (lower),Wadsworth Can nr Sut,Surface Water,39.128329,-121.755178,NAD83,Unknown,Sutter
+1073,A05929,Wadsworth Canal near Sutter (upper),Wadsworth Can nr Sut,Surface Water,39.15292,-121.734605,NAD83,Unknown,Sutter
+1074,F41550,Weaver Creek near Weaverville,Weaver Cr nr Weaverv,Surface Water,40.685477,-122.934247,NAD83,Unknown,Trinity
+1075,B9522500,Werner Dredger Cut near Palm Tract,WDC n. Palm Tract,Water Quality,37.9639909,-121.5948369,NAD83,"GPS, 10m",Contra Costa
+1076,B95338,West Canal @ Clifton Court Intake,West Canal nr Intake,Tide Station,37.8316122,-121.5540556,NAD83,"GPS, 10m",Contra Costa
+1077,B9533800,West Canal @ Clifton Court Intake - WQ,WCI WQ,Water Quality,37.831583,-121.554028,NAD83,Unknown,Contra Costa
+1078,B92050Q,Westervelt Tidal Wetland near mouth of Consumnes River,Westervelt,Tide Station,38.25417222,-121.4177778,WGS84,"GPS, 10m",Sacramento
+1079,B9205000,Westervelt Tidal Wetland near mouth of Consumnes River,Westervelt,Water Quality,38.25417222,-121.4177778,WGS84,"GPS, 10m",Sacramento
+1080,B9537200,Wicklund Cut at Bethany Rd Bridge,WCBR,Water Quality,37.78038579,-121.5173208,WGS84,Unknown,San Joaquin
+1081,B9537100,Wicklund Cut near Mouth (SOR28),SOR28,Water Quality,37.7897257,-121.5162436,WGS84,Unknown,San Joaquin
+1082,A18150,Willow Cr nr Adin,Willow Cr nr Adin,Surface Water,41.108055,-120.928612,NAD83,"GPS, 10m",Siskiyou
+1083,G42460,Willow Creek at Mapes Springs near Susanville,Willow Cr @ Mapes Sp,Surface Water,40.503325,-120.556698,NAD83,Unknown,Lassen
+1084,A02943,Willow Slough near Nicolaus,Willow Sl. nr Nic.,Surface Water,38.914589,-121.627554,NAD83,Unknown,Sutter
+1085,C03948,Woods Central Ditch near Porterville,Woods Central Di nr,Surface Water,36.071619,-119.087604,NAD83,1/250000,Tulare
+1086,18N04E19D001M,Wyandotte TSS- Deep screen 700-720,Wyandotte TSS- Deep,Groundwater,39.4051218,-121.5736171,NAD83,"Survey, 1m",Butte
+1087,18N04E19D002M,Wyandotte TSS- Int screen 430-450 550-570,Wyandotte TSS- Int,Groundwater,39.4051218,-121.5736171,NAD83,"Survey, 1m",Butte
+1088,18N04E19D003M,Wyandotte TSS- Shallow screen 120-130 190-200,Wyandotte TSS- S,Groundwater,39.4051218,-121.5736171,NAD83,"Survey, 1m",Butte
+1089,B91510,Yolo Bypass at Liberty Island,Yolo Bypass @ Libert,Surface Water,38.32916667,-121.6938889,NAD83,"GPS, 10m",Yolo
+1090,B91510B,Yolo Bypass at Liberty Island (Canal),Yolo Bypass @ Libert,Tide Station,38.32611111,-121.6938889,NAD83,Unknown,Yolo
+1091,B91511,Yolo Bypass at Liberty Island (Canal),Yolo Bypass @ Libert,Tide Station,38.32611111,-121.6938889,NAD83,Unknown,Yolo
+1092,A01500,Yolo Bypass Hydrogeologic Study Surface Water @ ARC2,YBHC-SW1,Surface Water,38.73346213,-121.6341759,NAD83,"Survey, 1m",Yolo
+1093,11N03E34D501M,Yolo Bypass Hydrogeologic Study Well 1A1 scr: 20-25 bgs,YBHC-1A1,Groundwater,38.76266402,-121.6357554,NAD83,"Survey, 1m",Yolo
+1094,11N03E34D500M,Yolo Bypass Hydrogeologic Study Well 1A2 scr: 40-45 bgs,YBHC-1A2,Groundwater,38.76265983,-121.6357555,NAD83,"Survey, 1m",Yolo
+1095,11N03E27N500M,Yolo Bypass Hydrogeologic Study Well 1B1 scr: 20-30 bgs,YBHC-1B1,Groundwater,38.76279371,-121.6350118,NAD83,"Survey, 1m",Yolo
+1096,11N03E27N501M,Yolo Bypass Hydrogeologic Study Well 1B2 scr: 40-50 bgs,YBHC-1B2,Groundwater,38.76280858,-121.6350256,NAD83,"Survey, 1m",Yolo
+1097,11N03E27N502M,Yolo Bypass Hydrogeologic Study Well 1C1 scr: 24-34 bgs,YBHC-1C1,Groundwater,38.76297651,-121.6336021,NAD83,"Survey, 1m",Yolo
+1098,11N03E27N503M,Yolo Bypass Hydrogeologic Study Well 1C2 scr: 40-50 bgs,YBHC-1C2,Groundwater,38.76298264,-121.6336193,NAD83,"Survey, 1m",Yolo
+1099,11N03E34N505M,Yolo Bypass Hydrogeologic Study Well 2A1 scr: 20-25 bgs,YBHC-2A1,Groundwater,38.74886761,-121.6348567,NAD83,"Survey, 1m",Yolo
+1100,11N03E34N504M,Yolo Bypass Hydrogeologic Study Well 2A2 scr: 45-50 bgs,YBHC-2A2,Groundwater,38.74886151,-121.6348561,NAD83,"Survey, 1m",Yolo
+1101,11N03E34N503M,Yolo Bypass Hydrogeologic Study Well 2B1 scr: 20-30 bgs,YBHC-2B1,Groundwater,38.74854175,-121.633923,NAD83,"Survey, 1m",Yolo
+1102,11N03E34N500M,Yolo Bypass Hydrogeologic Study Well 2B2 scr: 45-55 bgs,YBHC-2B2,Groundwater,38.74854334,-121.6339328,NAD83,"Survey, 1m",Yolo
+1103,11N03E34N501M,Yolo Bypass Hydrogeologic Study Well 2C1 scr: 24-34 bgs,YBHC-2C1,Groundwater,38.74853201,-121.6334908,NAD83,"Survey, 1m",Yolo
+1104,11N03E34N502M,Yolo Bypass Hydrogeologic Study Well 2C2 scr: 45-55 bgs,YBHC-2C2,Groundwater,38.74853186,-121.6335054,NAD83,"Survey, 1m",Yolo
+1105,10N03E10J500M,Yolo Bypass Hydrogeologic Study Well 3A1 scr: 20-25 bgs,YBHC-3A1,Groundwater,38.73330602,-121.6338005,NAD83,"Survey, 1m",Yolo
+1106,10N03E10J501M,Yolo Bypass Hydrogeologic Study Well 3A2 scr: 55-60 bgs,YBHC-3A2,Groundwater,38.73330014,-121.6338001,NAD83,"Survey, 1m",Yolo
+1107,10N03E10R501M,Yolo Bypass Hydrogeologic Study Well 3B1 scr: 15-25 bgs,YBHC-3B1,Groundwater,38.73203943,-121.6329094,NAD83,"Survey, 1m",Yolo
+1108,10N03E10R500M,Yolo Bypass Hydrogeologic Study Well 3B2 scr: 35-45 bgs,YBHC-3B2,Groundwater,38.73204742,-121.6329095,NAD83,"Survey, 1m",Yolo
+1109,10N03E11N500M,Yolo Bypass Hydrogeologic Study Well 3C1 scr: 15-25 bgs,YBHC-3C1,Groundwater,38.73219789,-121.6298512,NAD83,"Survey, 1m",Yolo
+1110,10N03E11N501M,Yolo Bypass Hydrogeologic Study Well 3C2 scr: 40-50 bgs,YBHC-3C2,Groundwater,38.73221058,-121.6298509,NAD83,"Survey, 1m",Yolo
+1111,10N03E15J502M,Yolo Bypass Hydrogeologic Study Well 4A1 scr: 20-25 bgs,YBHC-4A1,Groundwater,38.7201817,-121.6349733,NAD83,"Survey, 1m",Yolo
+1112,10N03E15J503M,Yolo Bypass Hydrogeologic Study Well 4A2 scr: 45-50 bgs,YBHC-4A2,Groundwater,38.72017619,-121.6349744,NAD83,"Survey, 1m",Yolo
+1113,10N03E15J500M,Yolo Bypass Hydrogeologic Study Well 4B1 scr: 20-30 bgs,YBHC-4B1,Groundwater,38.71834519,-121.6337205,NAD83,"Survey, 1m",Yolo
+1114,10N03E15J501M,Yolo Bypass Hydrogeologic Study Well 4B2 scr: 40-50 bgs,YBHC-4B2,Groundwater,38.71835409,-121.6337212,NAD83,"Survey, 1m",Yolo
+1115,10N03E15R500M,Yolo Bypass Hydrogeologic Study Well 4C1 scr: 20-30 bgs,YBHC-4C1,Groundwater,38.71716281,-121.6323258,NAD83,"Survey, 1m",Yolo
+1116,10N03E15R501M,Yolo Bypass Hydrogeologic Study Well 4C2 scr: 40-50 bgs,YBHC-4C2,Groundwater,38.71716861,-121.6323345,NAD83,"Survey, 1m",Yolo
+1117,10N03E22K501M,Yolo Bypass Hydrogeologic Study Well 5_2 scr: 55-60 bgs,YBHC-5_2,Groundwater,38.70613554,-121.6386586,NAD83,"Survey, 1m",Yolo
+1118,10N03E34C501M,Yolo Bypass Hydrogeologic Study Well 6A1 scr: 25-30 bgs,YBHC-6A1,Groundwater,38.68372016,-121.6439708,NAD83,"Survey, 1m",Yolo
+1119,10N03E34C500M,Yolo Bypass Hydrogeologic Study Well 6A2 scr: 55-60 bgs,YBHC-6A2,Groundwater,38.68371466,-121.6439701,NAD83,"Survey, 1m",Yolo
+1120,10N03E34C502M,Yolo Bypass Hydrogeologic Study Well 6B1 scr: 25-30 bgs,YBHC-6B1,Groundwater,38.68382647,-121.6425595,NAD83,"Survey, 1m",Yolo
+1121,10N03E34C503M,Yolo Bypass Hydrogeologic Study Well 6B2 scr: 55-60 bgs,YBHC-6B2,Groundwater,38.68382645,-121.6425522,NAD83,"Survey, 1m",Yolo
+1122,10N03E23D500M,Yolo Bypass Hydrogeologic Study Well 7_1 scr: 25-30 bgs,YBHC-7_1,Groundwater,38.71108823,-121.6293291,NAD83,"Survey, 1m",Yolo
+1123,10N03E23D501M,Yolo Bypass Hydrogeologic Study Well 7_2 scr: 50-55 bgs,YBHC-7_2,Groundwater,38.7110786,-121.6293204,NAD83,"Survey, 1m",Yolo
+1124,10N03E23E501M,Yolo Bypass Hydrogeologic Study Well 8_1 scr: 30-35 bgs,YBHC-8_1,Groundwater,38.707249,-121.6312525,NAD83,"Survey, 1m",Yolo
+1125,10N03E23E500M,Yolo Bypass Hydrogeologic Study Well 8_2 scr: 57-62 bgs,YBHC-8_2,Groundwater,38.70725155,-121.6312605,NAD83,"Survey, 1m",Yolo
+1126,11N03E34N506M,Yolo Bypass Hydrogeologic Study Well L1 scr: 125-135 bg,YBHC-L1,Groundwater,38.75067825,-121.6345697,NAD83,"Survey, 1m",Yolo
+1127,B91560,Yolo Bypass near Lisbon Weir,Yolo Bypass @ Lisbon,Surface Water,38.4747608,-121.5885961,NAD83,"Survey, 1m",Yolo
+1128,B9156000,Yolo Bypass near Lisbon Weir,Yolo Bypass @ Lisbon,Surface Water,38.4747608,-121.5885961,NAD83,"Survey, 1m",Yolo
+1129,B91560Q,Yolo Bypass near Lisbon Weir,Yolo Bypass @ Lisbon,Tide Station,38.4747608,-121.5885961,NAD83,"Survey, 1m",Yolo
+1130,B91555Q,Yolo Bypass Tidal Wetland,Yolo Bypass Wetland,Tide Station,38.44884167,-121.5999917,WGS84,"GPS, 10m",Yolo
+1131,B9155500,Yolo Bypass Tidal Wetland,Yolo Bypass Wetland,Water Quality,38.4486,-121.59972,WGS84,Unknown,Yolo
+1132,A01600,Yolo Bypass Tule Pond @ Fremont Weir,YBT,Surface Water,38.750075,-121.635479,WGS84,Unknown,Yolo
+1133,16N03E36M001M,Yuba County Water Agency Well 1 screen 140-160 ft bgs,YCWA-01,Groundwater,39.1975,-121.594,NAD83,"GPS, 10m",Yuba
+1134,13N04E07L001M,Yuba County Water Agency Well 12 screen 155-175 ft bgs,YCWA-12,Groundwater,38.9868,-121.5739,NAD83,"GPS, 10m",Yuba
+1135,A06110,"Yuba River above Highway 70, at Marysville",YubaR. abv Hwy 70,Surface Water,39.135833,-121.5833333,NAD83,Unknown,Sutter
+1136,A6101050,Yuba River at Mouth,Yuba R A MO,Water Quality,39.1286,-121.59735,NAD83,Unknown,Yuba
+1137,15N04E04R002M,Yuba River Well 1A shallow screen 70-80 ft bgs,YR-1A shallow,Groundwater,39.17588,-121.524015,NAD83,"Survey, 1m",Yuba
+1138,15N04E04R003M,Yuba River Well 1B middle-shallow screen 250-260 ft bgs,YR-1B middle-shallow,Groundwater,39.17588,-121.524015,NAD83,"Survey, 1m",Yuba
+1139,15N04E04R004M,Yuba River Well 1C middle-deep screen 430-450 ft bgs,YR-1C middle-deep,Groundwater,39.17588,-121.524015,NAD83,"Survey, 1m",Yuba
+1140,15N04E04R005M,Yuba River Well 1D deep screen 600-620 ft bgs,YR-1D deep,Groundwater,39.17588,-121.524015,NAD83,"Survey, 1m",Yuba
+1141,15N04E04R006M,Yuba River Well 2 screen 20-40 ft bgs,YR-2,Groundwater,39.175737,-121.524076,NAD83,"Survey, 1m",Yuba
+1142,11N01E24Q503M,Zamora (Replacement) Subsidence Well deep,ZAM(R) P1 deep,Groundwater,38.779435,-121.812369,NAD83,"Survey, 1m",Yolo
+1143,11N01E24Q502M,Zamora (Replacement) Subsidence well middle-deep,ZAM(R) P2 mid-deep,Groundwater,38.779435,-121.812369,NAD83,"Survey, 1m",Yolo
+1144,11N01E24Q501M,Zamora (Replacement) Subsidence well middle-shallow,ZAM(R) P3 mid-shall,Groundwater,38.779435,-121.812369,NAD83,"Survey, 1m",Yolo
+1145,11N01E24Q500M,Zamora (Replacement) Subsidence well shallow,ZAM(R) P4 shallow,Groundwater,38.779435,-121.812369,NAD83,"Survey, 1m",Yolo
+1146,11N01E24Q008M,Zamora Land Subsidence Extensometer depth 1000 ft bgs,ZAM Ext,Groundwater,38.779855,-121.812422,NAD83,"Survey, 1m",Yolo
+1147,11N01E24Q004M,Zamora Subsidence Well deep screen 784-789 ft bgs,ZAM P1 deep,Groundwater,38.779387,-121.812395,NAD83,"Survey, 1m",Yolo
+1148,11N01E24Q005M,Zamora Subsidence Well mid-deep screen 583-588 ft bgs,ZAM P2 middle-deep,Groundwater,38.779387,-121.812395,NAD83,"Survey, 1m",Yolo
+1149,11N01E24Q006M,Zamora Subsidence Well mid-shall screen 382-387 ft bgs,ZAM P3 mid-shallow,Groundwater,38.779387,-121.812395,NAD83,"Survey, 1m",Yolo
+1150,11N01E24Q007M,Zamora Subsidence Well shallow screen 180-200 ft bgs,ZAM P4 shallow,Groundwater,38.779387,-121.812395,NAD83,"Survey, 1m",Yolo
