@@ -50,10 +50,10 @@ h)Next, if you click on a marker , it will bring up a pop up with the type of st
 
 Clustering Analysis
 •Implements KMeans algorithm to analyze geographical coordinates of monitoring stations
-•Uncovers clustering patterns among the stations
-•Complemented by a bar chart created with Matplotlib
-•Illustrates the number of stations per county
-•Highlights areas with varying station densities
+•Uncovers clustering patterns among the stations by station type. 
+•Assigns higher k values to station types with higher dispersion.
+•Centroid locations inform government investment decisions, ie. stations furthest from centroids recieve less network support and are likely to require greater investment amounts in return for lower payoffs. 
+
 
 
 
